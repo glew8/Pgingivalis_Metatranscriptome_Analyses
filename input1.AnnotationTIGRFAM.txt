@@ -1,0 +1,1501 @@
+Name	Meta	main_role	sub_role	Function	locus_tag
+B0490_RS06400	Cell structure	Cell envelope	Biosynthesis and degradation of murein sacculus and peptidoglycan	peptidoglycan DD-metalloendopeptidase family protein	PgPan_0142
+CS059_RS08455	Cell structure	Cell envelope	Biosynthesis and degradation of murein sacculus and peptidoglycan	N-acetylmuramoyl-L-alanine amidase	PgPan_0208
+CF001_RS16445	Cell structure	Cell envelope	Biosynthesis and degradation of murein sacculus and peptidoglycan	UDP-glucose/GDP-mannose dehydrogenase family protein	PgPan_0243
+murF	Cell structure	Cell envelope	Biosynthesis and degradation of murein sacculus and peptidoglycan	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D- alanine ligase	PgPan_0272
+murQ	Cell structure	Cell envelope	Biosynthesis and degradation of murein sacculus and peptidoglycan	N-acetylmuramic acid 6-phosphate etherase	PgPan_0279
+AT291_RS03005	Cell structure	Cell envelope	Biosynthesis and degradation of murein sacculus and peptidoglycan	bifunctional UDP-N-acetylmuramoyl-tripeptide:D-alanyl-D-alanine ligase/alanine racemase	PgPan_0281
+murA	Cell structure	Cell envelope	Biosynthesis and degradation of murein sacculus and peptidoglycan	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	PgPan_0394
+murB	Cell structure	Cell envelope	Biosynthesis and degradation of murein sacculus and peptidoglycan	UDP-N-acetylmuramate dehydrogenase	PgPan_0415
+CF003_RS15385	Cell structure	Cell envelope	Biosynthesis and degradation of murein sacculus and peptidoglycan	glucosamine-6-phosphate deaminase	PgPan_0465
+CF003_RS15420	Cell structure	Cell envelope	Biosynthesis and degradation of murein sacculus and peptidoglycan	nucleotide sugar dehydrogenase	PgPan_0472
+SJDPG2_RS05395	Cell structure	Cell envelope	Biosynthesis and degradation of murein sacculus and peptidoglycan	transporter substrate-binding domain-containing protein	PgPan_0511
+CF002_RS09945	Cell structure	Cell envelope	Biosynthesis and degradation of murein sacculus and peptidoglycan	N-acetylmuramoyl-L-alanine amidase	PgPan_0665
+CLI74_RS05605	Cell structure	Cell envelope	Biosynthesis and degradation of murein sacculus and peptidoglycan	glycosyltransferase family 2 protein	PgPan_0760
+SJDPG2_RS08405	Cell structure	Cell envelope	Biosynthesis and degradation of murein sacculus and peptidoglycan	mannose-1-phosphate guanylyltransferase	PgPan_0768
+PGA7_RS09830	Cell structure	Cell envelope	Biosynthesis and degradation of murein sacculus and peptidoglycan	peptidoglycan DD-metalloendopeptidase family protein	PgPan_0786
+CS548_RS03245	Cell structure	Cell envelope	Biosynthesis and degradation of murein sacculus and peptidoglycan	phosphatase PAP2 family protein	PgPan_0865
+CS543_RS10005	Cell structure	Cell envelope	Biosynthesis and degradation of murein sacculus and peptidoglycan	M15 family metallopeptidase	PgPan_0937
+CS059_RS06000	Cell structure	Cell envelope	Biosynthesis and degradation of murein sacculus and peptidoglycan	glycosyltransferase family 2 protein	PgPan_1005
+CS059_RS05390	Cell structure	Cell envelope	Biosynthesis and degradation of murein sacculus and peptidoglycan	lytic transglycosylase domain-containing protein	PgPan_1116
+CS387_RS07825	Cell structure	Cell envelope	Biosynthesis and degradation of murein sacculus and peptidoglycan	family 20 glycosylhydrolase	PgPan_1264
+AT291_RS04780	Cell structure	Cell envelope	Biosynthesis and degradation of murein sacculus and peptidoglycan	LysM peptidoglycan-binding domain-containing protein	PgPan_1292
+CBG53_RS07945	Cell structure	Cell envelope	Biosynthesis and degradation of murein sacculus and peptidoglycan	undecaprenyl/decaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase	PgPan_1314
+wecC	Cell structure	Cell envelope	Biosynthesis and degradation of murein sacculus and peptidoglycan	UDP-N-acetyl-D-mannosamine dehydrogenase	PgPan_1315
+CF001_RS13880	Cell structure	Cell envelope	Biosynthesis and degradation of murein sacculus and peptidoglycan	D-alanine--D-alanine ligase	PgPan_1349
+murI	Cell structure	Cell envelope	Biosynthesis and degradation of murein sacculus and peptidoglycan	glutamate racemase	PgPan_1368
+CS387_RS04195	Cell structure	Cell envelope	Biosynthesis and degradation of murein sacculus and peptidoglycan	UDP-N-acetylmuramate--L-alanine ligase	PgPan_1526
+murG	Cell structure	Cell envelope	Biosynthesis and degradation of murein sacculus and peptidoglycan	undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase	PgPan_1527
+murD	Cell structure	Cell envelope	Biosynthesis and degradation of murein sacculus and peptidoglycan	UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase	PgPan_1529
+CS546_RS02215	Cell structure	Cell envelope	Biosynthesis and degradation of murein sacculus and peptidoglycan	phospho-N-acetylmuramoyl-pentapeptide- transferase	PgPan_1530
+SJDPG2_RS04155	Cell structure	Cell envelope	Biosynthesis and degradation of murein sacculus and peptidoglycan	"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2, 6-diaminopimelate ligase"	PgPan_1531
+CF002_RS08735	Cell structure	Cell envelope	Biosynthesis and degradation of murein sacculus and peptidoglycan	N-acetylmuramidase	PgPan_1701
+CF001_RS18345	Cell structure	Cell envelope	Biosynthesis and degradation of murein sacculus and peptidoglycan	transporter substrate-binding domain-containing protein	PgPan_1765
+mrdA	Cell structure	Cell envelope	Biosynthesis and degradation of murein sacculus and peptidoglycan	penicillin-binding protein 2	PgPan_1868
+mreD	Cell structure	Cell envelope	Biosynthesis and degradation of murein sacculus and peptidoglycan	rod shape-determining protein MreD	PgPan_1869
+PGS_RS04050	Cell structure	Cell envelope	Biosynthesis and degradation of murein sacculus and peptidoglycan	rod shape-determining protein	PgPan_1871
+uppP	Cell structure	Cell envelope	Biosynthesis and degradation of murein sacculus and peptidoglycan	undecaprenyl-diphosphate phosphatase	PgPan_1893
+CS388_RS04470	Cell structure	Cell envelope	Biosynthesis and degradation of murein sacculus and peptidoglycan	polysaccharide deacetylase family protein	PgPan_1920
+PGF_RS04965	Cell structure	Cell envelope	Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	alpha-mannosidase	PgPan_0096
+AT291_RS03840	Cell structure	Cell envelope	Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	alpha-mannosidase	PgPan_0155
+PGA7_RS04400	Cell structure	Cell envelope	Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	sulfatase-like hydrolase/transferase	PgPan_0201
+CS374_RS00030	Cell structure	Cell envelope	Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	sugar transferase	PgPan_0251
+B0492_RS00375	Cell structure	Cell envelope	Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	outer membrane lipoprotein-sorting protein	PgPan_0321
+CLI74_RS02810	Cell structure	Cell envelope	Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	sugar transferase	PgPan_0344
+kdsB	Cell structure	Cell envelope	Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	3-deoxy-manno-octulosonate cytidylyltransferase	PgPan_0359
+CS059_RS09805	Cell structure	Cell envelope	Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	lipid A deacylase	PgPan_0422
+CS388_RS01695	Cell structure	Cell envelope	Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	CapA family protein	PgPan_0443
+gmd	Cell structure	Cell envelope	Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	"GDP-mannose 4,6-dehydratase"	PgPan_0463
+CS059_RS04730	Cell structure	Cell envelope	Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	Gfo/Idh/MocA family oxidoreductase	PgPan_0734
+CS544_RS05875	Cell structure	Cell envelope	Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	lysophospholipid acyltransferase family protein	PgPan_0761
+lpxB	Cell structure	Cell envelope	Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	lipid-A-disaccharide synthase	PgPan_0811
+rfbB	Cell structure	Cell envelope	Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	"dTDP-glucose 4,6-dehydratase"	PgPan_0835
+rfbD	Cell structure	Cell envelope	Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	dTDP-4-dehydrorhamnose reductase	PgPan_0836
+rfbC	Cell structure	Cell envelope	Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	"dTDP-4-dehydrorhamnose 3,5-epimerase"	PgPan_0837
+rfbA	Cell structure	Cell envelope	Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	glucose-1-phosphate thymidylyltransferase RfbA	PgPan_0838
+B0490_RS00425	Cell structure	Cell envelope	Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	alkaline phosphatase family protein	PgPan_0839
+CBG53_RS03550	Cell structure	Cell envelope	Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	3-deoxy-D-manno-octulosonic acid transferase	PgPan_0840
+cls	Cell structure	Cell envelope	Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	cardiolipin synthase	PgPan_0942
+CS546_RS07525	Cell structure	Cell envelope	Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	alpha-mannosidase	PgPan_0967
+CS550_RS07670	Cell structure	Cell envelope	Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	alpha-mannosidase	PgPan_0968
+kdsA	Cell structure	Cell envelope	Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	3-deoxy-8-phosphooctulonate synthase	PgPan_0994
+CS387_RS08880	Cell structure	Cell envelope	Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	isoprenyl transferase	PgPan_1069
+CS550_RS08455	Cell structure	Cell envelope	Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	lipopolysaccharide biosynthesis protein	PgPan_1122
+B0490_RS08605	Cell structure	Cell envelope	Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	glycosyltransferase family 4 protein	PgPan_1126
+CS388_RS04955	Cell structure	Cell envelope	Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	N-acetyltransferase	PgPan_1232
+CF002_RS10055	Cell structure	Cell envelope	Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	hypothetical protein	PgPan_1274
+lpxA	Cell structure	Cell envelope	Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	acyl-ACP--UDP-N-acetylglucosamine O-acyltransferase	PgPan_1286
+lpxD	Cell structure	Cell envelope	Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase	PgPan_1288
+EG14_RS01850	Cell structure	Cell envelope	Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	SIS domain-containing protein	PgPan_1300
+wecB	Cell structure	Cell envelope	Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	UDP-N-acetylglucosamine 2-epimerase (non-hydrolyzing)	PgPan_1326
+CF003_RS14230	Cell structure	Cell envelope	Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	glycosyltransferase	PgPan_1332
+PGS_RS06015	Cell structure	Cell envelope	Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	HAD-IIIA family hydrolase	PgPan_1459
+lpxK	Cell structure	Cell envelope	Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	tetraacyldisaccharide 4-kinase	PgPan_1478
+lptB	Cell structure	Cell envelope	Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	LPS export ABC transporter ATP-binding protein	PgPan_1488
+CF001_RS18945	Cell structure	Cell envelope	Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	"UDP-2,3-diacylglucosamine diphosphatase"	PgPan_1654
+CS374_RS06775	Cell structure	Cell envelope	Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	glycosyltransferase family 2 protein	PgPan_1740
+CF003_RS12695	Cell structure	Cell envelope	Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	OstA-like protein	PgPan_1805
+lptC	Cell structure	Cell envelope	Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	LPS export ABC transporter periplasmic protein LptC	PgPan_1843
+PGS_RS02640	Cell structure	Cell envelope	Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	LPS-assembly protein LptD	PgPan_1878
+PGF_RS04895	Cell structure	Cell envelope	Surface structures	ABC transporter permease	PgPan_0113
+CS550_RS05620	Cell structure	Cell envelope	Surface structures	FtsX-like permease family protein	PgPan_0489
+CF003_RS18695	Cell structure	Cell envelope	Surface structures	ABC transporter ATP-binding protein	PgPan_0905
+bcp	Cellular processes2	Cellular processes	Adaptations to atypical conditions	thioredoxin-dependent thiol peroxidase	PgPan_0079
+mscL	Cellular processes2	Cellular processes	Adaptations to atypical conditions	large-conductance mechanosensitive channel protein MscL	PgPan_0426
+CF002_RS03815	Cellular processes2	Cellular processes	Adaptations to atypical conditions	ferritin	PgPan_0464
+surE	Cellular processes2	Cellular processes	Adaptations to atypical conditions	5/3-nucleotidase SurE	PgPan_0810
+AT291_RS00950	Cellular processes2	Cellular processes	Adaptations to atypical conditions	VWA domain-containing protein	PgPan_0860
+PGA7_RS01930	Cellular processes2	Cellular processes	Adaptations to atypical conditions	VWA domain-containing protein	PgPan_0861
+CF002_RS06340	Cellular processes2	Cellular processes	Adaptations to atypical conditions	tetratricopeptide repeat protein	PgPan_0862
+CF001_RS12685	Cellular processes2	Cellular processes	Adaptations to atypical conditions	protein BatD	PgPan_0863
+PGS_RS02430	Cellular processes2	Cellular processes	Adaptations to atypical conditions	tetratricopeptide repeat protein	PgPan_0864
+tpx	Cellular processes2	Cellular processes	Adaptations to atypical conditions	thiol peroxidase	PgPan_0983
+CLI74_RS04725	Cellular processes2	Cellular processes	Adaptations to atypical conditions	exopolyphosphatase	PgPan_0992
+B0493_RS00500	Cellular processes2	Cellular processes	Adaptations to atypical conditions	universal stress protein	PgPan_1018
+PGA7_RS05900	Cellular processes2	Cellular processes	Adaptations to atypical conditions	META domain-containing protein	PgPan_1367
+EG14_RS00140	Cellular processes2	Cellular processes	Adaptations to atypical conditions	"bifunctional (p)ppGpp synthetase/guanosine-3,5-bis(diphosphate) 3-pyrophosphohydrolase"	PgPan_1624
+CS546_RS02985	Cellular processes2	Cellular processes	Adaptations to atypical conditions	DUF2807 domain-containing protein	PgPan_1811
+CF003_RS20150	Cellular processes2	Cellular processes	Biosynthesis of natural products	polyprenyl synthetase family protein	PgPan_0575
+CS388_RS02325	Cellular processes2	Cellular processes	Biosynthesis of natural products	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	PgPan_1897
+CS543_RS08400	Cellular processes2	Cellular processes	Cell division	Mrp/NBP35 family ATP-binding protein	PgPan_0145
+CBG53_RS05780	Cellular processes2	Cellular processes	Cell division	ATP-binding cassette domain-containing protein	PgPan_0787
+CS545_RS08680	Cellular processes2	Cellular processes	Cell division	septum formation initiator	PgPan_0894
+CS548_RS03055	Cellular processes2	Cellular processes	Cell division	DNA translocase FtsK	PgPan_0960
+AT291_RS06285	Cellular processes2	Cellular processes	Cell division	tyrosine recombinase XerD	PgPan_0986
+hflB	Cellular processes2	Cellular processes	Cell division	ATP-dependent metallopeptidase FtsH/Yme1/Tma family protein	PgPan_1268
+maf	Cellular processes2	Cellular processes	Cell division	septum formation protein Maf	PgPan_1460
+ftsZ	Cellular processes2	Cellular processes	Cell division	cell division protein FtsZ	PgPan_1523
+PGJ_RS06130	Cellular processes2	Cellular processes	Cell division	cell division protein FtsA	PgPan_1524
+AT291_RS04590	Cellular processes2	Cellular processes	Cell division	hypothetical protein	PgPan_1525
+PGA7_RS06440	Cellular processes2	Cellular processes	Cell division	FtsW/RodA/SpoVE family cell cycle protein	PgPan_1528
+CF002_RS01585	Cellular processes2	Cellular processes	Cell division	transpeptidase family protein	PgPan_1532
+zapA	Cellular processes2	Cellular processes	Cell division	cell division protein ZapA	PgPan_1798
+CS545_RS07640	Cellular processes2	Cellular processes	Cell division	FtsW/RodA/SpoVE family cell cycle protein	PgPan_1867
+mreC	Cellular processes2	Cellular processes	Cell division	rod shape-determining protein MreC	PgPan_1870
+CF003_RS17970	Cellular processes2	Cellular processes	Cell division	FtsX-like permease family protein	PgPan_1895
+AT291_RS09470	Cellular processes2	Cellular processes	Chemotaxis and motility	gliding motility-associated C-terminal domain-containing protein	PgPan_0197
+gldE	Cellular processes2	Cellular processes	Chemotaxis and motility	gliding motility-associated protein GldE	PgPan_0999
+gldH	Cellular processes2	Cellular processes	Chemotaxis and motility	gliding motility lipoprotein GldH	PgPan_1795
+hcp	Cellular processes2	Cellular processes	Detoxification	hydroxylamine reductase	PgPan_0088
+B0490_RS09585	Cellular processes2	Cellular processes	Detoxification	MATE family efflux transporter	PgPan_0268
+CS059_RS04005	Cellular processes2	Cellular processes	Detoxification	alpha-2-macroglobulin	PgPan_0777
+CLI74_RS05975	Cellular processes2	Cellular processes	Detoxification	rhodanese-like domain-containing protein	PgPan_0842
+CF001_RS12080	Cellular processes2	Cellular processes	Detoxification	rhodanese-like domain-containing protein	PgPan_0969
+PGJ_RS08440	Cellular processes2	Cellular processes	Detoxification	metal ABC transporter permease	PgPan_1219
+CF003_RS11060	Cellular processes2	Cellular processes	Detoxification	TolC family protein	PgPan_1281
+CS549_RS04515	Cellular processes2	Cellular processes	Detoxification	efflux RND transporter permease subunit	PgPan_1282
+CS388_RS05390	Cellular processes2	Cellular processes	Detoxification	efflux RND transporter periplasmic adaptor subunit	PgPan_1283
+ahpF	Cellular processes2	Cellular processes	Detoxification	alkyl hydroperoxide reductase subunit F	PgPan_1497
+ahpC	Cellular processes2	Cellular processes	Detoxification	peroxiredoxin	PgPan_1498
+B0490_RS06750	Cellular processes2	Cellular processes	Detoxification	efflux RND transporter permease subunit	PgPan_1555
+CS544_RS09075	Cellular processes2	Cellular processes	Detoxification	efflux RND transporter periplasmic adaptor subunit	PgPan_1556
+CS059_RS00965	Cellular processes2	Cellular processes	Detoxification	TolC family protein	PgPan_1557
+CS544_RS07905	Cellular processes2	Cellular processes	Detoxification	TolC family protein	PgPan_1692
+CF003_RS14770	Cellular processes2	Cellular processes	Detoxification	cation transporter	PgPan_1880
+CS550_RS06870	Cellular processes2	Cellular processes	Detoxification	superoxide dismutase	PgPan_1886
+B0492_RS06425	Cellular processes2	Cellular processes	DNA transformation	helix-hairpin-helix domain-containing protein	PgPan_0906
+SJDPG2_RS05770	Cellular processes2	Cellular processes	DNA transformation	ComF family protein	PgPan_1097
+dprA	Cellular processes2	Cellular processes	DNA transformation	DNA-protecting protein DprA	PgPan_1704
+PGS_RS02235	Cellular processes2	Cellular processes	Other1	heavy-metal-associated domain-containing protein	PgPan_0965
+CS059_RS06110	Cellular processes2	Cellular processes	Other1	O-methyltransferase	PgPan_0984
+CS549_RS03475	Cellular processes2	Cellular processes	Other1	RidA family protein	PgPan_1134
+B0492_RS02035	Cellular processes2	Cellular processes	Other1	copper homeostasis protein CutC	PgPan_1357
+CLI74_RS07295	Cellular processes2	Cellular processes	Other1	S-ribosylhomocysteine lyase	PgPan_1605
+CS548_RS07590	Cellular processes2	Cellular processes	Toxin production and resistance	transglycosylase	PgPan_0036
+CS544_RS05600	Cellular processes2	Cellular processes	Toxin production and resistance	BlaI/MecI/CopY family transcriptional regulator	PgPan_0791
+SJDPG2_RS06645	Cellular processes2	Cellular processes	Toxin production and resistance	MarC family protein	PgPan_1038
+B0492_RS09455	Cellular processes2	Cellular processes	Toxin production and resistance	4-hydroxy-3-methylbut-2-enyl diphosphate reductase	PgPan_1507
+CLI74_RS04610	Cellular processes2	Cellular processes	Toxin production and resistance	peptidylarginine deiminase PPAD	PgPan_1904
+B0493_RS06100	Genetic information processing	DNA metabolism	Chromosome-associated proteins	DNA-binding protein	PgPan_0122
+HMPREF1555_RS03665	Genetic information processing	DNA metabolism	Chromosome-associated proteins	DNA-binding protein	PgPan_0347
+CF003_RS15425	Genetic information processing	DNA metabolism	Chromosome-associated proteins	histidinol-phosphate aminotransferase	PgPan_0473
+SJDPG2_RS08580	Genetic information processing	DNA metabolism	Chromosome-associated proteins	integration host factor subunit beta	PgPan_0484
+CS544_RS04775	Genetic information processing	DNA metabolism	Chromosome-associated proteins	ParA family protein	PgPan_1113
+CS543_RS11165	Genetic information processing	DNA metabolism	Chromosome-associated proteins	HU family DNA-binding protein	PgPan_1133
+CS548_RS08665	Genetic information processing	DNA metabolism	Chromosome-associated proteins	DNA-binding protein	PgPan_1539
+PGF_RS06865	Genetic information processing	DNA metabolism	Chromosome-associated proteins	histidinol phosphate phosphatase	PgPan_1545
+CS543_RS03210	Genetic information processing	DNA metabolism	Chromosome-associated proteins	DUF4496 domain-containing protein	PgPan_1737
+B0490_RS06830	Genetic information processing	DNA metabolism	Chromosome-associated proteins	histidinol-phosphate aminotransferase	PgPan_1865
+B0490_RS09535	Genetic information processing	DNA metabolism	Degradation of DNA	exodeoxyribonuclease VII large subunit	PgPan_0258
+CS388_RS01375	Genetic information processing	DNA metabolism	Degradation of DNA	endonuclease	PgPan_1506
+xseB	Genetic information processing	DNA metabolism	Degradation of DNA	exodeoxyribonuclease VII small subunit	PgPan_1898
+ruvA	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	Holliday junction branch migration protein RuvA	PgPan_0048
+recA	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	recombinase RecA	PgPan_0080
+CS550_RS04085	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	DNA-deoxyinosine glycosylase	PgPan_0103
+holB	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	DNA polymerase III subunit delta	PgPan_0123
+holA	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	DNA polymerase III subunit delta	PgPan_0135
+uvrA	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	excinuclease ABC subunit UvrA	PgPan_0198
+CS059_RS08405	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	UvrD-helicase domain-containing protein	PgPan_0200
+PGJ_RS03540	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	DNA mismatch repair protein MutS	PgPan_0304
+uvrC	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	excinuclease ABC subunit UvrC	PgPan_0328
+dnaG	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	DNA primase	PgPan_0358
+CF002_RS08815	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	RecQ family ATP-dependent DNA helicase	PgPan_0370
+mutY	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	A/G-specific adenine glycosylase	PgPan_0386
+CS544_RS10425	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	Y-family DNA polymerase	PgPan_0418
+umuD	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	translesion error-prone DNA polymerase V autoproteolytic subunit	PgPan_0419
+ruvC	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	crossover junction endodeoxyribonuclease RuvC	PgPan_0432
+recR	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	recombination protein RecR	PgPan_0486
+ligA	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	NAD-dependent DNA ligase LigA	PgPan_0488
+CS549_RS07085	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	DNA alkylation repair protein	PgPan_0493
+dnaB	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	replicative DNA helicase	PgPan_0497
+CF002_RS04145	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	ribonuclease H	PgPan_0520
+CS388_RS05705	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	DNA repair protein RecO	PgPan_0584
+priA	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	primosomal protein N	PgPan_0659
+CLI74_RS06705	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	AAA family ATPase	PgPan_0674
+group_3661	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	excinuclease ABC subunit UvrA	PgPan_0771
+CS387_RS09985	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	non-canonical purine NTP diphosphatase	PgPan_0879
+gyrB	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	DNA topoisomerase (ATP-hydrolyzing) subunit B	PgPan_0899
+CS388_RS02850	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	DNA gyrase/topoisomerase IV subunit A	PgPan_0949
+B0493_RS01820	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	CinA family protein	PgPan_0979
+ssb	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	single-stranded DNA-binding protein	PgPan_1000
+xth	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	exodeoxyribonuclease III	PgPan_1002
+ung	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	uracil-DNA glycosylase	PgPan_1023
+radA	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	DNA repair protein RadA	PgPan_1036
+PGS_RS01485	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	3-5 exonuclease	PgPan_1039
+EG14_RS04590	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	hydrolase TatD	PgPan_1062
+B0490_RS08405	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	3-5 exonuclease	PgPan_1086
+CLI74_RS06015	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	RecX family transcriptional regulator	PgPan_1098
+CS387_RS08675	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	ParB/RepB/Spo0J family partition protein	PgPan_1114
+recN	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	DNA repair protein RecN	PgPan_1136
+CLI74_RS09015	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	3-5 exonuclease	PgPan_1139
+dnaN	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	DNA polymerase III subunit beta	PgPan_1140
+EG14_RS00335	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	YraN family protein	PgPan_1154
+dnaA	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	chromosomal replication initiator protein DnaA	PgPan_1231
+rmuC	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	DNA recombination protein RmuC	PgPan_1258
+dnaE	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	DNA polymerase III subunit alpha	PgPan_1260
+recJ	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	single-stranded-DNA-specific exonuclease RecJ	PgPan_1272
+CS544_RS06285	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	AAA family ATPase	PgPan_1280
+mutS	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	DNA mismatch repair protein MutS	PgPan_1307
+topB	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	DNA topoisomerase III	PgPan_1312
+topA	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	type I DNA topoisomerase	PgPan_1327
+CS059_RS00055	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	ribonuclease HII	PgPan_1341
+CF001_RS17630	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	PD-(D/E)XK nuclease family protein	PgPan_1576
+ruvB	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	Holliday junction branch migration DNA helicase RuvB	PgPan_1611
+CS388_RS07870	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	methylated-DNA--[protein]-cysteine S-methyltransferase	PgPan_1612
+polA	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	DNA polymerase I	PgPan_1637
+mfd	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	transcription-repair coupling factor	PgPan_1658
+nth	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	endonuclease III	PgPan_1660
+recG	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	ATP-dependent DNA helicase RecG	PgPan_1751
+CS545_RS02145	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	type IIA DNA topoisomerase subunit B	PgPan_1769
+uvrB	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	excinuclease ABC subunit UvrB	PgPan_1776
+SJDPG2_RS00115	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	endonuclease MutS2	PgPan_1780
+recF	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	DNA replication and repair protein RecF	PgPan_1794
+mutL	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	DNA mismatch repair endonuclease MutL	PgPan_1803
+recQ	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	DNA helicase RecQ	PgPan_1807
+gyrA	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	DNA gyrase subunit A	PgPan_1862
+CS546_RS09020	Genetic information processing	DNA metabolism	"DNA replication, recombination, and repair"	DNA polymerase III subunit gamma/tau	PgPan_1908
+CF001_RS15170	Genetic information processing	DNA metabolism	Restriction/modification	type I restriction enzyme HsdR N-terminal domain-containing protein	PgPan_0133
+cas4	Genetic information processing	Mobile and extrachromosomal element functions	CRISPR	CRISPR-associated protein Cas4	PgPan_1929
+cas6	Genetic information processing	Mobile and extrachromosomal element functions	CRISPR	CRISPR-associated endoribonuclease Cas6	PgPan_1931
+CS548_RS07735	Genetic information processing	Mobile and extrachromosomal element functions	Transposon functions	IS5 family transposase	PgPan_0011
+CS546_RS08545	Genetic information processing	Mobile and extrachromosomal element functions	Transposon functions	IS5 family transposase	PgPan_1162
+CS549_RS10010	Genetic information processing	Mobile and extrachromosomal element functions	Transposon functions	IS982-like element IS195 family transposase	PgPan_1860
+EG14_RS02640	Genetic information processing	Mobile and extrachromosomal element functions	Transposon functions	IS5 family transposase	PgPan_1912
+EG14_RS07775	Genetic information processing	Mobile and extrachromosomal element functions	Transposon functions	IS5 family transposase	PgPan_1913
+EG14_RS07185	Genetic information processing	Mobile and extrachromosomal element functions	Transposon functions	IS5/IS1182 family transposase	PgPan_1993
+CF001_RS14305	Genetic information processing	Mobile and extrachromosomal element functions	Transposon functions	IS5 family transposase	PgPan_2240
+CLI74_RS10665	Genetic information processing	Mobile and extrachromosomal element functions	Transposon functions	IS5 family transposase	PgPan_2327
+CS388_RS00675	Genetic information processing	Protein fate	"Degradation of proteins, peptides, and glycopeptides"	M3 family metallopeptidase	PgPan_0009
+tsaB	Genetic information processing	Protein fate	"Degradation of proteins, peptides, and glycopeptides"	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB	PgPan_0020
+CS550_RS05265	Genetic information processing	Protein fate	"Degradation of proteins, peptides, and glycopeptides"	3-keto-5-aminohexanoate cleavage protein	PgPan_0308
+CS550_RS05270	Genetic information processing	Protein fate	"Degradation of proteins, peptides, and glycopeptides"	hypothetical protein	PgPan_0309
+CS387_RS00510	Genetic information processing	Protein fate	"Degradation of proteins, peptides, and glycopeptides"	S41 family peptidase	PgPan_0315
+CLI74_RS03840	Genetic information processing	Protein fate	"Degradation of proteins, peptides, and glycopeptides"	S9 family peptidase	PgPan_0399
+B0490_RS06025	Genetic information processing	Protein fate	"Degradation of proteins, peptides, and glycopeptides"	peptidase C69	PgPan_0442
+CS545_RS06225	Genetic information processing	Protein fate	"Degradation of proteins, peptides, and glycopeptides"	aminopeptidase P family protein	PgPan_0523
+CBG53_RS06105	Genetic information processing	Protein fate	"Degradation of proteins, peptides, and glycopeptides"	asparaginase	PgPan_0736
+CS545_RS08195	Genetic information processing	Protein fate	"Degradation of proteins, peptides, and glycopeptides"	C1 family peptidase	PgPan_0881
+PGS_RS01880	Genetic information processing	Protein fate	"Degradation of proteins, peptides, and glycopeptides"	gamma-glutamyl-gamma-aminobutyrate hydrolase family protein	PgPan_0900
+B0492_RS09545	Genetic information processing	Protein fate	"Degradation of proteins, peptides, and glycopeptides"	S41 family peptidase	PgPan_1025
+CS546_RS06975	Genetic information processing	Protein fate	"Degradation of proteins, peptides, and glycopeptides"	insulinase family protein	PgPan_1064
+B0490_RS08460	Genetic information processing	Protein fate	"Degradation of proteins, peptides, and glycopeptides"	M13 family metallopeptidase	PgPan_1096
+group_4123	Genetic information processing	Protein fate	"Degradation of proteins, peptides, and glycopeptides"	aminoacyl-histidine dipeptidase	PgPan_1118
+SJDPG2_RS04085	Genetic information processing	Protein fate	"Degradation of proteins, peptides, and glycopeptides"	S41 family peptidase	PgPan_1142
+CF001_RS20530	Genetic information processing	Protein fate	"Degradation of proteins, peptides, and glycopeptides"	TolC family protein	PgPan_1306
+PGJ_RS05165	Genetic information processing	Protein fate	"Degradation of proteins, peptides, and glycopeptides"	U32 family peptidase	PgPan_1329
+HMPREF1555_RS05465	Genetic information processing	Protein fate	"Degradation of proteins, peptides, and glycopeptides"	S9 family peptidase	PgPan_1353
+sppA	Genetic information processing	Protein fate	"Degradation of proteins, peptides, and glycopeptides"	signal peptide peptidase SppA	PgPan_1477
+lon	Genetic information processing	Protein fate	"Degradation of proteins, peptides, and glycopeptides"	endopeptidase La	PgPan_1496
+CF001_RS17410	Genetic information processing	Protein fate	"Degradation of proteins, peptides, and glycopeptides"	T9SS type A sorting domain-containing protein	PgPan_1546
+pepD	Genetic information processing	Protein fate	"Degradation of proteins, peptides, and glycopeptides"	aminoacyl-histidine dipeptidase	PgPan_1558
+PGJ_RS06485	Genetic information processing	Protein fate	"Degradation of proteins, peptides, and glycopeptides"	S9 family peptidase	PgPan_1588
+HMPREF1555_RS06070	Genetic information processing	Protein fate	"Degradation of proteins, peptides, and glycopeptides"	M3 family metallopeptidase	PgPan_1642
+EG14_RS00230	Genetic information processing	Protein fate	"Degradation of proteins, peptides, and glycopeptides"	aminopeptidase	PgPan_1643
+HMPREF1555_RS08595	Genetic information processing	Protein fate	"Degradation of proteins, peptides, and glycopeptides"	peptidase M49	PgPan_1724
+rseP	Genetic information processing	Protein fate	"Degradation of proteins, peptides, and glycopeptides"	RIP metalloprotease RseP	PgPan_1779
+clpP	Genetic information processing	Protein fate	"Degradation of proteins, peptides, and glycopeptides"	ATP-dependent Clp endopeptidase proteolytic subunit ClpP	PgPan_1809
+pepT	Genetic information processing	Protein fate	"Degradation of proteins, peptides, and glycopeptides"	peptidase T	PgPan_1838
+CBG53_RS03475	Genetic information processing	Protein fate	"Degradation of proteins, peptides, and glycopeptides"	T9SS type A sorting domain-containing protein	PgPan_1884
+PGJ_RS02150	Genetic information processing	Protein fate	"Degradation of proteins, peptides, and glycopeptides"	collagenase	PgPan_1889
+PGJ_RS02220	Genetic information processing	Protein fate	"Degradation of proteins, peptides, and glycopeptides"	T9SS type A sorting domain-containing protein	PgPan_1903
+SJDPG2_RS09920	Genetic information processing	Protein fate	"Degradation of proteins, peptides, and glycopeptides"	S41 family peptidase	PgPan_3225
+ffh	Genetic information processing	Protein fate	Protein and peptide secretion and trafficking	signal recognition particle protein	PgPan_0270
+bamD	Genetic information processing	Protein fate	Protein and peptide secretion and trafficking	outer membrane protein assembly factor BamD	PgPan_0518
+lepB	Genetic information processing	Protein fate	Protein and peptide secretion and trafficking	signal peptidase I	PgPan_0577
+group_4291	Genetic information processing	Protein fate	Protein and peptide secretion and trafficking	signal peptidase I	PgPan_0578
+CS543_RS00015	Genetic information processing	Protein fate	Protein and peptide secretion and trafficking	AsmA family protein	PgPan_0714
+CS549_RS07875	Genetic information processing	Protein fate	Protein and peptide secretion and trafficking	lipoprotein signal peptidase	PgPan_0874
+CS387_RS08885	Genetic information processing	Protein fate	Protein and peptide secretion and trafficking	outer membrane protein assembly factor	PgPan_1068
+ftsY	Genetic information processing	Protein fate	Protein and peptide secretion and trafficking	signal recognition particle-docking protein FtsY	PgPan_1104
+secG	Genetic information processing	Protein fate	Protein and peptide secretion and trafficking	preprotein translocase subunit SecG	PgPan_1110
+secY	Genetic information processing	Protein fate	Protein and peptide secretion and trafficking	preprotein translocase subunit SecY	PgPan_1191
+yidC	Genetic information processing	Protein fate	Protein and peptide secretion and trafficking	membrane protein insertase YidC	PgPan_1568
+secA	Genetic information processing	Protein fate	Protein and peptide secretion and trafficking	preprotein translocase subunit SecA	PgPan_1579
+yajC	Genetic information processing	Protein fate	Protein and peptide secretion and trafficking	preprotein translocase subunit YajC	PgPan_1613
+AT291_RS08345	Genetic information processing	Protein fate	Protein and peptide secretion and trafficking	protein translocase subunit SecDF	PgPan_1671
+secE	Genetic information processing	Protein fate	Protein and peptide secretion and trafficking	preprotein translocase subunit SecE	PgPan_1784
+tig	Genetic information processing	Protein fate	Protein folding and stabilization	trigger factor	PgPan_0012
+clpB	Genetic information processing	Protein fate	Protein folding and stabilization	ATP-dependent chaperone ClpB	PgPan_0267
+B0493_RS07685	Genetic information processing	Protein fate	Protein folding and stabilization	peptidylprolyl isomerase	PgPan_0439
+dnaK	Genetic information processing	Protein fate	Protein folding and stabilization	molecular chaperone DnaK	PgPan_0556
+EG14_RS02900	Genetic information processing	Protein fate	Protein folding and stabilization	FKBP-type peptidyl-prolyl cis-trans isomerase	PgPan_0809
+CS548_RS02640	Genetic information processing	Protein fate	Protein folding and stabilization	DUF255 domain-containing protein	PgPan_0897
+CS550_RS09375	Genetic information processing	Protein fate	Protein folding and stabilization	ATP-dependent Clp protease ATP-binding subunit	PgPan_1238
+htpG	Genetic information processing	Protein fate	Protein folding and stabilization	molecular chaperone HtpG	PgPan_1266
+CS059_RS00210	Genetic information processing	Protein fate	Protein folding and stabilization	FKBP-type peptidyl-prolyl cis-trans isomerase	PgPan_1363
+B0492_RS02010	Genetic information processing	Protein fate	Protein folding and stabilization	FKBP-type peptidyl-prolyl cis-trans isomerase	PgPan_1364
+CF002_RS02175	Genetic information processing	Protein fate	Protein folding and stabilization	FKBP-type peptidyl-prolyl cis-trans isomerase	PgPan_1365
+CS374_RS07960	Genetic information processing	Protein fate	Protein folding and stabilization	DegQ family serine endoprotease	PgPan_1516
+CF001_RS17610	Genetic information processing	Protein fate	Protein folding and stabilization	co-chaperone GroES	PgPan_1573
+groL	Genetic information processing	Protein fate	Protein folding and stabilization	chaperonin GroEL	PgPan_1574
+dnaJ	Genetic information processing	Protein fate	Protein folding and stabilization	molecular chaperone DnaJ	PgPan_1656
+grpE	Genetic information processing	Protein fate	Protein folding and stabilization	nucleotide exchange factor GrpE	PgPan_1657
+CS548_RS09390	Genetic information processing	Protein fate	Protein folding and stabilization	peptidylprolyl isomerase	PgPan_1806
+clpX	Genetic information processing	Protein fate	Protein folding and stabilization	ATP-dependent Clp protease ATP-binding subunit ClpX	PgPan_1808
+EG14_RS09330	Genetic information processing	Protein fate	Protein folding and stabilization	peptidyl-prolyl cis-trans isomerase	PgPan_1845
+lgt	Genetic information processing	Protein fate	Protein modification and repair	prolipoprotein diacylglyceryl transferase	PgPan_0044
+CS550_RS06335	Genetic information processing	Protein fate	Protein modification and repair	MBL fold metallo-hydrolase	PgPan_0414
+HMPREF1555_RS03480	Genetic information processing	Protein fate	Protein modification and repair	peptidylprolyl isomerase	PgPan_0509
+msrB	Genetic information processing	Protein fate	Protein modification and repair	peptide-methionine (R)-S-oxide reductase MsrB	PgPan_0707
+AT291_RS08660	Genetic information processing	Protein fate	Protein modification and repair	peptide deformylase	PgPan_0780
+CS374_RS01920	Genetic information processing	Protein fate	Protein modification and repair	biotin--[acetyl-CoA-carboxylase] ligase	PgPan_0877
+CS549_RS06510	Genetic information processing	Protein fate	Protein modification and repair	redoxin domain-containing protein	PgPan_0997
+prmC	Genetic information processing	Protein fate	Protein modification and repair	peptide chain release factor N(5)-glutamine methyltransferase	PgPan_1099
+map	Genetic information processing	Protein fate	Protein modification and repair	type I methionyl aminopeptidase	PgPan_1190
+CS545_RS07695	Genetic information processing	Protein fate	Protein modification and repair	tryptophanase	PgPan_1874
+obgE	Genetic information processing	Protein synthesis	Other2	GTPase ObgE	PgPan_0031
+CS546_RS05845	Genetic information processing	Protein synthesis	Other2	GTPase Era	PgPan_0753
+B0492_RS07460	Genetic information processing	Protein synthesis	Other2	ribosome biogenesis GTPase Der	PgPan_0754
+EG14_RS04450	Genetic information processing	Protein synthesis	Other2	aminoacyl-tRNA hydrolase	PgPan_1090
+ybeY	Genetic information processing	Protein synthesis	Other2	rRNA maturation RNase YbeY	PgPan_1583
+smpB	Genetic information processing	Protein synthesis	Other2	SsrA-binding protein SmpB	PgPan_1589
+CS543_RS03270	Genetic information processing	Protein synthesis	Other2	YihA family ribosome biogenesis GTP-binding protein	PgPan_1749
+rplT	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	50S ribosomal protein L20	PgPan_0164
+rpmI	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	50S ribosomal protein L35	PgPan_0165
+CLI74_RS02785	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	50S ribosomal protein L28	PgPan_0349
+rpmG	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	50S ribosomal protein L33	PgPan_0350
+rpsA	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	30S ribosomal protein S1	PgPan_0455
+rlmH	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase RlmH	PgPan_0706
+CS545_RS09870	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	30S ribosomal protein S16	PgPan_0732
+rpmF	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	50S ribosomal protein L32	PgPan_0751
+CF002_RS06980	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	30S ribosomal protein S20	PgPan_0977
+rimP	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	ribosome assembly cofactor RimP	PgPan_1014
+CS388_RS03795	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	50S ribosomal protein L25/general stress protein Ctc	PgPan_1089
+rimO	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	30S ribosomal protein S12 methylthiotransferase RimO	PgPan_1105
+rplQ	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	50S ribosomal protein L17	PgPan_1183
+rpsD	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	30S ribosomal protein S4	PgPan_1185
+rpsK	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	30S ribosomal protein S11	PgPan_1186
+rpsM	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	30S ribosomal protein S13	PgPan_1187
+rpmJ	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	50S ribosomal protein L36	PgPan_1188
+rplO	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	50S ribosomal protein L15	PgPan_1192
+rpmD	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	50S ribosomal protein L30	PgPan_1193
+rpsE	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	30S ribosomal protein S5	PgPan_1194
+CF001_RS19585	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	50S ribosomal protein L18	PgPan_1195
+rplF	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	50S ribosomal protein L6	PgPan_1196
+rpsH	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	30S ribosomal protein S8	PgPan_1197
+rpsN	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	30S ribosomal protein S14	PgPan_1198
+rplE	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	50S ribosomal protein L5	PgPan_1199
+rplX	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	50S ribosomal protein L24	PgPan_1200
+rplN	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	50S ribosomal protein L14	PgPan_1201
+rpsQ	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	30S ribosomal protein S17	PgPan_1202
+rpmC	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	50S ribosomal protein L29	PgPan_1203
+rplP	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	50S ribosomal protein L16	PgPan_1204
+rpsC	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	30S ribosomal protein S3	PgPan_1205
+rplV	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	50S ribosomal protein L22	PgPan_1206
+rpsS	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	30S ribosomal protein S19	PgPan_1207
+rplB	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	50S ribosomal protein L2	PgPan_1208
+rplW	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	50S ribosomal protein L23	PgPan_1209
+rplD	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	50S ribosomal protein L4	PgPan_1210
+rplC	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	50S ribosomal protein L3	PgPan_1211
+rpsJ	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	30S ribosomal protein S10	PgPan_1212
+rpsG	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	30S ribosomal protein S7	PgPan_1214
+HMPREF1555_RS05840	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	30S ribosomal protein S12	PgPan_1215
+rplS	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	50S ribosomal protein L19	PgPan_1261
+rpmH	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	50S ribosomal protein L34	PgPan_1461
+prmA	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	50S ribosomal protein L11 methyltransferase	PgPan_1481
+AT291_RS04650	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	50S ribosomal protein L9	PgPan_1512
+rpsR	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	30S ribosomal protein S18	PgPan_1513
+CF003_RS13535	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	30S ribosomal protein S6	PgPan_1514
+SJDPG2_RS04220	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	type B 50S ribosomal protein L31	PgPan_1517
+rpsO	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	30S ribosomal protein S15	PgPan_1675
+rplU	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	50S ribosomal protein L21	PgPan_1721
+rpmA	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	50S ribosomal protein L27	PgPan_1722
+rplM	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	50S ribosomal protein L13	PgPan_1772
+rpsI	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	30S ribosomal protein S9	PgPan_1773
+rpsB	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	30S ribosomal protein S2	PgPan_1774
+HMPREF1555_RS08890	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	30S ribosomal protein S21	PgPan_1781
+rplK	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	50S ribosomal protein L11	PgPan_1786
+CLI74_RS00590	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	50S ribosomal protein L1	PgPan_1787
+PGS_RS07200	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	50S ribosomal protein L10	PgPan_1788
+rplL	Genetic information processing	Protein synthesis	Ribosomal proteins: synthesis and modification	50S ribosomal protein L7/L12	PgPan_1789
+CBG53_RS06545	Genetic information processing	Protein synthesis	Translation factors	translation initiation factor IF-3	PgPan_0166
+B0492_RS03200	Genetic information processing	Protein synthesis	Translation factors	peptide chain release factor 2	PgPan_0242
+group_3745	Genetic information processing	Protein synthesis	Translation factors	elongation factor P	PgPan_0475
+SJDPG2_RS04440	Genetic information processing	Protein synthesis	Translation factors	molecular chaperone DnaK	PgPan_0873
+infB	Genetic information processing	Protein synthesis	Translation factors	translation initiation factor IF-2	PgPan_1012
+CS544_RS04290	Genetic information processing	Protein synthesis	Translation factors	translation initiation factor	PgPan_1016
+CS548_RS02110	Genetic information processing	Protein synthesis	Translation factors	peptide chain release factor 3	PgPan_1056
+CF003_RS11550	Genetic information processing	Protein synthesis	Translation factors	RNA-binding S4 domain-containing protein	PgPan_1091
+rsgA	Genetic information processing	Protein synthesis	Translation factors	ribosome small subunit-dependent GTPase A	PgPan_1179
+frr	Genetic information processing	Protein synthesis	Translation factors	ribosome recycling factor	PgPan_1180
+infA	Genetic information processing	Protein synthesis	Translation factors	translation initiation factor IF-1	PgPan_1189
+fusA	Genetic information processing	Protein synthesis	Translation factors	elongation factor G	PgPan_1213
+prfA	Genetic information processing	Protein synthesis	Translation factors	peptide chain release factor 1	PgPan_1290
+efp	Genetic information processing	Protein synthesis	Translation factors	elongation factor P	PgPan_1537
+CS544_RS08335	Genetic information processing	Protein synthesis	Translation factors	elongation factor Ts	PgPan_1775
+raiA	Genetic information processing	Protein synthesis	Translation factors	ribosome-associated translation inhibitor RaiA	PgPan_1782
+tuf	Genetic information processing	Protein synthesis	Translation factors	elongation factor Tu	PgPan_1783
+group_3747	Genetic information processing	Protein synthesis	Translation factors	elongation factor P	PgPan_2117
+B0493_RS09470	Genetic information processing	Protein synthesis	tRNA aminoacylation	leucine--tRNA ligase	PgPan_0038
+CS549_RS09870	Genetic information processing	Protein synthesis	tRNA aminoacylation	proline--tRNA ligase	PgPan_0148
+thrS	Genetic information processing	Protein synthesis	tRNA aminoacylation	threonine--tRNA ligase	PgPan_0167
+HMPREF1555_RS02090	Genetic information processing	Protein synthesis	tRNA aminoacylation	valine--tRNA ligase	PgPan_0255
+asnS	Genetic information processing	Protein synthesis	tRNA aminoacylation	asparagine--tRNA ligase	PgPan_0265
+AT291_RS07055	Genetic information processing	Protein synthesis	tRNA aminoacylation	D-tyrosyl-tRNA(Tyr) deacylase	PgPan_0327
+lysS	Genetic information processing	Protein synthesis	tRNA aminoacylation	lysine--tRNA ligase	PgPan_0390
+queF	Genetic information processing	Protein synthesis	tRNA aminoacylation	NADPH-dependent 7-cyano-7-deazaguanine reductase QueF	PgPan_0411
+alaS	Genetic information processing	Protein synthesis	tRNA aminoacylation	alanine--tRNA ligase	PgPan_0495
+AT291_RS07185	Genetic information processing	Protein synthesis	tRNA aminoacylation	methionyl-tRNA formyltransferase	PgPan_0588
+ybaK	Genetic information processing	Protein synthesis	tRNA aminoacylation	Cys-tRNA(Pro) deacylase	PgPan_0654
+HMPREF1555_RS07430	Genetic information processing	Protein synthesis	tRNA aminoacylation	histidine--tRNA ligase	PgPan_0686
+trpS	Genetic information processing	Protein synthesis	tRNA aminoacylation	tryptophan--tRNA ligase	PgPan_0704
+CS543_RS00350	Genetic information processing	Protein synthesis	tRNA aminoacylation	glycine--tRNA ligase	PgPan_0808
+B0493_RS08510	Genetic information processing	Protein synthesis	tRNA aminoacylation	glutamate--tRNA ligase	PgPan_0841
+CF002_RS06395	Genetic information processing	Protein synthesis	tRNA aminoacylation	isoleucine--tRNA ligase	PgPan_0872
+CS543_RS10530	Genetic information processing	Protein synthesis	tRNA aminoacylation	arginine--tRNA ligase	PgPan_1004
+CS388_RS03390	Genetic information processing	Protein synthesis	tRNA aminoacylation	tyrosine--tRNA ligase	PgPan_1006
+metG	Genetic information processing	Protein synthesis	tRNA aminoacylation	methionine--tRNA ligase	PgPan_1087
+aspS	Genetic information processing	Protein synthesis	tRNA aminoacylation	aspartate--tRNA ligase	PgPan_1102
+CF002_RS09140	Genetic information processing	Protein synthesis	tRNA aminoacylation	cysteine--tRNA ligase	PgPan_1158
+CS388_RS05970	Genetic information processing	Protein synthesis	tRNA aminoacylation	glutamine--tRNA ligase/YqeY domain fusion protein	PgPan_1227
+pheT	Genetic information processing	Protein synthesis	tRNA aminoacylation	phenylalanine--tRNA ligase subunit beta	PgPan_1309
+pheS	Genetic information processing	Protein synthesis	tRNA aminoacylation	phenylalanine--tRNA ligase subunit alpha	PgPan_1661
+serS	Genetic information processing	Protein synthesis	tRNA aminoacylation	serine--tRNA ligase	PgPan_1723
+truA	Genetic information processing	Protein synthesis	tRNA and rRNA base modification	tRNA pseudouridine(38-40) synthase TruA	PgPan_0001
+mnmE	Genetic information processing	Protein synthesis	tRNA and rRNA base modification	tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE	PgPan_0076
+tsaE	Genetic information processing	Protein synthesis	tRNA and rRNA base modification	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE	PgPan_0118
+trmB	Genetic information processing	Protein synthesis	tRNA and rRNA base modification	tRNA (guanosine(46)-N7)-methyltransferase TrmB	PgPan_0146
+PGA7_RS04705	Genetic information processing	Protein synthesis	tRNA and rRNA base modification	S-adenosylmethionine:tRNA ribosyltransferase-isomerase	PgPan_0154
+miaB	Genetic information processing	Protein synthesis	tRNA and rRNA base modification	tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB	PgPan_0182
+CS059_RS08505	Genetic information processing	Protein synthesis	tRNA and rRNA base modification	radical SAM protein	PgPan_0216
+CLI74_RS07145	Genetic information processing	Protein synthesis	tRNA and rRNA base modification	rRNA pseudouridine synthase	PgPan_0264
+CS545_RS05840	Genetic information processing	Protein synthesis	tRNA and rRNA base modification	methyltransferase	PgPan_0274
+rlmD	Genetic information processing	Protein synthesis	tRNA and rRNA base modification	23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD	PgPan_0283
+mnmG	Genetic information processing	Protein synthesis	tRNA and rRNA base modification	tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG	PgPan_0329
+B0492_RS04185	Genetic information processing	Protein synthesis	tRNA and rRNA base modification	threonylcarbamoyl-AMP synthase	PgPan_0345
+rsmG	Genetic information processing	Protein synthesis	tRNA and rRNA base modification	16S rRNA (guanine(527)-N(7))-methyltransferase RsmG	PgPan_0447
+CF002_RS03765	Genetic information processing	Protein synthesis	tRNA and rRNA base modification	methyltransferase	PgPan_0454
+B0492_RS08270	Genetic information processing	Protein synthesis	tRNA and rRNA base modification	RluA family pseudouridine synthase	PgPan_0501
+trmD	Genetic information processing	Protein synthesis	tRNA and rRNA base modification	tRNA (guanosine(37)-N1)-methyltransferase TrmD	PgPan_0662
+tilS	Genetic information processing	Protein synthesis	tRNA and rRNA base modification	tRNA lysidine(34) synthetase TilS	PgPan_0673
+rlmN	Genetic information processing	Protein synthesis	tRNA and rRNA base modification	23S rRNA (adenine(2503)-C(2))-methyltransferase RlmN	PgPan_0688
+mtaB	Genetic information processing	Protein synthesis	tRNA and rRNA base modification	tRNA (N(6)-L-threonylcarbamoyladenosine(37)-C(2))- methylthiotransferase MtaB	PgPan_0762
+B0490_RS01315	Genetic information processing	Protein synthesis	tRNA and rRNA base modification	16S rRNA (uracil(1498)-N(3))-methyltransferase	PgPan_0816
+mnmD	Genetic information processing	Protein synthesis	tRNA and rRNA base modification	tRNA (5-methylaminomethyl-2-thiouridine)(34)-methyltransferase MnmD	PgPan_0827
+CS549_RS06695	Genetic information processing	Protein synthesis	tRNA and rRNA base modification	RNA pseudouridine synthase	PgPan_0896
+HMPREF1555_RS03295	Genetic information processing	Protein synthesis	tRNA and rRNA base modification	tRNA threonylcarbamoyladenosine dehydratase	PgPan_0904
+B0490_RS04110	Genetic information processing	Protein synthesis	tRNA and rRNA base modification	threonylcarbamoyl-AMP synthase	PgPan_0907
+tsaD	Genetic information processing	Protein synthesis	tRNA and rRNA base modification	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD	PgPan_0978
+mnmA	Genetic information processing	Protein synthesis	tRNA and rRNA base modification	tRNA 2-thiouridine(34) synthase MnmA	PgPan_1003
+rsmI	Genetic information processing	Protein synthesis	tRNA and rRNA base modification	16S rRNA (cytidine(1402)-2-O)-methyltransferase	PgPan_1020
+rsmA	Genetic information processing	Protein synthesis	tRNA and rRNA base modification	16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))- dimethyltransferase RsmA	PgPan_1120
+rlmB	Genetic information processing	Protein synthesis	tRNA and rRNA base modification	23S rRNA (guanosine(2251)-2-O)-methyltransferase RlmB	PgPan_1135
+mnmH	Genetic information processing	Protein synthesis	tRNA and rRNA base modification	tRNA 2-selenouridine(34) synthase MnmH	PgPan_1166
+PGJ_RS05205	Genetic information processing	Protein synthesis	tRNA and rRNA base modification	RNA methyltransferase	PgPan_1336
+CF001_RS13925	Genetic information processing	Protein synthesis	tRNA and rRNA base modification	nucleoside deaminase	PgPan_1339
+CS059_RS00105	Genetic information processing	Protein synthesis	tRNA and rRNA base modification	RluA family pseudouridine synthase	PgPan_1348
+rsmH	Genetic information processing	Protein synthesis	tRNA and rRNA base modification	16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH	PgPan_1534
+group_4554	Genetic information processing	Protein synthesis	tRNA and rRNA base modification	tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA	PgPan_1572
+tgt	Genetic information processing	Protein synthesis	tRNA and rRNA base modification	tRNA guanosine(34) transglycosylase Tgt	PgPan_1591
+miaA	Genetic information processing	Protein synthesis	tRNA and rRNA base modification	tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA	PgPan_1742
+EG14_RS09745	Genetic information processing	Protein synthesis	tRNA and rRNA base modification	class I SAM-dependent rRNA methyltransferase	PgPan_1766
+CS374_RS07245	Genetic information processing	Protein synthesis	tRNA and rRNA base modification	SAM-dependent methyltransferase	PgPan_1829
+queG	Genetic information processing	Protein synthesis	tRNA and rRNA base modification	tRNA epoxyqueuosine(34) reductase QueG	PgPan_1858
+queA	Genetic information processing	Protein synthesis	tRNA and rRNA base modification	tRNA preQ1(34) S-adenosylmethionine ribosyltransferase-isomerase QueA	PgPan_1891
+truB	Genetic information processing	Protein synthesis	tRNA and rRNA base modification	tRNA pseudouridine(55) synthase TruB	PgPan_1892
+PGJ_RS05100	Genetic information processing	Transcription	Degradation of RNA	polyribonucleotide nucleotidyltransferase	PgPan_0013
+PGA7_RS03500	Genetic information processing	Transcription	Degradation of RNA	Rne/Rng family ribonuclease	PgPan_0485
+PGA7_RS09400	Genetic information processing	Transcription	Degradation of RNA	DEAD/DEAH box helicase	PgPan_0716
+rnr	Genetic information processing	Transcription	Degradation of RNA	ribonuclease R	PgPan_0975
+rny	Genetic information processing	Transcription	Degradation of RNA	ribonuclease Y	PgPan_1797
+CS388_RS08520	Genetic information processing	Transcription	DNA-dependent RNA polymerase	DNA-directed RNA polymerase subunit omega	PgPan_0517
+AT291_RS01670	Genetic information processing	Transcription	DNA-dependent RNA polymerase	DNA-directed RNA polymerase subunit alpha	PgPan_1184
+rpoB	Genetic information processing	Transcription	DNA-dependent RNA polymerase	DNA-directed RNA polymerase subunit beta	PgPan_1790
+rpoC	Genetic information processing	Transcription	DNA-dependent RNA polymerase	DNA-directed RNA polymerase subunit beta	PgPan_1791
+rbfA	Genetic information processing	Transcription	RNA processing	30S ribosome-binding factor RbfA	PgPan_0114
+rimM	Genetic information processing	Transcription	RNA processing	16S rRNA processing protein RimM	PgPan_0395
+CS548_RS02090	Genetic information processing	Transcription	RNA processing	ribonuclease P protein component	PgPan_1060
+AT291_RS05720	Genetic information processing	Transcription	RNA processing	DEAD/DEAH box helicase	PgPan_1299
+CS546_RS01450	Genetic information processing	Transcription	RNA processing	ribonuclease Z	PgPan_1338
+rnc	Genetic information processing	Transcription	RNA processing	ribonuclease III	PgPan_1670
+nusB	Genetic information processing	Transcription	Transcription factors	transcription antitermination factor NusB	PgPan_0046
+B0493_RS09225	Genetic information processing	Transcription	Transcription factors	sigma-70 family RNA polymerase sigma factor	PgPan_0161
+rpoN	Genetic information processing	Transcription	Transcription factors	RNA polymerase factor sigma-54	PgPan_0273
+B0492_RS02295	Genetic information processing	Transcription	Transcription factors	RNA polymerase sigma factor	PgPan_0367
+CF001_RS15710	Genetic information processing	Transcription	Transcription factors	sigma-70 family RNA polymerase sigma factor	PgPan_0436
+greA	Genetic information processing	Transcription	Transcription factors	transcription elongation factor GreA	PgPan_0908
+B0490_RS03070	Genetic information processing	Transcription	Transcription factors	RNA polymerase sigma factor	PgPan_0928
+nusA	Genetic information processing	Transcription	Transcription factors	transcription termination/antitermination protein NusA	PgPan_1013
+CS545_RS09120	Genetic information processing	Transcription	Transcription factors	sigma-70 family RNA polymerase sigma factor	PgPan_1046
+PGS_RS01250	Genetic information processing	Transcription	Transcription factors	sigma-70 family RNA polymerase sigma factor	PgPan_1094
+CS374_RS03450	Genetic information processing	Transcription	Transcription factors	sigma-54-dependent Fis family transcriptional regulator	PgPan_1107
+AT291_RS08860	Genetic information processing	Transcription	Transcription factors	sigma-54-dependent Fis family transcriptional regulator	PgPan_1242
+CS059_RS00015	Genetic information processing	Transcription	Transcription factors	sigma-54-dependent Fis family transcriptional regulator	PgPan_1333
+CS544_RS09595	Genetic information processing	Transcription	Transcription factors	RNA polymerase sigma factor RpoD/SigA	PgPan_1515
+CLI74_RS00175	Genetic information processing	Transcription	Transcription factors	SoxR reducing system RseC family protein	PgPan_1708
+CS059_RS01930	Genetic information processing	Transcription	Transcription factors	transcription termination factor Rho	PgPan_1738
+nusG	Genetic information processing	Transcription	Transcription factors	transcription termination/antitermination factor NusG	PgPan_1785
+B0492_RS09900	Metabolism	Amino acid biosynthesis	Aromatic amino acid family	bifunctional 3-deoxy-7-phosphoheptulonate synthase/chorismate mutase type II	PgPan_0084
+aroE	Metabolism	Amino acid biosynthesis	Aromatic amino acid family	shikimate dehydrogenase	PgPan_0159
+aroC	Metabolism	Amino acid biosynthesis	Aromatic amino acid family	chorismate synthase	PgPan_0440
+aroB	Metabolism	Amino acid biosynthesis	Aromatic amino acid family	3-dehydroquinate synthase	PgPan_0494
+HMPREF1555_RS04670	Metabolism	Amino acid biosynthesis	Aromatic amino acid family	shikimate kinase	PgPan_0869
+CS545_RS08800	Metabolism	Amino acid biosynthesis	Aromatic amino acid family	3-dehydroquinate dehydratase	PgPan_0985
+PGF_RS08985	Metabolism	Amino acid biosynthesis	Aromatic amino acid family	3-phosphoshikimate 1-carboxyvinyltransferase	PgPan_1217
+EG14_RS02250	Metabolism	Amino acid biosynthesis	Aromatic amino acid family	fumarylacetoacetate hydrolase family protein	PgPan_1249
+PGJ_RS03815	Metabolism	Amino acid biosynthesis	Aspartate family	asparagine synthetase B family protein	PgPan_0250
+B0492_RS10535	Metabolism	Amino acid biosynthesis	Aspartate family	nitrilase family protein	PgPan_0406
+dapB	Metabolism	Amino acid biosynthesis	Aspartate family	4-hydroxy-tetrahydrodipicolinate reductase	PgPan_0579
+HMPREF1555_RS07930	Metabolism	Amino acid biosynthesis	Aspartate family	4-hydroxy-tetrahydrodipicolinate synthase	PgPan_0678
+CF001_RS10225	Metabolism	Amino acid biosynthesis	Aspartate family	aspartate kinase	PgPan_0788
+lysA	Metabolism	Amino acid biosynthesis	Aspartate family	diaminopimelate decarboxylase	PgPan_0789
+CLI74_RS01025	Metabolism	Amino acid biosynthesis	Aspartate family	saccharopine dehydrogenase family protein	PgPan_1394
+CS543_RS04310	Metabolism	Amino acid biosynthesis	Aspartate family	aspartate-semialdehyde dehydrogenase	PgPan_1535
+gdhA	Metabolism	Amino acid biosynthesis	Glutamate family	NADP-specific glutamate dehydrogenase	PgPan_0505
+gltA	Metabolism	Amino acid biosynthesis	Glutamate family	NADPH-dependent glutamate synthase	PgPan_0660
+CF002_RS02610	Metabolism	Amino acid biosynthesis	Lysine pathway	diaminopimelate dehydrogenase	PgPan_0045
+selD	Metabolism	Amino acid biosynthesis	Noncanonical amino acid synthesis	"selenide, water dikinase SelD"	PgPan_1680
+CS545_RS03040	Metabolism	Amino acid biosynthesis	Other3	amidohydrolase	PgPan_1542
+PGA7_RS03355	Metabolism	Amino acid biosynthesis	Pyruvate family	branched-chain amino acid aminotransferase	PgPan_0461
+serB	Metabolism	Amino acid biosynthesis	Serine family	phosphoserine phosphatase SerB	PgPan_0222
+CS549_RS06935	Metabolism	Amino acid biosynthesis	Serine family	3-phosphoglycerate dehydrogenase	PgPan_0470
+serC	Metabolism	Amino acid biosynthesis	Serine family	phosphoserine transaminase	PgPan_0471
+CS550_RS05530	Metabolism	Amino acid biosynthesis	Serine family	NAD-dependent epimerase/dehydratase family protein	PgPan_0504
+CLI74_RS03265	Metabolism	Amino acid biosynthesis	Serine family	serine hydroxymethyltransferase	PgPan_1263
+CF002_RS02035	Metabolism	Amino acid biosynthesis	Serine family	SDR family oxidoreductase	PgPan_1396
+group_3880	Metabolism	Amino acid biosynthesis	Serine family	protein-serine phosphatase SerB	PgPan_1463
+CS549_RS07310	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Biotin	8-amino-7-oxononanoate synthase	PgPan_0570
+bioD	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Biotin	ATP-dependent dethiobiotin synthetase BioD	PgPan_0679
+SJDPG2_RS08440	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Biotin	adenosylmethionine--8-amino-7-oxononanoate transaminase	PgPan_0700
+bioB	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Biotin	biotin synthase BioB	PgPan_0701
+CS543_RS09975	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Biotin	DUF452 family protein	PgPan_0945
+bioC	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Biotin	malonyl-ACP O-methyltransferase BioC	PgPan_0946
+CS550_RS00715	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Biotin	aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme	PgPan_1652
+EG14_RS06920	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Folic acid	2-amino-4-hydroxy-6- hydroxymethyldihydropteridine pyrophosphokinase	PgPan_0085
+CF002_RS05875	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Folic acid	alkaline phosphatase	PgPan_0087
+PGA7_RS04470	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Folic acid	hypothetical protein	PgPan_0190
+CS387_RS01210	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Folic acid	aminodeoxychorismate synthase component I	PgPan_0191
+CBG53_RS06835	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Folic acid	6-carboxytetrahydropterin synthase	PgPan_0215
+CS548_RS01345	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Folic acid	dihydrofolate reductase	PgPan_0685
+folB	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Folic acid	dihydroneopterin aldolase	PgPan_0710
+folP	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Folic acid	dihydropteroate synthase	PgPan_0867
+folE	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Folic acid	GTP cyclohydrolase I FolE	PgPan_1491
+CS546_RS03420	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Folic acid	cyclodeaminase/cyclohydrolase family protein	PgPan_1731
+CS543_RS03810	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Folic acid	bifunctional folylpolyglutamate synthase/dihydrofolate synthase	PgPan_1850
+folK	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Folic acid	2-amino-4-hydroxy-6- hydroxymethyldihydropteridine diphosphokinase	PgPan_1890
+B0493_RS05020	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	"Heme, porphyrin, and cobalamin"	"cobyrinate a,c-diamide synthase"	PgPan_0228
+CS549_RS09150	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	"Heme, porphyrin, and cobalamin"	"cob(I)yrinic acid a,c-diamide adenosyltransferase"	PgPan_0229
+CS387_RS00985	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	"Heme, porphyrin, and cobalamin"	cobyric acid synthase	PgPan_0230
+CS374_RS00135	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	"Heme, porphyrin, and cobalamin"	threonine-phosphate decarboxylase	PgPan_0231
+cobD	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	"Heme, porphyrin, and cobalamin"	cobalamin biosynthesis protein CobD	PgPan_0232
+PGF_RS05850	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	"Heme, porphyrin, and cobalamin"	"cob(I)yrinic acid a,c-diamide adenosyltransferase"	PgPan_0262
+CF002_RS09885	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	"Heme, porphyrin, and cobalamin"	phosphoglycerate kinase	PgPan_0652
+hemG	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	"Heme, porphyrin, and cobalamin"	protoporphyrinogen oxidase	PgPan_0813
+PGF_RS02625	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	"Heme, porphyrin, and cobalamin"	cobaltochelatase subunit CobN	PgPan_0830
+cobJ	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	"Heme, porphyrin, and cobalamin"	precorrin-3B C(17)-methyltransferase	PgPan_1049
+cbiE	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	"Heme, porphyrin, and cobalamin"	"precorrin-6y C5,15-methyltransferase (decarboxylating) subunit CbiE"	PgPan_1050
+cobM	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	"Heme, porphyrin, and cobalamin"	precorrin-4 C(11)-methyltransferase	PgPan_1052
+CS374_RS02900	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	"Heme, porphyrin, and cobalamin"	precorrin-6x reductase	PgPan_1053
+B0493_RS00180	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	"Heme, porphyrin, and cobalamin"	uroporphyrinogen-III synthase	PgPan_1059
+hemH	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	"Heme, porphyrin, and cobalamin"	ferrochelatase	PgPan_1128
+CS549_RS04985	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	"Heme, porphyrin, and cobalamin"	aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme	PgPan_1240
+cobC	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	"Heme, porphyrin, and cobalamin"	alpha-ribazole phosphatase	PgPan_1369
+AT291_RS03580	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	"Heme, porphyrin, and cobalamin"	adenosylcobinamide-GDP ribazoletransferase	PgPan_1370
+cobT	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	"Heme, porphyrin, and cobalamin"	nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase	PgPan_1371
+cobU	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	"Heme, porphyrin, and cobalamin"	bifunctional adenosylcobinamide kinase/adenosylcobinamide-phosphate guanylyltransferase	PgPan_1372
+EG14_RS08405	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	"Heme, porphyrin, and cobalamin"	heme-binding protein	PgPan_1402
+CLI74_RS00885	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	"Heme, porphyrin, and cobalamin"	adenosylcobinamide amidohydrolase	PgPan_1471
+CS545_RS02655	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	"Heme, porphyrin, and cobalamin"	precorrin-2 C(20)-methyltransferase	PgPan_1618
+hemW	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	"Heme, porphyrin, and cobalamin"	radical SAM family heme chaperone HemW	PgPan_1622
+lipA	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Lipoate	lipoyl synthase	PgPan_1587
+CF002_RS02510	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Menaquinone and ubiquinone	polyprenyl synthetase family protein	PgPan_0026
+ubiE	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Menaquinone and ubiquinone	"bifunctional demethylmenaquinone methyltransferase/2-methoxy-6-polyprenyl-1,4-benzoquinol methylase UbiE"	PgPan_0158
+menA	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Menaquinone and ubiquinone	"1,4-dihydroxy-2-naphthoate octaprenyltransferase"	PgPan_0790
+CS387_RS06005	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Menaquinone and ubiquinone	class I SAM-dependent methyltransferase	PgPan_1152
+SJDPG2_RS01345	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Other4	arginine decarboxylase	PgPan_0101
+AT291_RS10090	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Other4	4-(cytidine 5-diphospho)-2-C-methyl-D-erythritol kinase	PgPan_0126
+ispG	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Other4	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase	PgPan_0138
+CF001_RS15960	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Other4	1-deoxy-D-xylulose-5-phosphate reductoisomerase	PgPan_0396
+dxs	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Other4	1-deoxy-D-xylulose-5-phosphate synthase	PgPan_0766
+sufD	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Other4	Fe-S cluster assembly protein SufD	PgPan_1008
+sufC	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Other4	Fe-S cluster assembly ATPase SufC	PgPan_1009
+sufB	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Other4	Fe-S cluster assembly protein SufB	PgPan_1010
+CS543_RS00640	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Other4	2-phosphosulfolactate phosphatase	PgPan_1241
+SJDPG2_RS00610	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Other4	"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase"	PgPan_1252
+sufS	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Other4	cysteine desulfurase	PgPan_1342
+PGJ_RS03710	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Pantothenate and coenzyme A	aspartate 1-decarboxylase	PgPan_0271
+CS374_RS04615	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Pantothenate and coenzyme A	2-dehydropantoate 2-reductase	PgPan_0776
+CF003_RS12040	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Pantothenate and coenzyme A	4-phosphopantetheinyl transferase superfamily protein	PgPan_0998
+coaBC	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Pantothenate and coenzyme A	bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC	PgPan_1138
+panB	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Pantothenate and coenzyme A	3-methyl-2-oxobutanoate hydroxymethyltransferase	PgPan_1520
+coaE	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Pantothenate and coenzyme A	dephospho-CoA kinase	PgPan_1615
+AT291_RS07950	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Pantothenate and coenzyme A	pantoate--beta-alanine ligase	PgPan_1620
+coaD	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Pantothenate and coenzyme A	pantetheine-phosphate adenylyltransferase	PgPan_1770
+CS545_RS02540	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Pantothenate and coenzyme A	type III pantothenate kinase	PgPan_1840
+CS059_RS10960	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Pyridine nucleotides	adenylate kinase	PgPan_0032
+AT291_RS05340	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Pyridine nucleotides	NADP transhydrogenase subunit beta	PgPan_0423
+PGS_RS02885	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Pyridine nucleotides	NAD(P) transhydrogenase subunit alpha	PgPan_0424
+CS550_RS06275	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Pyridine nucleotides	Re/Si-specific NAD(P)(+) transhydrogenase subunit alpha	PgPan_0425
+nadB	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Pyridine nucleotides	L-aspartate oxidase	PgPan_0854
+nadC	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Pyridine nucleotides	carboxylating nicotinate-nucleotide diphosphorylase	PgPan_0855
+nadA	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Pyridine nucleotides	quinolinate synthase NadA	PgPan_0856
+CS550_RS09405	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Pyridine nucleotides	NAD-dependent deacylase	PgPan_1234
+pncB	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Pyridine nucleotides	nicotinate phosphoribosyltransferase	PgPan_1275
+B0492_RS01280	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Pyridine nucleotides	nicotinate-nucleotide adenylyltransferase	PgPan_1276
+CS374_RS08325	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Pyridine nucleotides	isochorismatase family protein	PgPan_1393
+CBG53_RS01805	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Pyridine nucleotides	NAD kinase	PgPan_1487
+PGS_RS06570	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Pyridine nucleotides	NAD(+) synthase	PgPan_1564
+pdxB	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Pyridoxine	4-phosphoerythronate dehydrogenase PdxB	PgPan_0514
+pdxA	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Pyridoxine	4-hydroxythreonine-4-phosphate dehydrogenase PdxA	PgPan_0690
+pdxH	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Pyridoxine	pyridoxamine 5-phosphate oxidase	PgPan_0970
+pdxJ	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Pyridoxine	pyridoxine 5-phosphate synthase	PgPan_1486
+ribF	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	"Riboflavin, FMN, and FAD"	riboflavin biosynthesis protein RibF	PgPan_0143
+ribD	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	"Riboflavin, FMN, and FAD"	bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD	PgPan_1100
+CS374_RS08595	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	"Riboflavin, FMN, and FAD"	riboflavin synthase	PgPan_1344
+PGF_RS03590	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	"Riboflavin, FMN, and FAD"	HAD family phosphatase	PgPan_1352
+CF003_RS13555	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	"Riboflavin, FMN, and FAD"	"bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II"	PgPan_1510
+AT291_RS07580	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	"Riboflavin, FMN, and FAD"	"6,7-dimethyl-8-ribityllumazine synthase"	PgPan_1902
+thiH	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Thiamine	2-iminoacetate synthase ThiH	PgPan_0722
+CS550_RS08795	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Thiamine	thiazole synthase	PgPan_0723
+CS387_RS08295	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Thiamine	thiamine phosphate synthase	PgPan_0724
+thiC	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Thiamine	phosphomethylpyrimidine synthase ThiC	PgPan_0725
+thiS	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Thiamine	sulfur carrier protein ThiS	PgPan_0726
+CF003_RS19645	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Thiamine	thiamine diphosphokinase	PgPan_1176
+thiL	Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	Thiamine	thiamine-phosphate kinase	PgPan_1479
+B0492_RS05565	Metabolism	Central intermediary metabolism	Amino sugars	glucosamine-6-phosphate deaminase	PgPan_0042
+glmM	Metabolism	Central intermediary metabolism	Amino sugars	phosphoglucosamine mutase	PgPan_0284
+B0493_RS03820	Metabolism	Central intermediary metabolism	Nitrogen metabolism	GNAT family N-acetyltransferase	PgPan_0487
+folD	Metabolism	Central intermediary metabolism	One-carbon metabolism	bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase FolD	PgPan_0269
+CS544_RS10520	Metabolism	Central intermediary metabolism	One-carbon metabolism	formate--tetrahydrofolate ligase	PgPan_0434
+CS544_RS06965	Metabolism	Central intermediary metabolism	One-carbon metabolism	5-formyltetrahydrofolate cyclo-ligase	PgPan_1141
+pta	Metabolism	Central intermediary metabolism	Other5	phosphate acetyltransferase	PgPan_0294
+CS059_RS05415	Metabolism	Central intermediary metabolism	Other5	agmatine deiminase family protein	PgPan_1111
+EG14_RS04345	Metabolism	Central intermediary metabolism	Other5	carbon-nitrogen hydrolase	PgPan_1112
+CLI74_RS02485	Metabolism	Central intermediary metabolism	Other5	methionine adenosyltransferase	PgPan_1175
+PGS_RS06725	Metabolism	Central intermediary metabolism	Other5	5-methylthioadenosine/adenosylhomocysteine nucleosidase	PgPan_1606
+CS545_RS01090	Metabolism	Central intermediary metabolism	Phosphorus compounds	RNA degradosome polyphosphate kinase	PgPan_1164
+nspC	Metabolism	Central intermediary metabolism	Polyamine biosynthesis	carboxynorspermidine decarboxylase	PgPan_1103
+CBG53_RS00570	Metabolism	Central intermediary metabolism	Sulfur metabolism	acyl-CoA dehydrogenase	PgPan_0017
+HMPREF1555_RS01775	Metabolism	Central intermediary metabolism	Sulfur metabolism	bifunctional oligoribonuclease/PAP phosphatase NrnA	PgPan_0286
+gcvH	Metabolism	Energy metabolism	Amino acids and amines	glycine cleavage system protein GcvH	PgPan_0136
+gcvP	Metabolism	Energy metabolism	Amino acids and amines	aminomethyl-transferring glycine dehydrogenase	PgPan_0449
+rocD	Metabolism	Energy metabolism	Amino acids and amines	ornithine--oxo-acid transaminase	PgPan_0476
+pruA	Metabolism	Energy metabolism	Amino acids and amines	L-glutamate gamma-semialdehyde dehydrogenase	PgPan_0478
+gcvT	Metabolism	Energy metabolism	Amino acids and amines	glycine cleavage system aminomethyltransferase GcvT	PgPan_0834
+B0493_RS01890	Metabolism	Energy metabolism	Amino acids and amines	aspartate ammonia-lyase	PgPan_0993
+CS550_RS00320	Metabolism	Energy metabolism	Amino acids and amines	urocanate hydratase	PgPan_1153
+CS544_RS06195	Metabolism	Energy metabolism	Amino acids and amines	L-serine ammonia-lyase	PgPan_1297
+kbl	Metabolism	Energy metabolism	Amino acids and amines	glycine C-acetyltransferase	PgPan_1617
+AT291_RS07965	Metabolism	Energy metabolism	Amino acids and amines	aminotransferase class V-fold PLP-dependent enzyme	PgPan_1623
+hutH	Metabolism	Energy metabolism	Amino acids and amines	histidine ammonia-lyase	PgPan_1730
+CS388_RS07155	Metabolism	Energy metabolism	Amino acids and amines	imidazolonepropionase	PgPan_1734
+ftcD	Metabolism	Energy metabolism	Amino acids and amines	glutamate formimidoyltransferase	PgPan_1735
+megL	Metabolism	Energy metabolism	Amino acids and amines	methionine gamma-lyase	PgPan_1746
+CS548_RS08930	Metabolism	Energy metabolism	ATP-proton motive force interconversion	"ATP synthase F0, A subunit"	PgPan_1582
+PGJ_RS07835	Metabolism	Energy metabolism	ATP-proton motive force interconversion	ATP synthase subunit C	PgPan_1625
+PGS_RS08895	Metabolism	Energy metabolism	ATP-proton motive force interconversion	ATPase	PgPan_1626
+CBG53_RS04980	Metabolism	Energy metabolism	ATP-proton motive force interconversion	V-type ATP synthase subunit D	PgPan_1627
+CS543_RS02645	Metabolism	Energy metabolism	ATP-proton motive force interconversion	V-type ATP synthase subunit B	PgPan_1628
+AT291_RS04860	Metabolism	Energy metabolism	ATP-proton motive force interconversion	V-type ATP synthase subunit A	PgPan_1629
+HMPREF1555_RS06015	Metabolism	Energy metabolism	ATP-proton motive force interconversion	DUF2764 domain-containing protein	PgPan_1630
+PGS_RS08870	Metabolism	Energy metabolism	ATP-proton motive force interconversion	hypothetical protein	PgPan_1631
+AT291_RS00220	Metabolism	Energy metabolism	ATP-proton motive force interconversion	Fe-S cluster domain-containing protein	PgPan_1709
+CS545_RS08575	Metabolism	Energy metabolism	Biosynthesis and degradation of polysaccharides	glycosyltransferase	PgPan_0912
+CF002_RS02465	Metabolism	Energy metabolism	Electron transport	electron transfer flavoprotein subunit alpha/FixB family protein	PgPan_0018
+HMPREF1555_RS02645	Metabolism	Energy metabolism	Electron transport	electron transfer flavoprotein subunit beta/FixA family protein	PgPan_0019
+CLI74_RS08520	Metabolism	Energy metabolism	Electron transport	cytochrome d ubiquinol oxidase subunit II	PgPan_0093
+CS387_RS02130	Metabolism	Energy metabolism	Electron transport	cytochrome ubiquinol oxidase subunit I	PgPan_0094
+trxB	Metabolism	Energy metabolism	Electron transport	thioredoxin-disulfide reductase	PgPan_0252
+CS544_RS00740	Metabolism	Energy metabolism	Electron transport	flavodoxin	PgPan_0266
+CF003_RS16325	Metabolism	Energy metabolism	Electron transport	electron transfer flavoprotein subunit alpha/FixB family protein	PgPan_0298
+CS543_RS07455	Metabolism	Energy metabolism	Electron transport	electron transfer flavoprotein subunit beta/FixA family protein	PgPan_0299
+ccsA	Metabolism	Energy metabolism	Electron transport	cytochrome c biogenesis protein CcsA	PgPan_0361
+nrfA	Metabolism	Energy metabolism	Electron transport	ammonia-forming cytochrome c nitrite reductase	PgPan_0362
+nrfH	Metabolism	Energy metabolism	Electron transport	cytochrome c nitrite reductase small subunit	PgPan_0363
+CS374_RS05115	Metabolism	Energy metabolism	Electron transport	sulfide/dihydroorotate dehydrogenase-like FAD/NAD-binding protein	PgPan_0661
+CS548_RS00775	Metabolism	Energy metabolism	Electron transport	TlpA family protein disulfide reductase	PgPan_0799
+CS546_RS07970	Metabolism	Energy metabolism	Electron transport	AhpC/TSA family protein	PgPan_0961
+B0493_RS00320	Metabolism	Energy metabolism	Electron transport	flavodoxin	PgPan_1145
+trxA	Metabolism	Energy metabolism	Electron transport	thioredoxin	PgPan_1259
+rsxC	Metabolism	Energy metabolism	Electron transport	electron transport complex subunit RsxC	PgPan_1710
+PGJ_RS07410	Metabolism	Energy metabolism	Electron transport	RnfABCDGE type electron transport complex subunit D	PgPan_1711
+CS543_RS03090	Metabolism	Energy metabolism	Electron transport	RnfABCDGE type electron transport complex subunit G	PgPan_1712
+CS550_RS01030	Metabolism	Energy metabolism	Electron transport	electron transport complex subunit E	PgPan_1713
+CS546_RS03500	Metabolism	Energy metabolism	Electron transport	electron transport complex protein RnfA	PgPan_1714
+CS549_RS02585	Metabolism	Energy metabolism	Electron transport	FAD:protein FMN transferase	PgPan_1715
+CS546_RS10735	Metabolism	Energy metabolism	Fermentation	hypothetical protein	PgPan_0219
+PGJ_RS03980	Metabolism	Energy metabolism	Fermentation	lactate utilization protein	PgPan_0220
+CS374_RS00170	Metabolism	Energy metabolism	Fermentation	(Fe-S)-binding protein	PgPan_0221
+PGF_RS05980	Metabolism	Energy metabolism	Fermentation	iron-containing alcohol dehydrogenase	PgPan_0238
+SJDPG2_RS05075	Metabolism	Energy metabolism	Fermentation	acetate kinase	PgPan_0295
+CS388_RS08815	Metabolism	Energy metabolism	Fermentation	3-hydroxybutyryl-CoA dehydrogenase	PgPan_0296
+CS549_RS09555	Metabolism	Energy metabolism	Fermentation	3-hydroxybutyryl-CoA dehydratase	PgPan_0297
+CS549_RS09570	Metabolism	Energy metabolism	Fermentation	acyl-CoA dehydrogenase	PgPan_0300
+CF001_RS16070	Metabolism	Energy metabolism	Fermentation	CoA transferase subunit B	PgPan_0301
+CS545_RS06000	Metabolism	Energy metabolism	Fermentation	hypothetical protein	PgPan_0302
+EG14_RS06170	Metabolism	Energy metabolism	Fermentation	"D-lysine 5,6-aminomutase subunit alpha"	PgPan_0303
+ablA	Metabolism	Energy metabolism	Fermentation	"lysine 2,3-aminomutase"	PgPan_0306
+CS545_RS06025	Metabolism	Energy metabolism	Fermentation	zinc-binding dehydrogenase	PgPan_0307
+CS548_RS04910	Metabolism	Energy metabolism	Fermentation	acetate--CoA ligase family protein	PgPan_0428
+CS544_RS10600	Metabolism	Energy metabolism	Fermentation	MBL fold metallo-hydrolase	PgPan_0448
+CS387_RS10165	Metabolism	Energy metabolism	Fermentation	MBL fold metallo-hydrolase	PgPan_0843
+CF003_RS18290	Metabolism	Energy metabolism	Fermentation	sodium ion-translocating decarboxylase subunit beta	PgPan_0883
+CS546_RS08035	Metabolism	Energy metabolism	Fermentation	acetyl-CoA carboxylase biotin carboxyl carrier protein subunit	PgPan_0884
+B0490_RS00640	Metabolism	Energy metabolism	Fermentation	acyl-CoA carboxylase subunit beta	PgPan_0887
+mce	Metabolism	Energy metabolism	Fermentation	methylmalonyl-CoA epimerase	PgPan_0888
+scpA	Metabolism	Energy metabolism	Fermentation	methylmalonyl-CoA mutase	PgPan_0931
+mutA	Metabolism	Energy metabolism	Fermentation	methylmalonyl-CoA mutase small subunit	PgPan_0932
+CS550_RS03130	Metabolism	Energy metabolism	Fermentation	lactoylglutathione lyase	PgPan_1335
+CS546_RS01690	Metabolism	Energy metabolism	Fermentation	4-hydroxybutyryl-CoA dehydratase	PgPan_1379
+PGA7_RS05965	Metabolism	Energy metabolism	Fermentation	acetyl-CoA hydrolase/transferase family protein	PgPan_1381
+SJDPG2_RS01565	Metabolism	Energy metabolism	Fermentation	4-hydroxybutyrate dehydrogenase	PgPan_1382
+HMPREF1555_RS05325	Metabolism	Energy metabolism	Fermentation	aldehyde dehydrogenase family protein	PgPan_1383
+CS545_RS04095	Metabolism	Energy metabolism	Glycolysis/gluconeogenesis	fructose-bisphosphatase class III	PgPan_0035
+PGJ_RS04155	Metabolism	Energy metabolism	Glycolysis/gluconeogenesis	"pyruvate, phosphate dikinase"	PgPan_0185
+eno	Metabolism	Energy metabolism	Glycolysis/gluconeogenesis	phosphopyruvate hydratase	PgPan_0365
+CF001_RS15980	Metabolism	Energy metabolism	Glycolysis/gluconeogenesis	glucose-6-phosphate isomerase	PgPan_0392
+gap	Metabolism	Energy metabolism	Glycolysis/gluconeogenesis	type I glyceraldehyde-3-phosphate dehydrogenase	PgPan_0737
+pgk	Metabolism	Energy metabolism	Glycolysis/gluconeogenesis	phosphoglycerate kinase	PgPan_0917
+pckA	Metabolism	Energy metabolism	Glycolysis/gluconeogenesis	phosphoenolpyruvate carboxykinase (ATP)	PgPan_0918
+CS549_RS06545	Metabolism	Energy metabolism	Glycolysis/gluconeogenesis	ROK family protein	PgPan_0990
+CS543_RS10460	Metabolism	Energy metabolism	Glycolysis/gluconeogenesis	phosphatase PAP2 family protein	PgPan_0991
+CS549_RS06020	Metabolism	Energy metabolism	Glycolysis/gluconeogenesis	diphosphate--fructose-6-phosphate 1-phosphotransferase	PgPan_1093
+gpmA	Metabolism	Energy metabolism	Glycolysis/gluconeogenesis	"2,3-diphosphoglycerate-dependent phosphoglycerate mutase"	PgPan_1125
+PGJ_RS05980	Metabolism	Energy metabolism	Glycolysis/gluconeogenesis	triose-phosphate isomerase	PgPan_1493
+nifJ	Metabolism	Energy metabolism	Glycolysis/gluconeogenesis	pyruvate:ferredoxin (flavodoxin) oxidoreductase	PgPan_1547
+CF003_RS18980	Metabolism	Energy metabolism	Glycolysis/gluconeogenesis	fructose bisphosphate aldolase	PgPan_1678
+lpdA	Metabolism	Energy metabolism	Other6	dihydrolipoyl dehydrogenase	PgPan_0041
+CF003_RS19950	Metabolism	Energy metabolism	Other6	acetyl-CoA hydrolase/transferase family protein	PgPan_0352
+B0493_RS03715	Metabolism	Energy metabolism	Other6	glycogen/starch synthase	PgPan_0373
+B0493_RS07885	Metabolism	Energy metabolism	Other6	D-2-hydroxyacid dehydrogenase	PgPan_0571
+CBG53_RS05870	Metabolism	Energy metabolism	Other6	NAD(P)-binding domain-containing protein	PgPan_0803
+B0493_RS00325	Metabolism	Energy metabolism	Other6	glycerate kinase	PgPan_1146
+B0490_RS07410	Metabolism	Energy metabolism	Other6	indolepyruvate ferredoxin oxidoreductase	PgPan_1397
+CS387_RS03770	Metabolism	Energy metabolism	Other6	indolepyruvate oxidoreductase subunit beta	PgPan_1398
+CS549_RS03360	Metabolism	Energy metabolism	Other6	"1,4-alpha-glucan-branching enzyme"	PgPan_1638
+CS548_RS09285	Metabolism	Energy metabolism	Other6	2-oxoacid:acceptor oxidoreductase subunit alpha	PgPan_1826
+AT291_RS04220	Metabolism	Energy metabolism	Other6	2-oxoacid:ferredoxin oxidoreductase subunit beta	PgPan_1827
+CS387_RS10025	Metabolism	Energy metabolism	Pentose phosphate pathway	ribulose-phosphate 3-epimerase	PgPan_0871
+fsa	Metabolism	Energy metabolism	Pentose phosphate pathway	fructose-6-phosphate aldolase	PgPan_1030
+CS543_RS02935	Metabolism	Energy metabolism	Pentose phosphate pathway	transketolase	PgPan_1684
+rpiB	Metabolism	Energy metabolism	Pentose phosphate pathway	ribose 5-phosphate isomerase B	PgPan_1685
+CS374_RS08735	Metabolism	Energy metabolism	Sugars	4-alpha-glucanotransferase	PgPan_0014
+CS546_RS00545	Metabolism	Energy metabolism	Sugars	DUF4981 domain-containing protein	PgPan_0090
+B0493_RS06250	Metabolism	Energy metabolism	Sugars	alpha-amylase	PgPan_0091
+CS387_RS02045	Metabolism	Energy metabolism	Sugars	polyprenol monophosphomannose synthase	PgPan_0112
+B0490_RS06500	Metabolism	Energy metabolism	Sugars	DUF4252 domain-containing protein	PgPan_0163
+CS374_RS00265	Metabolism	Energy metabolism	Sugars	glycosyltransferase	PgPan_0204
+CS544_RS10670	Metabolism	Energy metabolism	Sugars	GDP-L-fucose synthase	PgPan_0462
+B0493_RS02655	Metabolism	Energy metabolism	Sugars	phospho-sugar mutase	PgPan_0585
+CS374_RS02325	Metabolism	Energy metabolism	Sugars	alpha-amylase	PgPan_0911
+AT291_RS03965	Metabolism	Energy metabolism	Sugars	galactose mutarotase	PgPan_0956
+galK	Metabolism	Energy metabolism	Sugars	galactokinase	PgPan_0957
+CBG53_RS04760	Metabolism	Energy metabolism	Sugars	alpha-L-fucosidase	PgPan_1163
+CS548_RS00510	Metabolism	Energy metabolism	Sugars	serine hydrolase	PgPan_1239
+HMPREF1555_RS07030	Metabolism	Energy metabolism	Sugars	glycoside hydrolase family 2 protein	PgPan_1257
+CBG53_RS09045	Metabolism	Energy metabolism	Sugars	glycoside hydrolase family 27 protein	PgPan_1298
+glgP	Metabolism	Energy metabolism	Sugars	alpha-glucan family phosphorylase	PgPan_1375
+CS387_RS03815	Metabolism	Energy metabolism	Sugars	DUF4981 domain-containing protein	PgPan_1455
+CS548_RS10060	Metabolism	Energy metabolism	Sugars	"alpha-1,3/4-fucosidase"	PgPan_1683
+galE	Metabolism	Energy metabolism	Sugars	UDP-glucose 4-epimerase GalE	PgPan_1750
+CS543_RS03300	Metabolism	Energy metabolism	Sugars	exo-alpha-sialidase	PgPan_1755
+CBG53_RS05475	Metabolism	Energy metabolism	Sugars	mannose-6-phosphate isomerase	PgPan_1854
+CS388_RS09425	Metabolism	Energy metabolism	TCA cycle	acetyl-CoA hydrolase/transferase family protein	PgPan_0183
+CS387_RS06265	Metabolism	Energy metabolism	TCA cycle	2-oxoglutarate ferredoxin oxidoreductase subunit gamma	PgPan_0353
+PGF_RS08435	Metabolism	Energy metabolism	TCA cycle	2-oxoglutarate oxidoreductase	PgPan_0354
+vorB	Metabolism	Energy metabolism	TCA cycle	3-methyl-2-oxobutanoate dehydrogenase subunit VorB	PgPan_0356
+CLI74_RS01365	Metabolism	Energy metabolism	TCA cycle	4Fe-4S dicluster domain-containing protein	PgPan_0357
+CS546_RS08010	Metabolism	Energy metabolism	TCA cycle	succinate dehydrogenase/fumarate reductase iron-sulfur subunit	PgPan_0889
+sdhA	Metabolism	Energy metabolism	TCA cycle	fumarate reductase/succinate dehydrogenase flavoprotein subunit	PgPan_0890
+CS550_RS07200	Metabolism	Energy metabolism	TCA cycle	succinate dehydrogenase/fumarate reductase cytochrome b subunit	PgPan_0891
+CS388_RS03440	Metabolism	Energy metabolism	TCA cycle	oxaloacetate decarboxylase	PgPan_1015
+CS387_RS06675	Metabolism	Energy metabolism	TCA cycle	malate dehydrogenase	PgPan_1222
+CF001_RS18785	Metabolism	Energy metabolism	TCA cycle	NADP-dependent malic enzyme	PgPan_1687
+CS388_RS02250	Metabolism	Energy metabolism	TCA cycle	fumarate hydratase	PgPan_1909
+pssA	Metabolism	Fatty acid and phospholipid metabolism	Biosynthesis	CDP-diacylglycerol--serine O-phosphatidyltransferase	PgPan_0150
+CS545_RS05660	Metabolism	Fatty acid and phospholipid metabolism	Biosynthesis	long-chain fatty acid--CoA ligase	PgPan_0241
+CBG53_RS05100	Metabolism	Fatty acid and phospholipid metabolism	Biosynthesis	AMP-binding protein	PgPan_0369
+CS545_RS07530	Metabolism	Fatty acid and phospholipid metabolism	Biosynthesis	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase	PgPan_0391
+CS544_RS00150	Metabolism	Fatty acid and phospholipid metabolism	Biosynthesis	1-acyl-sn-glycerol-3-phosphate acyltransferase	PgPan_0492
+fabG	Metabolism	Fatty acid and phospholipid metabolism	Biosynthesis	3-oxoacyl-[acyl-carrier-protein] reductase	PgPan_0500
+CS549_RS04725	Metabolism	Fatty acid and phospholipid metabolism	Biosynthesis	SDR family oxidoreductase	PgPan_0692
+CBG53_RS08415	Metabolism	Fatty acid and phospholipid metabolism	Biosynthesis	CDP-alcohol phosphatidyltransferase family protein	PgPan_0693
+fabH	Metabolism	Fatty acid and phospholipid metabolism	Biosynthesis	ketoacyl-ACP synthase III	PgPan_0752
+CS545_RS08355	Metabolism	Fatty acid and phospholipid metabolism	Biosynthesis	transporter	PgPan_0952
+fabD	Metabolism	Fatty acid and phospholipid metabolism	Biosynthesis	ACP S-malonyltransferase	PgPan_1117
+SJDPG2_RS08935	Metabolism	Fatty acid and phospholipid metabolism	Biosynthesis	phosphatidate cytidylyltransferase	PgPan_1267
+CS374_RS04750	Metabolism	Fatty acid and phospholipid metabolism	Biosynthesis	bifunctional UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase/3-hydroxyacyl-ACP dehydratase	PgPan_1287
+CS548_RS10135	Metabolism	Fatty acid and phospholipid metabolism	Biosynthesis	acyl carrier protein	PgPan_1668
+fabF	Metabolism	Fatty acid and phospholipid metabolism	Biosynthesis	beta-ketoacyl-ACP synthase II	PgPan_1669
+AT291_RS02525	Metabolism	Fatty acid and phospholipid metabolism	Biosynthesis	2-nitropropane dioxygenase	PgPan_1911
+dut	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	2-Deoxyribonucleotide metabolism	dUTP diphosphatase	PgPan_0139
+EG14_RS05880	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	2-Deoxyribonucleotide metabolism	adenosylcobalamin-dependent ribonucleoside-diphosphate reductase	PgPan_0257
+CS548_RS05240	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	2-Deoxyribonucleotide metabolism	anaerobic ribonucleoside triphosphate reductase	PgPan_0482
+nrdG	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	2-Deoxyribonucleotide metabolism	anaerobic ribonucleoside-triphosphate reductase activating protein	PgPan_0483
+CS388_RS05145	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	2-Deoxyribonucleotide metabolism	thymidylate synthase	PgPan_0684
+dgt	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	Nucleotide and nucleoside interconversions	deoxyguanosinetriphosphate triphosphohydrolase family protein	PgPan_0580
+CS549_RS03520	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	Nucleotide and nucleoside interconversions	dCMP deaminase family protein	PgPan_1143
+CS544_RS06715	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	Nucleotide and nucleoside interconversions	UMP kinase	PgPan_1181
+CBG53_RS01920	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	Nucleotide and nucleoside interconversions	(d)CMP kinase	PgPan_1508
+gmk	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	Nucleotide and nucleoside interconversions	guanylate kinase	PgPan_1581
+PGA7_RS00780	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	Nucleotide and nucleoside interconversions	bifunctional metallophosphatase/5-nucleotidase	PgPan_1921
+B0492_RS04980	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	Other7	CYTH domain-containing protein	PgPan_0467
+deoC	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	Other7	deoxyribose-phosphate aldolase	PgPan_0574
+CS543_RS10625	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	Other7	"noncanonical pyrimidine nucleotidase, YjjG family"	PgPan_1022
+B0490_RS05045	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	Purine ribonucleotide biosynthesis	hypoxanthine phosphoribosyltransferase	PgPan_0033
+purE	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	Purine ribonucleotide biosynthesis	5-(carboxyamino)imidazole ribonucleotide mutase	PgPan_0137
+CS549_RS09820	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	Purine ribonucleotide biosynthesis	phosphoribosylaminoimidazolesuccinocarboxamide synthase	PgPan_0157
+purB	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	Purine ribonucleotide biosynthesis	adenylosuccinate lyase	PgPan_0263
+purD	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	Purine ribonucleotide biosynthesis	phosphoribosylamine--glycine ligase	PgPan_0400
+prs	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	Purine ribonucleotide biosynthesis	ribose-phosphate pyrophosphokinase	PgPan_0715
+B0492_RS06250	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	Purine ribonucleotide biosynthesis	nucleoside deaminase	PgPan_0982
+CF001_RS20440	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	Purine ribonucleotide biosynthesis	phosphoribosylformylglycinamidine cyclo-ligase	PgPan_1291
+guaA	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	Purine ribonucleotide biosynthesis	glutamine-hydrolyzing GMP synthase	PgPan_1519
+B0490_RS03195	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	Purine ribonucleotide biosynthesis	amidophosphoribosyltransferase	PgPan_1567
+B0493_RS06915	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	Purine ribonucleotide biosynthesis	IMP dehydrogenase	PgPan_1571
+CF002_RS08555	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	Purine ribonucleotide biosynthesis	phosphoribosylglycinamide formyltransferase	PgPan_1667
+purL	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	Purine ribonucleotide biosynthesis	phosphoribosylformylglycinamidine synthase	PgPan_1705
+SJDPG2_RS02425	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	Purine ribonucleotide biosynthesis	adenylosuccinate synthase	PgPan_1851
+purH	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	Purine ribonucleotide biosynthesis	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	PgPan_1872
+CS550_RS04135	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	Pyrimidine ribonucleotide biosynthesis	dihydroorotase	PgPan_0111
+PGJ_RS04530	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	Pyrimidine ribonucleotide biosynthesis	thymidine kinase	PgPan_0116
+CF001_RS14630	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	Pyrimidine ribonucleotide biosynthesis	dihydroorotate dehydrogenase electron transfer subunit	PgPan_0312
+HMPREF1555_RS03600	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	Pyrimidine ribonucleotide biosynthesis	nucleoside phosphorylase	PgPan_0389
+CS545_RS07425	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	Pyrimidine ribonucleotide biosynthesis	orotate phosphoribosyltransferase	PgPan_0407
+CBG53_RS08880	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	Pyrimidine ribonucleotide biosynthesis	dihydroorotate dehydrogenase-like protein	PgPan_0681
+CS059_RS06055	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	Pyrimidine ribonucleotide biosynthesis	nucleoside kinase	PgPan_0995
+pyrF	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	Pyrimidine ribonucleotide biosynthesis	orotidine-5-phosphate decarboxylase	PgPan_1289
+upp	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	Pyrimidine ribonucleotide biosynthesis	uracil phosphoribosyltransferase	PgPan_1330
+carB	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	Pyrimidine ribonucleotide biosynthesis	carbamoyl-phosphate synthase (glutamine-hydrolyzing) large subunit	PgPan_1565
+carA	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	Pyrimidine ribonucleotide biosynthesis	glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit	PgPan_1566
+B0493_RS06925	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	Pyrimidine ribonucleotide biosynthesis	CTP synthase	PgPan_1569
+pyrB	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	Pyrimidine ribonucleotide biosynthesis	aspartate carbamoyltransferase	PgPan_1759
+CS548_RS09660	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	Pyrimidine ribonucleotide biosynthesis	aspartate carbamoyltransferase regulatory subunit	PgPan_1760
+xpt	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	Salvage of nucleosides and nucleotides	xanthine phosphoribosyltransferase	PgPan_0826
+cdd	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	Salvage of nucleosides and nucleotides	cytidine deaminase	PgPan_1254
+CS387_RS04280	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	Salvage of nucleosides and nucleotides	"purine nucleoside phosphorylase I, inosine and guanosine-specific"	PgPan_1543
+udk	Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	Salvage of nucleosides and nucleotides	uridine kinase	PgPan_1651
+PGF_RS04090	Metabolism	Transport and binding proteins	"Amino acids, peptides and amines"	LysE family transporter	PgPan_0381
+meaB	Metabolism	Transport and binding proteins	"Amino acids, peptides and amines"	methylmalonyl Co-A mutase-associated GTPase MeaB	PgPan_1727
+CS548_RS09825	Metabolism	Transport and binding proteins	"Amino acids, peptides and amines"	dicarboxylate/amino acid:cation symporter	PgPan_1728
+EG14_RS09370	Metabolism	Transport and binding proteins	"Amino acids, peptides and amines"	"oligopeptide transporter, OPT family"	PgPan_1837
+PGJ_RS08550	Metabolism	Transport and binding proteins	Anions	chloride channel protein	PgPan_0343
+CS548_RS03310	Metabolism	Transport and binding proteins	Anions	sulfite exporter TauE/SafE family protein	PgPan_0844
+PGJ_RS00940	Metabolism	Transport and binding proteins	Anions	formate/nitrite transporter family protein	PgPan_1054
+sulP	Metabolism	Transport and binding proteins	Anions	sulfate permease	PgPan_1247
+PGJ_RS07465	Metabolism	Transport and binding proteins	Anions	chromate transporter	PgPan_1699
+EG14_RS10075	Metabolism	Transport and binding proteins	Anions	chromate transporter	PgPan_1700
+HMPREF1555_RS07740	Metabolism	Transport and binding proteins	"Carbohydrates, organic alcohols, and acids"	L-lactate permease	PgPan_0417
+PGJ_RS06790	Metabolism	Transport and binding proteins	"Carbohydrates, organic alcohols, and acids"	BexD/CtrA/VexA family polysaccharide export protein	PgPan_1833
+HMPREF1555_RS04260	Metabolism	Transport and binding proteins	"Carbohydrates, organic alcohols, and acids"	MFS transporter	PgPan_1927
+ptk1	Metabolism	Transport and binding proteins	"Carbohydrates, organic alcohols, and acids"	polysaccharide biosynthesis tyrosine autokinase Ptk1	PgPan_1957
+B0490_RS04995	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	MotA/TolQ/ExbB proton channel family protein	PgPan_0024
+B0490_RS05015	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	energy transducer TonB	PgPan_0027
+CS546_RS00355	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	"calcium-translocating P-type ATPase, PMCA-type"	PgPan_0129
+EG14_RS06695	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	ABC transporter permease	PgPan_0131
+CS544_RS01540	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	ATP-binding cassette domain-containing protein	PgPan_0132
+group_4090	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	ferrous iron transport protein B	PgPan_0205
+feoB	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	ferrous iron transport protein B	PgPan_0459
+CS059_RS03415	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	TonB-dependent receptor	PgPan_0583
+SJDPG2_RS04810	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	ion transporter	PgPan_0663
+CS546_RS06090	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	cation transporter	PgPan_0709
+B0492_RS10795	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	TrkH family potassium uptake protein	PgPan_0764
+trkA	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	Trk system potassium transporter TrkA	PgPan_0765
+nqrA	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	NADH:ubiquinone reductase (Na(+)-transporting) subunit A	PgPan_0793
+nqrB	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	NADH:ubiquinone reductase (Na(+)-transporting) subunit B	PgPan_0794
+CLI74_RS08285	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	Na(+)-translocating NADH-quinone reductase subunit C	PgPan_0795
+nqrD	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	NADH:ubiquinone reductase (Na(+)-transporting) subunit D	PgPan_0796
+nqrE	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	NADH:ubiquinone reductase (Na(+)-transporting) subunit E	PgPan_0797
+nqrF	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	NADH:ubiquinone reductase (Na(+)-transporting) subunit F	PgPan_0798
+CS387_RS10250	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	heme-binding protein HmuY	PgPan_0828
+CLI74_RS05900	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	TonB-dependent receptor	PgPan_0829
+CS548_RS02860	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	efflux RND transporter periplasmic adaptor subunit	PgPan_0923
+CBG53_RS04090	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	ABC transporter permease	PgPan_0924
+CS543_RS10050	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	ABC transporter permease	PgPan_0925
+CS545_RS08475	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	ABC transporter ATP-binding protein	PgPan_0926
+cadA	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	copper-translocating P-type ATPase	PgPan_0964
+mgtE	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	magnesium transporter	PgPan_1121
+CLI74_RS08035	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	GNAT family N-acetyltransferase	PgPan_1155
+nhaA	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	Na+/H+ antiporter NhaA	PgPan_1157
+CS374_RS05665	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	TonB-dependent receptor	PgPan_1178
+CLI74_RS05745	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	magnesium transporter CorA family protein	PgPan_1356
+CS546_RS01620	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	TonB-dependent receptor	PgPan_1366
+CS543_RS05025	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	ABC transporter ATP-binding protein	PgPan_1399
+B0493_RS02875	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	iron ABC transporter permease	PgPan_1400
+CS549_RS00895	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	ABC transporter substrate-binding protein	PgPan_1401
+PGJ_RS05530	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	TonB-dependent receptor	PgPan_1403
+EG14_RS08500	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	ABC transporter substrate-binding protein	PgPan_1468
+PGJ_RS05865	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	iron ABC transporter permease	PgPan_1469
+CF001_RS13490	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	ABC transporter ATP-binding protein	PgPan_1470
+B0490_RS07275	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	TonB-dependent hemoglobin/transferrin/lactoferrin family receptor	PgPan_1472
+CS544_RS09775	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	TonB family protein	PgPan_1483
+PGJ_RS06010	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	thioredoxin	PgPan_1499
+CS548_RS08560	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	trimeric intracellular cation channel family protein	PgPan_1521
+CS548_RS10300	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	sodium:hydrogen antiporter	PgPan_1639
+CS548_RS10110	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	ATP-binding cassette domain-containing protein	PgPan_1673
+CBG53_RS09610	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	zinc ABC transporter solute-binding protein	PgPan_1674
+B0490_RS01950	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	potassium/proton antiporter	PgPan_1777
+CBG53_RS03295	Metabolism	Transport and binding proteins	Cations and iron carrying compounds	pyridoxamine 5-phosphate oxidase family protein	PgPan_1879
+B0493_RS06075	Metabolism	Transport and binding proteins	"Nucleosides, purines and pyrimidines"	NCS2 family permease	PgPan_0127
+PGS_RS03835	Metabolism	Transport and binding proteins	"Nucleosides, purines and pyrimidines"	uracil permease	PgPan_0260
+CS388_RS06675	Metabolism	Transport and binding proteins	"Nucleosides, purines and pyrimidines"	nucleoside permease	PgPan_0375
+CF003_RS20875	Metabolism	Transport and binding proteins	"Nucleosides, purines and pyrimidines"	purine permease	PgPan_0825
+CF002_RS05720	Metabolism	Transport and binding proteins	Other8	"5-nucleotidase, lipoprotein e(P4) family"	PgPan_0115
+CS388_RS09565	Metabolism	Transport and binding proteins	Other8	BamA/TamA family outer membrane protein	PgPan_0160
+SJDPG2_RS08200	Metabolism	Transport and binding proteins	Other8	ABC transporter permease	PgPan_0195
+PGA7_RS04425	Metabolism	Transport and binding proteins	Other8	ATP-binding cassette domain-containing protein	PgPan_0196
+CS059_RS08460	Metabolism	Transport and binding proteins	Other8	MCE family protein	PgPan_0209
+B0493_RS08900	Metabolism	Transport and binding proteins	Other8	OmpA family protein	PgPan_0217
+CLI74_RS07855	Metabolism	Transport and binding proteins	Other8	ABC transporter ATP-binding protein	PgPan_0318
+B0493_RS04545	Metabolism	Transport and binding proteins	Other8	MMPL family transporter	PgPan_0322
+CS059_RS05115	Metabolism	Transport and binding proteins	Other8	BamA/TamA family outer membrane protein	PgPan_0713
+B0490_RS07895	Metabolism	Transport and binding proteins	Other8	ABC-F family ATP-binding cassette domain-containing protein	PgPan_0782
+PGA7_RS01685	Metabolism	Transport and binding proteins	Other8	MATE family efflux transporter	PgPan_0962
+CS543_RS10330	Metabolism	Transport and binding proteins	Other8	ABC transporter ATP-binding protein	PgPan_0973
+CBG53_RS10540	Metabolism	Transport and binding proteins	Other8	transporter	PgPan_0988
+CS549_RS05840	Metabolism	Transport and binding proteins	Other8	alkaline phosphatase family protein	PgPan_1129
+CLI74_RS02495	Metabolism	Transport and binding proteins	Other8	nicotinamide mononucleotide transporter	PgPan_1177
+CS388_RS05975	Metabolism	Transport and binding proteins	Other8	AI-2E family transporter	PgPan_1226
+CS387_RS07665	Metabolism	Transport and binding proteins	Other8	MATE family efflux transporter	PgPan_1236
+EG14_RS08550	Metabolism	Transport and binding proteins	Other8	MATE family efflux transporter	PgPan_1480
+HMPREF1555_RS05170	Metabolism	Transport and binding proteins	Other8	YjgP/YjgQ family permease	PgPan_1511
+PGF_RS07065	Metabolism	Transport and binding proteins	Other8	alkaline phosphatase family protein	PgPan_1578
+CS387_RS04585	Metabolism	Transport and binding proteins	Other8	YjgP/YjgQ family permease	PgPan_1590
+SJDPG2_RS09745	Metabolism	Transport and binding proteins	Porins	PorT family protein	PgPan_0364
+CLI74_RS04420	Metabolism	Transport and binding proteins	Porins	porin	PgPan_0382
+CS059_RS03585	Metabolism	Transport and binding proteins	Porins	OmpA family protein	PgPan_0680
+B0492_RS08750	Metabolism	Transport and binding proteins	Porins	TolC family protein	PgPan_0922
+CS548_RS02040	Metabolism	Transport and binding proteins	Porins	OmpH family outer membrane protein	PgPan_1066
+HMPREF1555_RS05355	Metabolism	Transport and binding proteins	Porins	OmpA family protein	PgPan_1377
+CBG53_RS01520	Metabolism	Transport and binding proteins	Porins	OmpA family protein	PgPan_1378
+B0492_RS04895	Metabolism	Transport and binding proteins	Porins	TolC family protein	PgPan_1392
+CS549_RS01520	Metabolism	Transport and binding proteins	Porins	OmpH family outer membrane protein	PgPan_1560
+CS549_RS02505	Metabolism	Transport and binding proteins	Porins	porin	PgPan_1732
+CS546_RS03250	Metabolism	Transport and binding proteins	Porins	putative porin	PgPan_1764
+sprA	Metabolism	Transport and binding proteins	T9SS	cell surface protein SprA	PgPan_0047
+B0490_RS02850	Metabolism	Transport and binding proteins	T9SS	PglZ domain-containing protein	PgPan_0119
+CS387_RS00875	Metabolism	Transport and binding proteins	T9SS	DegT/DnrJ/EryC1/StrS family aminotransferase	PgPan_0248
+CS543_RS07735	Metabolism	Transport and binding proteins	T9SS	lipopolysaccharide biosynthesis protein	PgPan_0249
+CS374_RS03850	Metabolism	Transport and binding proteins	T9SS	PorT family protein	PgPan_0721
+CS374_RS04065	Metabolism	Transport and binding proteins	T9SS	PorT family protein	PgPan_0824
+CS388_RS02665	Metabolism	Transport and binding proteins	T9SS	hypothetical protein	PgPan_0880
+B0493_RS01720	Metabolism	Transport and binding proteins	T9SS	OmpH family outer membrane protein	PgPan_1067
+CS549_RS06130	Metabolism	Transport and binding proteins	T9SS	outer membrane beta-barrel protein	PgPan_1070
+CBG53_RS04465	Metabolism	Transport and binding proteins	T9SS	tetratricopeptide repeat protein	PgPan_1220
+porU	Metabolism	Transport and binding proteins	T9SS	type IX secretion system sortase PorU	PgPan_1250
+porV	Metabolism	Transport and binding proteins	T9SS	type IX secretion system outer membrane channel protein PorV	PgPan_1251
+CF003_RS11010	Metabolism	Transport and binding proteins	T9SS	HAMP domain-containing histidine kinase	PgPan_1271
+EG14_RS01830	Metabolism	Transport and binding proteins	T9SS	PorT family protein	PgPan_1296
+CS550_RS03160	Metabolism	Transport and binding proteins	T9SS	PorT family protein	PgPan_1331
+porQ	Metabolism	Transport and binding proteins	T9SS	type IX secretion system protein PorQ	PgPan_1509
+PGA7_RS06625	Metabolism	Transport and binding proteins	T9SS	TonB-dependent receptor	PgPan_1561
+AT291_RS00085	Metabolism	Transport and binding proteins	T9SS	type IX secretion system membrane protein PorP/SprF	PgPan_1694
+SJDPG2_RS08090	Metabolism	Transport and binding proteins	T9SS	SUMF1/EgtB/PvdO family nonheme iron enzyme	PgPan_1695
+gldL	Metabolism	Transport and binding proteins	T9SS	gliding motility protein GldL	PgPan_1696
+gldM	Metabolism	Transport and binding proteins	T9SS	gliding motility protein GldM	PgPan_1697
+gldN	Metabolism	Transport and binding proteins	T9SS	gliding motility protein GldN	PgPan_1698
+CS545_RS04000	Metabolism	Transport and binding proteins	Unknown substrate	biopolymer transporter ExbD	PgPan_0021
+B0492_RS05690	Metabolism	Transport and binding proteins	Unknown substrate	"transport energizing protein, ExbD/TolR family"	PgPan_0022
+B0493_RS09095	Metabolism	Transport and binding proteins	Unknown substrate	ABC transporter ATP-binding protein	PgPan_0181
+AT291_RS03035	Metabolism	Transport and binding proteins	Unknown substrate	sodium:solute symporter	PgPan_0277
+B0490_RS03295	Metabolism	Transport and binding proteins	Unknown substrate	mechanosensitive ion channel	PgPan_0342
+CS387_RS06735	Metabolism	Transport and binding proteins	Unknown substrate	phosphate transporter family protein	PgPan_0348
+CF003_RS14915	Metabolism	Transport and binding proteins	Unknown substrate	ABC transporter permease subunit	PgPan_0383
+CS388_RS02040	Metabolism	Transport and binding proteins	Unknown substrate	ABC transporter ATP-binding protein	PgPan_0384
+HMPREF1555_RS01930	Metabolism	Transport and binding proteins	Unknown substrate	ABC transporter substrate-binding protein	PgPan_0385
+CS546_RS09950	Metabolism	Transport and binding proteins	Unknown substrate	ABC-F family ATP-binding cassette domain-containing protein	PgPan_0510
+AT291_RS07100	Metabolism	Transport and binding proteins	Unknown substrate	putative sulfate exporter family transporter	PgPan_0581
+SJDPG2_RS06165	Metabolism	Transport and binding proteins	Unknown substrate	ABC-F family ATP-binding cassette domain-containing protein	PgPan_0775
+CS548_RS02765	Metabolism	Transport and binding proteins	Unknown substrate	ABC transporter ATP-binding protein	PgPan_0915
+CS059_RS05590	Metabolism	Transport and binding proteins	Unknown substrate	TonB-dependent receptor	PgPan_1073
+B0493_RS05855	Metabolism	Transport and binding proteins	Unknown substrate	ABC transporter permease	PgPan_1303
+CS548_RS01565	Metabolism	Transport and binding proteins	Unknown substrate	ABC transporter permease	PgPan_1304
+CF001_RS20525	Metabolism	Transport and binding proteins	Unknown substrate	HlyD family secretion protein	PgPan_1305
+CS548_RS08115	Metabolism	Transport and binding proteins	Unknown substrate	ABC transporter ATP-binding protein	PgPan_1386
+CS544_RS10010	Metabolism	Transport and binding proteins	Unknown substrate	FtsX-like permease family protein	PgPan_1387
+EG14_RS08355	Metabolism	Transport and binding proteins	Unknown substrate	efflux RND transporter periplasmic adaptor subunit	PgPan_1391
+B0493_RS02710	Metabolism	Transport and binding proteins	Unknown substrate	biopolymer transporter ExbD	PgPan_1484
+CF003_RS13700	Metabolism	Transport and binding proteins	Unknown substrate	MotA/TolQ/ExbB proton channel family protein	PgPan_1485
+CS550_RS02350	Metabolism	Transport and binding proteins	Unknown substrate	putative transporter	PgPan_1540
+B0490_RS03615	Metabolism	Transport and binding proteins	Unknown substrate	ABC transporter permease	PgPan_1688
+CS387_RS05675	Metabolism	Transport and binding proteins	Unknown substrate	FtsX-like permease family protein	PgPan_1689
+PGJ_RS07510	Metabolism	Transport and binding proteins	Unknown substrate	ABC transporter ATP-binding protein	PgPan_1690
+B0492_RS02605	Metabolism	Transport and binding proteins	Unknown substrate	HlyD family efflux transporter periplasmic adaptor subunit	PgPan_1691
+CS387_RS05415	Metabolism	Transport and binding proteins	Unknown substrate	DMT family transporter	PgPan_1739
+CS388_RS07765	Metabolism	Transport and binding proteins	Unknown substrate	MFS transporter	PgPan_1849
+CLI74_RS04560	Metabolism	Transport and binding proteins	Unknown substrate	putative transporter	PgPan_1882
+CS388_RS03735	Metabolism	Transport and binding proteins	Unknown substrate	TonB-dependent receptor	PgPan_2106
+PGA7_RS00830	Metabolism	Transport and binding proteins	Unknown substrate	TonB-dependent receptor	PgPan_2154
+CF003_RS16705	Signal transduction2	Regulatory functions	DNA interactions	helix-turn-helix transcriptional regulator	PgPan_0170
+CF002_RS05340	Signal transduction2	Regulatory functions	DNA interactions	GntR family transcriptional regulator	PgPan_0178
+CS374_RS00275	Signal transduction2	Regulatory functions	DNA interactions	transcriptional regulator	PgPan_0202
+CS544_RS01055	Signal transduction2	Regulatory functions	DNA interactions	DtxR family transcriptional regulator	PgPan_0206
+CS545_RS05525	Signal transduction2	Regulatory functions	DNA interactions	MerR family transcriptional regulator	PgPan_0212
+B0493_RS08920	Signal transduction2	Regulatory functions	DNA interactions	Crp/Fnr family transcriptional regulator	PgPan_0213
+CS544_RS00775	Signal transduction2	Regulatory functions	DNA interactions	winged helix-turn-helix transcriptional regulator	PgPan_0259
+CS387_RS00520	Signal transduction2	Regulatory functions	DNA interactions	helix-turn-helix transcriptional regulator	PgPan_0313
+CS059_RS09330	Signal transduction2	Regulatory functions	DNA interactions	TetR/AcrR family transcriptional regulator	PgPan_0499
+CS544_RS05275	Signal transduction2	Regulatory functions	DNA interactions	helix-turn-helix domain-containing protein	PgPan_0738
+CF003_RS21280	Signal transduction2	Regulatory functions	DNA interactions	transcriptional regulator	PgPan_0758
+B0492_RS05350	Signal transduction2	Regulatory functions	DNA interactions	helix-turn-helix transcriptional regulator	PgPan_0812
+AT291_RS00915	Signal transduction2	Regulatory functions	DNA interactions	Crp/Fnr family transcriptional regulator	PgPan_0845
+CS545_RS08370	Signal transduction2	Regulatory functions	DNA interactions	4Fe-4S binding protein	PgPan_0950
+AT291_RS06370	Signal transduction2	Regulatory functions	DNA interactions	hydrogen peroxide-inducible genes activator	PgPan_1001
+CF001_RS11460	Signal transduction2	Regulatory functions	DNA interactions	winged helix DNA-binding protein	PgPan_1085
+CS059_RS04215	Signal transduction2	Regulatory functions	DNA interactions	winged helix-turn-helix transcriptional regulator	PgPan_1245
+SJDPG2_RS00590	Signal transduction2	Regulatory functions	DNA interactions	redox-sensing transcriptional repressor Rex	PgPan_1248
+CS550_RS09750	Signal transduction2	Regulatory functions	DNA interactions	DNA starvation/stationary phase protection protein	PgPan_1302
+B0493_RS05825	Signal transduction2	Regulatory functions	DNA interactions	YebC/PmpR family DNA-binding transcriptional regulator	PgPan_1308
+CS546_RS03095	Signal transduction2	Regulatory functions	DNA interactions	Crp/Fnr family transcriptional regulator	PgPan_1792
+CS548_RS09140	Signal transduction2	Regulatory functions	DNA interactions	Fur family transcriptional regulator	PgPan_1852
+B0492_RS00460	Signal transduction2	Regulatory functions	DNA interactions	helix-turn-helix transcriptional regulator	PgPan_1944
+typA	Signal transduction2	Regulatory functions	Other9	translational GTPase TypA	PgPan_1500
+SJDPG2_RS07515	Signal transduction2	Regulatory functions	Small molecule interactions	M56 family metallopeptidase	PgPan_0792
+PGS_RS02120	Signal transduction2	Regulatory functions	Small molecule interactions	"bifunctional (p)ppGpp synthetase/guanosine-3,5-bis(diphosphate) 3-pyrophosphohydrolase"	PgPan_0941
+SJDPG2_RS07725	Signal transduction2	Signal transduction	Other10	PhoH family protein	PgPan_0156
+CS549_RS08845	Signal transduction2	Signal transduction	Other10	TonB-dependent receptor	PgPan_0177
+CS549_RS08905	Signal transduction2	Signal transduction	Other10	TonB-dependent receptor	PgPan_0188
+CS548_RS00450	Signal transduction2	Signal transduction	Other10	TonB-dependent receptor	PgPan_0757
+CS387_RS09555	Signal transduction2	Signal transduction	Other10	HIT family protein	PgPan_0909
+CS544_RS04020	Signal transduction2	Signal transduction	Other10	TonB-dependent receptor	PgPan_0971
+SJDPG2_RS02810	Signal transduction2	Signal transduction	Other10	PspC domain-containing protein	PgPan_1273
+HMPREF1555_RS09185	Signal transduction2	Signal transduction	Other10	TonB-dependent receptor	PgPan_1835
+CS546_RS09040	Signal transduction2	Signal transduction	Other10	TonB-dependent receptor plug domain-containing protein	PgPan_1883
+B0492_RS00145	Signal transduction2	Signal transduction	Two-component systems	response regulator transcription factor	PgPan_0288
+PGA7_RS03590	Signal transduction2	Signal transduction	Two-component systems	response regulator transcription factor	PgPan_0502
+CS545_RS08295	Signal transduction2	Signal transduction	Two-component systems	low molecular weight phosphotyrosine protein phosphatase	PgPan_0963
+PGF_RS00070	Signal transduction2	Signal transduction	Two-component systems	GHKL domain-containing protein	PgPan_1243
+AT291_RS05635	Signal transduction2	Signal transduction	Two-component systems	PAS domain-containing sensor histidine kinase	PgPan_1334
+CLI74_RS05770	Signal transduction2	Signal transduction	Two-component systems	response regulator transcription factor	PgPan_1355
+CS546_RS02435	Signal transduction2	Signal transduction	Two-component systems	VanW family protein	PgPan_1563
+PGJ_RS07790	Signal transduction2	Signal transduction	Two-component systems	response regulator	PgPan_1635
+php1	Signal transduction2	Signal transduction	Two-component systems	polysaccharide biosynthesis protein-tyrosine phosphatase Php1	PgPan_1831
+B0493_RS09245	Signal transduction2	Signal transduction	Two-component systems	endonuclease/exonuclease/phosphatase family protein	PgPan_1875
+CS548_RS04415	Signal transduction2	Signal transduction	Two-component systems	tetratricopeptide repeat-containing sensor histidine kinase	PgPan_1899
+CS387_RS10365	Signal transduction2	Signal transduction	Two-component systems	response regulator transcription factor	PgPan_1900
+CS374_RS08695	Unknown function	Hypothetical proteins	Unknown	DUF2130 domain-containing protein	PgPan_0007
+EG14_RS08000	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0008
+B0492_RS02260	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0010
+PGS_RS05555	Unknown function	Hypothetical proteins	Unknown	DUF2891 domain-containing protein	PgPan_0015
+CS545_RS03955	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0016
+CS545_RS04010	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0023
+CS544_RS02415	Unknown function	Hypothetical proteins	Unknown	TatD family hydrolase	PgPan_0025
+CLI74_RS02980	Unknown function	Hypothetical proteins	Unknown	carboxypeptidase-like regulatory domain-containing protein	PgPan_0029
+CBG53_RS00495	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0030
+CF002_RS02560	Unknown function	Hypothetical proteins	Unknown	Bax inhibitor-1/YccA family protein	PgPan_0037
+CS374_RS08895	Unknown function	Hypothetical proteins	Unknown	FAD-binding protein	PgPan_0039
+CS059_RS10915	Unknown function	Hypothetical proteins	Unknown	HD domain-containing protein	PgPan_0040
+CS549_RS00275	Unknown function	Hypothetical proteins	Unknown	FprA family A-type flavoprotein	PgPan_0043
+CS548_RS07020	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0077
+PGA7_RS05070	Unknown function	Hypothetical proteins	Unknown	aminopeptidase P family protein	PgPan_0086
+CS549_RS10170	Unknown function	Hypothetical proteins	Unknown	patatin-like phospholipase family protein	PgPan_0092
+PGA7_RS05020	Unknown function	Hypothetical proteins	Unknown	DUF4492 domain-containing protein	PgPan_0095
+EG14_RS06850	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0102
+CS546_RS00490	Unknown function	Hypothetical proteins	Unknown	serine dehydratase subunit alpha family protein	PgPan_0104
+B0493_RS06195	Unknown function	Hypothetical proteins	Unknown	FHA domain-containing protein	PgPan_0105
+CS543_RS08615	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0107
+CS550_RS04125	Unknown function	Hypothetical proteins	Unknown	GtrA family protein	PgPan_0109
+CS388_RS09825	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0110
+EG14_RS06770	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0117
+CS545_RS05020	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0121
+CS545_RS05035	Unknown function	Hypothetical proteins	Unknown	elongation factor G	PgPan_0124
+AT291_RS10095	Unknown function	Hypothetical proteins	Unknown	YgiQ family radical SAM protein	PgPan_0125
+CF003_RS16990	Unknown function	Hypothetical proteins	Unknown	DUF5020 family protein	PgPan_0128
+CF003_RS16940	Unknown function	Hypothetical proteins	Unknown	AMP nucleosidase	PgPan_0134
+CS374_RS00650	Unknown function	Hypothetical proteins	Unknown	tetratricopeptide repeat protein	PgPan_0140
+CS544_RS01495	Unknown function	Hypothetical proteins	Unknown	DUF4292 domain-containing protein	PgPan_0141
+B0490_RS06410	Unknown function	Hypothetical proteins	Unknown	YihY/virulence factor BrkB family protein	PgPan_0144
+CF003_RS16870	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0147
+CS543_RS08380	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0149
+CF002_RS05515	Unknown function	Hypothetical proteins	Unknown	phosphatidylserine decarboxylase family protein	PgPan_0151
+CS059_RS08180	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0162
+PGS_RS04470	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0172
+CS543_RS08145	Unknown function	Hypothetical proteins	Unknown	ClbS/DfsB family four-helix bundle protein	PgPan_0173
+AT291_RS09355	Unknown function	Hypothetical proteins	Unknown	nitroreductase	PgPan_0174
+PGS_RS04450	Unknown function	Hypothetical proteins	Unknown	S9 family peptidase	PgPan_0175
+B0493_RS09120	Unknown function	Hypothetical proteins	Unknown	DUF2807 domain-containing protein	PgPan_0176
+CF003_RS16655	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0179
+PGJ_RS04180	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0180
+HMPREF1555_RS06520	Unknown function	Hypothetical proteins	Unknown	DUF4876 domain-containing protein	PgPan_0187
+CS548_RS06380	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0189
+CF002_RS05230	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0193
+CS387_RS01185	Unknown function	Hypothetical proteins	Unknown	T9SS type A sorting domain-containing protein	PgPan_0194
+CS543_RS08005	Unknown function	Hypothetical proteins	Unknown	SWIM zinc finger family protein	PgPan_0199
+CF002_RS05180	Unknown function	Hypothetical proteins	Unknown	calcium/sodium antiporter	PgPan_0203
+AT291_RS09535	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0210
+PGF_RS06335	Unknown function	Hypothetical proteins	Unknown	O-antigen ligase family protein	PgPan_0211
+CS550_RS04785	Unknown function	Hypothetical proteins	Unknown	PaaI family thioesterase	PgPan_0218
+B0490_RS09410	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0234
+CF003_RS15945	Unknown function	Hypothetical proteins	Unknown	glycosyltransferase family 9 protein	PgPan_0235
+CLI74_RS06275	Unknown function	Hypothetical proteins	Unknown	DUF4254 domain-containing protein	PgPan_0236
+B0493_RS04980	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0237
+CF002_RS04735	Unknown function	Hypothetical proteins	Unknown	glycosyltransferase family 4 protein	PgPan_0239
+CS059_RS08655	Unknown function	Hypothetical proteins	Unknown	glycosyltransferase family 4 protein	PgPan_0245
+CS387_RS00885	Unknown function	Hypothetical proteins	Unknown	glycosyltransferase family 2 protein	PgPan_0246
+CS059_RS08665	Unknown function	Hypothetical proteins	Unknown	DUF4369 domain-containing protein	PgPan_0247
+B0492_RS03265	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0253
+CS374_RS10930	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0261
+PGF_RS05750	Unknown function	Hypothetical proteins	Unknown	replication-associated recombination protein A	PgPan_0275
+PGF_RS05735	Unknown function	Hypothetical proteins	Unknown	ATPase	PgPan_0278
+PGJ_RS03655	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0280
+CS549_RS09475	Unknown function	Hypothetical proteins	Unknown	GSCFA domain-containing protein	PgPan_0282
+CS059_RS08880	Unknown function	Hypothetical proteins	Unknown	DUF4827 domain-containing protein	PgPan_0285
+CF003_RS16280	Unknown function	Hypothetical proteins	Unknown	GNAT family N-acetyltransferase	PgPan_0289
+AT291_RS05125	Unknown function	Hypothetical proteins	Unknown	TIGR01212 family radical SAM protein	PgPan_0290
+CS544_RS00600	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0291
+CF002_RS04410	Unknown function	Hypothetical proteins	Unknown	AhpC/TSA family protein	PgPan_0292
+CS545_RS05955	Unknown function	Hypothetical proteins	Unknown	DUF3108 domain-containing protein	PgPan_0293
+CF002_RS04345	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0305
+SJDPG2_RS05000	Unknown function	Hypothetical proteins	Unknown	CoA transferase subunit A	PgPan_0310
+CS544_RS00500	Unknown function	Hypothetical proteins	Unknown	dihydroorotate dehydrogenase	PgPan_0311
+CS550_RS05325	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0320
+PGA7_RS03785	Unknown function	Hypothetical proteins	Unknown	MBOAT family protein	PgPan_0324
+CS544_RS00435	Unknown function	Hypothetical proteins	Unknown	lipase	PgPan_0325
+CS548_RS05600	Unknown function	Hypothetical proteins	Unknown	lipase	PgPan_0326
+PGJ_RS08610	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0331
+PGF_RS09095	Unknown function	Hypothetical proteins	Unknown	tetratricopeptide repeat protein	PgPan_0341
+B0492_RS04155	Unknown function	Hypothetical proteins	Unknown	DUF4295 domain-containing protein	PgPan_0351
+PGS_RS10465	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0355
+CF002_RS08875	Unknown function	Hypothetical proteins	Unknown	NAD(P)H-dependent oxidoreductase	PgPan_0360
+CS544_RS07605	Unknown function	Hypothetical proteins	Unknown	DUF1232 domain-containing protein	PgPan_0366
+AT291_RS06130	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0368
+CS548_RS10495	Unknown function	Hypothetical proteins	Unknown	DUF4270 family protein	PgPan_0374
+CS546_RS04125	Unknown function	Hypothetical proteins	Unknown	DUF2156 domain-containing protein	PgPan_0377
+CBG53_RS02920	Unknown function	Hypothetical proteins	Unknown	T9SS type A sorting domain-containing protein	PgPan_0387
+B0490_RS06930	Unknown function	Hypothetical proteins	Unknown	tetratricopeptide repeat protein	PgPan_0388
+PGS_RS04190	Unknown function	Hypothetical proteins	Unknown	DUF4290 domain-containing protein	PgPan_0393
+CS543_RS08890	Unknown function	Hypothetical proteins	Unknown	RNA methyltransferase	PgPan_0398
+CS546_RS09310	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0401
+CLI74_RS03865	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0404
+PGJ_RS02525	Unknown function	Hypothetical proteins	Unknown	acyltransferase	PgPan_0405
+CF003_RS15050	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0408
+CS550_RS06365	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0409
+CS387_RS10735	Unknown function	Hypothetical proteins	Unknown	diacylglycerol kinase family lipid kinase	PgPan_0410
+PGA7_RS02855	Unknown function	Hypothetical proteins	Unknown	glycosyltransferase	PgPan_0412
+CS548_RS04820	Unknown function	Hypothetical proteins	Unknown	glycosyltransferase family 4 protein	PgPan_0413
+CF001_RS15845	Unknown function	Hypothetical proteins	Unknown	SPOR domain-containing protein	PgPan_0416
+SJDPG2_RS02780	Unknown function	Hypothetical proteins	Unknown	NfeD family protein	PgPan_0420
+CS549_RS09735	Unknown function	Hypothetical proteins	Unknown	SPFH/Band 7/PHB domain protein	PgPan_0421
+HMPREF1555_RS06320	Unknown function	Hypothetical proteins	Unknown	pyridoxal phosphate-dependent aminotransferase	PgPan_0429
+SJDPG2_RS07640	Unknown function	Hypothetical proteins	Unknown	DUF4286 family protein	PgPan_0431
+B0493_RS08825	Unknown function	Hypothetical proteins	Unknown	PhoH family protein	PgPan_0433
+CBG53_RS02635	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0437
+CLI74_RS09965	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0438
+B0493_RS07715	Unknown function	Hypothetical proteins	Unknown	metallophosphoesterase family protein	PgPan_0444
+queC	Unknown function	Hypothetical proteins	Unknown	7-cyano-7-deazaguanine synthase QueC	PgPan_0445
+AT291_RS05225	Unknown function	Hypothetical proteins	Unknown	DUF3298 and DUF4163 domain-containing protein	PgPan_0446
+CS544_RS10610	Unknown function	Hypothetical proteins	Unknown	DUF3078 domain-containing protein	PgPan_0450
+PGJ_RS02755	Unknown function	Hypothetical proteins	Unknown	AAA family ATPase	PgPan_0451
+CS549_RS06845	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0452
+B0492_RS05080	Unknown function	Hypothetical proteins	Unknown	DUF3822 family protein	PgPan_0453
+SJDPG2_RS09645	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0457
+PGS_RS02975	Unknown function	Hypothetical proteins	Unknown	FeoB-associated Cys-rich membrane protein	PgPan_0458
+CS544_RS10660	Unknown function	Hypothetical proteins	Unknown	phospholipase	PgPan_0460
+CS059_RS09555	Unknown function	Hypothetical proteins	Unknown	S46 family peptidase	PgPan_0466
+HMPREF1555_RS05265	Unknown function	Hypothetical proteins	Unknown	DUF2027 domain-containing protein	PgPan_0468
+CF002_RS03840	Unknown function	Hypothetical proteins	Unknown	DUF1015 domain-containing protein	PgPan_0469
+B0490_RS05285	Unknown function	Hypothetical proteins	Unknown	amidinotransferase	PgPan_0477
+PGF_RS06710	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0491
+lepA	Unknown function	Hypothetical proteins	Unknown	elongation factor 4	PgPan_0498
+AT291_RS05825	Unknown function	Hypothetical proteins	Unknown	hemerythrin domain-containing protein	PgPan_0503
+CS059_RS09290	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0507
+CS059_RS09255	Unknown function	Hypothetical proteins	Unknown	SDR family NAD(P)-dependent oxidoreductase	PgPan_0513
+EG14_RS05405	Unknown function	Hypothetical proteins	Unknown	DUF3467 domain-containing protein	PgPan_0515
+CS059_RS09240	Unknown function	Hypothetical proteins	Unknown	DUF4293 domain-containing protein	PgPan_0516
+CLI74_RS09570	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0519
+CBG53_RS02170	Unknown function	Hypothetical proteins	Unknown	tetratricopeptide repeat protein	PgPan_0521
+CS374_RS10145	Unknown function	Hypothetical proteins	Unknown	gamma carbonic anhydrase family protein	PgPan_0522
+PGS_RS03415	Unknown function	Hypothetical proteins	Unknown	DUF4301 family protein	PgPan_0524
+CS388_RS08645	Unknown function	Hypothetical proteins	Unknown	DUF349 domain-containing protein	PgPan_0572
+CS549_RS04145	Unknown function	Hypothetical proteins	Unknown	nucleotide pyrophosphohydrolase	PgPan_0573
+CS550_RS10200	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0576
+CS544_RS06680	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0582
+PGS_RS08310	Unknown function	Hypothetical proteins	Unknown	LTA synthase family protein	PgPan_0586
+B0490_RS04630	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0587
+CS550_RS10780	Unknown function	Hypothetical proteins	Unknown	DUF1661 domain-containing protein	PgPan_0650
+SJDPG2_RS10990	Unknown function	Hypothetical proteins	Unknown	DUF1661 domain-containing protein	PgPan_0651
+CS374_RS05150	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0653
+CS374_RS05140	Unknown function	Hypothetical proteins	Unknown	zinc-dependent metalloprotease	PgPan_0655
+PGJ_RS09065	Unknown function	Hypothetical proteins	Unknown	DUF4294 domain-containing protein	PgPan_0657
+CS548_RS10640	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0658
+CLI74_RS06750	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0664
+SJDPG2_RS04790	Unknown function	Hypothetical proteins	Unknown	outer membrane beta-barrel protein	PgPan_0667
+B0490_RS00810	Unknown function	Hypothetical proteins	Unknown	Nif3-like dinuclear metal center hexameric protein	PgPan_0671
+CF003_RS20375	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0672
+PGJ_RS09155	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0675
+PGA7_RS09150	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0676
+CF001_RS20305	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0677
+PGS_RS10525	Unknown function	Hypothetical proteins	Unknown	DUF1661 domain-containing protein	PgPan_0687
+CF001_RS20620	Unknown function	Hypothetical proteins	Unknown	DUF4837 family protein	PgPan_0689
+AT291_RS08205	Unknown function	Hypothetical proteins	Unknown	adenylyltransferase/cytidyltransferase family protein	PgPan_0691
+CF001_RS20595	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0694
+CS548_RS01290	Unknown function	Hypothetical proteins	Unknown	UvrD-helicase domain-containing protein	PgPan_0695
+PGJ_RS09315	Unknown function	Hypothetical proteins	Unknown	ATP-binding protein	PgPan_0698
+B0493_RS00700	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0699
+EG14_RS02550	Unknown function	Hypothetical proteins	Unknown	DUF4831 family protein	PgPan_0703
+SJDPG2_RS05295	Unknown function	Hypothetical proteins	Unknown	DUF3127 domain-containing protein	PgPan_0705
+PGA7_RS09360	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0708
+CF003_RS20620	Unknown function	Hypothetical proteins	Unknown	DUF5103 domain-containing protein	PgPan_0711
+CS388_RS04230	Unknown function	Hypothetical proteins	Unknown	translocation/assembly module TamB	PgPan_0712
+PGF_RS00705	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0717
+CF001_RS10770	Unknown function	Hypothetical proteins	Unknown	T9SS type A sorting domain-containing protein	PgPan_0718
+EG14_RS02645	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0720
+B0493_RS10280	Unknown function	Hypothetical proteins	Unknown	DUF1661 domain-containing protein	PgPan_0730
+HMPREF1555_RS07675	Unknown function	Hypothetical proteins	Unknown	MBL fold metallo-hydrolase	PgPan_0735
+CS374_RS03950	Unknown function	Hypothetical proteins	Unknown	YggS family pyridoxal phosphate-dependent enzyme	PgPan_0739
+HMPREF1555_RS07645	Unknown function	Hypothetical proteins	Unknown	DUF4494 domain-containing protein	PgPan_0740
+CS549_RS05435	Unknown function	Hypothetical proteins	Unknown	DUF3575 domain-containing protein	PgPan_0742
+PGF_RS00820	Unknown function	Hypothetical proteins	Unknown	DUF3868 domain-containing protein	PgPan_0743
+CF003_RS20830	Unknown function	Hypothetical proteins	Unknown	DUF177 domain-containing protein	PgPan_0750
+B0492_RS07455	Unknown function	Hypothetical proteins	Unknown	DUF2723 domain-containing protein	PgPan_0755
+CF001_RS20800	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0759
+CS387_RS07570	Unknown function	Hypothetical proteins	Unknown	T9SS type A sorting domain-containing protein	PgPan_0767
+PGA7_RS09940	Unknown function	Hypothetical proteins	Unknown	DUF2851 family protein	PgPan_0769
+CS549_RS04855	Unknown function	Hypothetical proteins	Unknown	(2Fe-2S)-binding protein	PgPan_0770
+B0490_RS10215	Unknown function	Hypothetical proteins	Unknown	GlsB/YeaQ/YmgE family stress response membrane protein	PgPan_0772
+CS548_RS00340	Unknown function	Hypothetical proteins	Unknown	NAD(P)-dependent oxidoreductase	PgPan_0774
+CS550_RS10745	Unknown function	Hypothetical proteins	Unknown	DUF1661 domain-containing protein	PgPan_0778
+ruvX	Unknown function	Hypothetical proteins	Unknown	Holliday junction resolvase RuvX	PgPan_0779
+SJDPG2_RS06190	Unknown function	Hypothetical proteins	Unknown	tetratricopeptide repeat protein	PgPan_0781
+CS549_RS04775	Unknown function	Hypothetical proteins	Unknown	M48 family metallopeptidase	PgPan_0784
+CS059_RS04455	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0800
+omp28	Unknown function	Hypothetical proteins	Unknown	outer membrane lipoprotein Omp28	PgPan_0801
+B0492_RS03035	Unknown function	Hypothetical proteins	Unknown	T9SS type A sorting domain-containing protein	PgPan_0802
+CS544_RS05465	Unknown function	Hypothetical proteins	Unknown	DUF3575 domain-containing protein	PgPan_0806
+PGF_RS00595	Unknown function	Hypothetical proteins	Unknown	DUF3868 domain-containing protein	PgPan_0807
+B0490_RS01325	Unknown function	Hypothetical proteins	Unknown	SufE family protein	PgPan_0814
+CS544_RS05420	Unknown function	Hypothetical proteins	Unknown	M28 family peptidase	PgPan_0815
+PGA7_RS09660	Unknown function	Hypothetical proteins	Unknown	TraB/GumN family protein	PgPan_0817
+CS059_RS04555	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0818
+SJDPG2_RS08470	Unknown function	Hypothetical proteins	Unknown	LysM peptidoglycan-binding domain-containing protein	PgPan_0823
+HMPREF1555_RS02375	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0831
+B0492_RS08170	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0832
+PGF_RS02610	Unknown function	Hypothetical proteins	Unknown	DUF2149 domain-containing protein	PgPan_0833
+CS546_RS08190	Unknown function	Hypothetical proteins	Unknown	MoxR family ATPase	PgPan_0857
+AT291_RS00940	Unknown function	Hypothetical proteins	Unknown	DUF58 domain-containing protein	PgPan_0858
+CBG53_RS03620	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0859
+CS549_RS08145	Unknown function	Hypothetical proteins	Unknown	TIGR00159 family protein	PgPan_0866
+PGA7_RS01885	Unknown function	Hypothetical proteins	Unknown	HDIG domain-containing protein	PgPan_0868
+PGA7_RS01875	Unknown function	Hypothetical proteins	Unknown	ComEC/Rec2 family competence protein	PgPan_0870
+PGJ_RS01855	Unknown function	Hypothetical proteins	Unknown	DUF4296 domain-containing protein	PgPan_0875
+CLI74_RS05430	Unknown function	Hypothetical proteins	Unknown	acyltransferase	PgPan_0876
+CS387_RS09990	Unknown function	Hypothetical proteins	Unknown	MmcQ/YjbR family DNA-binding protein	PgPan_0878
+AT291_RS04050	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0885
+PGF_RS02375	Unknown function	Hypothetical proteins	Unknown	lamin tail domain protein	PgPan_0886
+PGJ_RS01750	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0895
+mazG	Unknown function	Hypothetical proteins	Unknown	nucleoside triphosphate pyrophosphohydrolase	PgPan_0898
+mltG	Unknown function	Hypothetical proteins	Unknown	endolytic transglycosylase MltG	PgPan_0903
+CS548_RS02730	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0910
+CF001_RS12205	Unknown function	Hypothetical proteins	Unknown	4-alpha-glucanotransferase	PgPan_0913
+CF003_RS21485	Unknown function	Hypothetical proteins	Unknown	DUF1661 domain-containing protein	PgPan_0914
+PGF_RS02045	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0916
+EG14_RS05180	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0919
+CLI74_RS06150	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0920
+B0493_RS08085	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0927
+CF003_RS18525	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0929
+CLI74_RS04885	Unknown function	Hypothetical proteins	Unknown	HAD-IIB family hydrolase	PgPan_0938
+HMPREF1555_RS00330	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0939
+SJDPG2_RS05190	Unknown function	Hypothetical proteins	Unknown	tetratricopeptide repeat protein	PgPan_0940
+CS546_RS07875	Unknown function	Hypothetical proteins	Unknown	DUF1661 domain-containing protein	PgPan_0944
+CF003_RS18350	Unknown function	Hypothetical proteins	Unknown	S41 family peptidase	PgPan_0947
+CS374_RS02105	Unknown function	Hypothetical proteins	Unknown	DUF3316 domain-containing protein	PgPan_0948
+CLI74_RS04945	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0951
+CS546_RS07955	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0958
+AT291_RS03980	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0959
+PGA7_RS01335	Unknown function	Hypothetical proteins	Unknown	GH3 auxin-responsive promoter family protein	PgPan_0974
+EG14_RS04965	Unknown function	Hypothetical proteins	Unknown	PDZ domain-containing protein	PgPan_0980
+EG14_RS04960	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0981
+CF003_RS18890	Unknown function	Hypothetical proteins	Unknown	DUF695 domain-containing protein	PgPan_0987
+EG14_RS04920	Unknown function	Hypothetical proteins	Unknown	NUDIX domain-containing protein	PgPan_0989
+CS549_RS06515	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_0996
+B0492_RS09625	Unknown function	Hypothetical proteins	Unknown	CvpA family protein	PgPan_1011
+CS549_RS06400	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1017
+AT291_RS04975	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1019
+CBG53_RS09305	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1021
+CS549_RS06360	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1024
+CF003_RS11885	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1026
+CBG53_RS09355	Unknown function	Hypothetical proteins	Unknown	DUF1343 domain-containing protein	PgPan_1029
+CS544_RS04380	Unknown function	Hypothetical proteins	Unknown	amidinotransferase	PgPan_1035
+B0493_RS07215	Unknown function	Hypothetical proteins	Unknown	transglutaminase domain-containing protein	PgPan_1037
+CS543_RS10725	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1042
+CF001_RS11650	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1043
+CS374_RS02865	Unknown function	Hypothetical proteins	Unknown	DUF4252 domain-containing protein	PgPan_1044
+CS550_RS08095	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1045
+EG14_RS11545	Unknown function	Hypothetical proteins	Unknown	DUF1661 domain-containing protein	PgPan_1048
+CS549_RS06205	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1057
+HMPREF1555_RS08155	Unknown function	Hypothetical proteins	Unknown	DUF4271 domain-containing protein	PgPan_1058
+yidD	Unknown function	Hypothetical proteins	Unknown	membrane protein insertion efficiency factor YidD	PgPan_1061
+CS549_RS06175	Unknown function	Hypothetical proteins	Unknown	DUF805 domain-containing protein	PgPan_1063
+CS387_RS08905	Unknown function	Hypothetical proteins	Unknown	rubrerythrin family protein	PgPan_1065
+HMPREF1555_RS03260	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1071
+CS544_RS10865	Unknown function	Hypothetical proteins	Unknown	DUF1661 domain-containing protein	PgPan_1074
+CS546_RS06910	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1075
+CLI74_RS06090	Unknown function	Hypothetical proteins	Unknown	FAD-dependent oxidoreductase	PgPan_1084
+PGS_RS01260	Unknown function	Hypothetical proteins	Unknown	DUF1905 domain-containing protein	PgPan_1092
+CF002_RS07585	Unknown function	Hypothetical proteins	Unknown	nucleotidyltransferase	PgPan_1095
+CBG53_RS11120	Unknown function	Hypothetical proteins	Unknown	DUF1661 domain-containing protein	PgPan_1101
+HMPREF1555_RS00110	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1106
+CS388_RS03885	Unknown function	Hypothetical proteins	Unknown	LptE family protein	PgPan_1108
+B0490_RS08520	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1109
+CS545_RS09445	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1115
+CF002_RS07700	Unknown function	Hypothetical proteins	Unknown	flippase-like domain-containing protein	PgPan_1119
+B0492_RS04625	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1123
+CS387_RS08610	Unknown function	Hypothetical proteins	Unknown	LPS kinase	PgPan_1127
+CF003_RS11360	Unknown function	Hypothetical proteins	Unknown	DUF4924 family protein	PgPan_1130
+CBG53_RS07870	Unknown function	Hypothetical proteins	Unknown	YigZ family protein	PgPan_1131
+CS387_RS08585	Unknown function	Hypothetical proteins	Unknown	outer membrane beta-barrel protein	PgPan_1132
+CS388_RS06420	Unknown function	Hypothetical proteins	Unknown	DUF4835 family protein	PgPan_1137
+CS549_RS03525	Unknown function	Hypothetical proteins	Unknown	DUF2023 family protein	PgPan_1144
+B0492_RS00660	Unknown function	Hypothetical proteins	Unknown	ATP-binding protein	PgPan_1147
+CS387_RS06020	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1149
+CS544_RS06910	Unknown function	Hypothetical proteins	Unknown	isoprenylcysteine carboxyl methyltransferase family protein	PgPan_1151
+CLI74_RS08040	Unknown function	Hypothetical proteins	Unknown	glycerol acyltransferase	PgPan_1156
+PGF_RS08660	Unknown function	Hypothetical proteins	Unknown	patatin-like phospholipase family protein	PgPan_1159
+CLI74_RS08060	Unknown function	Hypothetical proteins	Unknown	glycosyltransferase	PgPan_1160
+hflX	Unknown function	Hypothetical proteins	Unknown	GTPase HflX	PgPan_1165
+yedF	Unknown function	Hypothetical proteins	Unknown	sulfurtransferase-like selenium metabolism protein YedF	PgPan_1167
+CS544_RS06815	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1169
+CS388_RS06210	Unknown function	Hypothetical proteins	Unknown	DUF4954 family protein	PgPan_1182
+CS387_RS06655	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1218
+CS387_RS06670	Unknown function	Hypothetical proteins	Unknown	alpha/beta hydrolase	PgPan_1221
+CS544_RS07150	Unknown function	Hypothetical proteins	Unknown	DedA family protein	PgPan_1228
+B0493_RS09765	Unknown function	Hypothetical proteins	Unknown	YitT family protein	PgPan_1229
+B0490_RS03235	Unknown function	Hypothetical proteins	Unknown	NAD(P)-dependent oxidoreductase	PgPan_1230
+CS387_RS07650	Unknown function	Hypothetical proteins	Unknown	acyltransferase family protein	PgPan_1233
+CBG53_RS08640	Unknown function	Hypothetical proteins	Unknown	metallophosphoesterase	PgPan_1235
+EG14_RS11435	Unknown function	Hypothetical proteins	Unknown	DUF1661 domain-containing protein	PgPan_1237
+CBG53_RS08690	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1244
+dusB	Unknown function	Hypothetical proteins	Unknown	tRNA dihydrouridine synthase DusB	PgPan_1246
+PGJ_RS00120	Unknown function	Hypothetical proteins	Unknown	RNA methyltransferase	PgPan_1253
+CS546_RS05500	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1256
+ychF	Unknown function	Hypothetical proteins	Unknown	redox-regulated ATPase YchF	PgPan_1269
+CS374_RS04700	Unknown function	Hypothetical proteins	Unknown	DUF2007 domain-containing protein	PgPan_1277
+CS545_RS00220	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1278
+CS387_RS07405	Unknown function	Hypothetical proteins	Unknown	family 10 glycosylhydrolase	PgPan_1279
+CS548_RS01455	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1284
+HMPREF1555_RS08030	Unknown function	Hypothetical proteins	Unknown	bifunctional ADP-dependent NAD(P)H-hydrate dehydratase/NAD(P)H-hydrate epimerase	PgPan_1285
+CLI74_RS03390	Unknown function	Hypothetical proteins	Unknown	Ig-like protein	PgPan_1294
+B0490_RS03790	Unknown function	Hypothetical proteins	Unknown	glycoside hydrolase	PgPan_1295
+CS546_RS06455	Unknown function	Hypothetical proteins	Unknown	insulinase family protein	PgPan_1301
+B0492_RS02230	Unknown function	Hypothetical proteins	Unknown	DUF1661 domain-containing protein	PgPan_1328
+SJDPG2_RS03225	Unknown function	Hypothetical proteins	Unknown	C40 family peptidase	PgPan_1337
+CS548_RS07855	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1340
+CF001_RS13905	Unknown function	Hypothetical proteins	Unknown	NAD(P)H nitroreductase	PgPan_1343
+CS388_RS00815	Unknown function	Hypothetical proteins	Unknown	PASTA domain-containing protein	PgPan_1347
+CS388_RS00830	Unknown function	Hypothetical proteins	Unknown	acyltransferase	PgPan_1350
+CS545_RS03760	Unknown function	Hypothetical proteins	Unknown	PEGA domain-containing protein	PgPan_1351
+CS059_RS00140	Unknown function	Hypothetical proteins	Unknown	C40 family peptidase	PgPan_1354
+CLI74_RS05720	Unknown function	Hypothetical proteins	Unknown	aminodeoxychorismate/anthranilate synthase component II	PgPan_1360
+CS388_RS00900	Unknown function	Hypothetical proteins	Unknown	PAS domain-containing protein	PgPan_1361
+B0490_RS07505	Unknown function	Hypothetical proteins	Unknown	DUF5106 domain-containing protein	PgPan_1376
+PGS_RS05875	Unknown function	Hypothetical proteins	Unknown	NifU family protein	PgPan_1380
+CS545_RS10850	Unknown function	Hypothetical proteins	Unknown	DUF1661 domain-containing protein	PgPan_1384
+CF003_RS13940	Unknown function	Hypothetical proteins	Unknown	DUF1858 domain-containing protein	PgPan_1385
+CS545_RS10845	Unknown function	Hypothetical proteins	Unknown	DUF1661 domain-containing protein	PgPan_1395
+PGA7_RS06085	Unknown function	Hypothetical proteins	Unknown	Gfo/Idh/MocA family oxidoreductase	PgPan_1456
+CS374_RS08255	Unknown function	Hypothetical proteins	Unknown	NAD(P)H nitroreductase	PgPan_1457
+PGS_RS06010	Unknown function	Hypothetical proteins	Unknown	Rossmann-like and DUF2520 domain-containing protein	PgPan_1458
+CS549_RS00960	Unknown function	Hypothetical proteins	Unknown	T9SS type A sorting domain-containing protein	PgPan_1462
+CS387_RS03865	Unknown function	Hypothetical proteins	Unknown	Dabb family protein	PgPan_1464
+CS387_RS03875	Unknown function	Hypothetical proteins	Unknown	HD domain-containing protein	PgPan_1465
+CS387_RS03880	Unknown function	Hypothetical proteins	Unknown	DUF3276 family protein	PgPan_1466
+AT291_RS03340	Unknown function	Hypothetical proteins	Unknown	DUF3109 family protein	PgPan_1467
+B0490_RS10810	Unknown function	Hypothetical proteins	Unknown	DUF1661 domain-containing protein	PgPan_1474
+CS545_RS03365	Unknown function	Hypothetical proteins	Unknown	DJ-1/PfpI family protein	PgPan_1482
+CF003_RS13680	Unknown function	Hypothetical proteins	Unknown	RNA-binding protein	PgPan_1489
+CF002_RS01805	Unknown function	Hypothetical proteins	Unknown	SPOR domain-containing protein	PgPan_1492
+PGJ_RS05985	Unknown function	Hypothetical proteins	Unknown	DoxX family protein	PgPan_1494
+CS548_RS08410	Unknown function	Hypothetical proteins	Unknown	DUF1599 domain-containing protein	PgPan_1495
+EG14_RS08655	Unknown function	Hypothetical proteins	Unknown	T9SS type A sorting domain-containing protein	PgPan_1501
+CF003_RS13605	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1502
+CF002_RS01745	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1503
+HMPREF1555_RS04775	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1505
+B0493_RS10130	Unknown function	Hypothetical proteins	Unknown	DUF1661 domain-containing protein	PgPan_1518
+CS549_RS01290	Unknown function	Hypothetical proteins	Unknown	GatB/YqeY domain-containing protein	PgPan_1522
+PGS_RS06375	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1533
+CS387_RS04245	Unknown function	Hypothetical proteins	Unknown	lamin tail domain-containing protein	PgPan_1536
+CLI74_RS09885	Unknown function	Hypothetical proteins	Unknown	dipeptidase	PgPan_1541
+CS543_RS04235	Unknown function	Hypothetical proteins	Unknown	ATP-binding protein	PgPan_1548
+CS544_RS09085	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1554
+B0490_RS06730	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1559
+CF003_RS13220	Unknown function	Hypothetical proteins	Unknown	DUF1661 domain-containing protein	PgPan_1562
+B0493_RS06890	Unknown function	Hypothetical proteins	Unknown	CPBP family intramembrane metalloprotease	PgPan_1575
+CS388_RS08000	Unknown function	Hypothetical proteins	Unknown	DUF4105 domain-containing protein	PgPan_1577
+CBG53_RS05290	Unknown function	Hypothetical proteins	Unknown	YicC family protein	PgPan_1580
+CS388_RS07965	Unknown function	Hypothetical proteins	Unknown	decaprenyl-phosphate phosphoribosyltransferase	PgPan_1584
+PGJ_RS06465	Unknown function	Hypothetical proteins	Unknown	HAD-IB family hydrolase	PgPan_1585
+B0493_RS06790	Unknown function	Hypothetical proteins	Unknown	T9SS type A sorting domain-containing protein	PgPan_1607
+CS545_RS02710	Unknown function	Hypothetical proteins	Unknown	S46 family peptidase	PgPan_1608
+CS543_RS03925	Unknown function	Hypothetical proteins	Unknown	DUF389 domain-containing protein	PgPan_1609
+B0490_RS00090	Unknown function	Hypothetical proteins	Unknown	oligosaccharide flippase family protein	PgPan_1610
+CS548_RS09050	Unknown function	Hypothetical proteins	Unknown	YbbR-like domain-containing protein	PgPan_1614
+CBG53_RS05415	Unknown function	Hypothetical proteins	Unknown	DUF5606 domain-containg protein	PgPan_1616
+AT291_RS07945	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1619
+CBG53_RS05440	Unknown function	Hypothetical proteins	Unknown	family 10 glycosylhydrolase	PgPan_1621
+CS388_RS10355	Unknown function	Hypothetical proteins	Unknown	DUF1661 domain-containing protein	PgPan_1632
+EG14_RS00185	Unknown function	Hypothetical proteins	Unknown	T9SS type A sorting domain-containing protein	PgPan_1634
+PGJ_RS07765	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1640
+CS546_RS03895	Unknown function	Hypothetical proteins	Unknown	DUF3943 domain-containing protein	PgPan_1641
+CS545_RS10215	Unknown function	Hypothetical proteins	Unknown	DUF3078 domain-containing protein	PgPan_1647
+CBG53_RS09485	Unknown function	Hypothetical proteins	Unknown	DUF3473 domain-containing protein	PgPan_1648
+HMPREF1555_RS07165	Unknown function	Hypothetical proteins	Unknown	glycosyltransferase	PgPan_1649
+CLI74_RS07090	Unknown function	Hypothetical proteins	Unknown	DUF2029 domain-containing protein	PgPan_1650
+CS059_RS02360	Unknown function	Hypothetical proteins	Unknown	O-acetyl-ADP-ribose deacetylase	PgPan_1653
+CS546_RS03800	Unknown function	Hypothetical proteins	Unknown	DUF59 domain-containing protein	PgPan_1655
+B0490_RS05400	Unknown function	Hypothetical proteins	Unknown	phosphatase PAP2 family protein	PgPan_1659
+PGJ_RS10640	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1662
+B0490_RS03740	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1664
+PGJ_RS07630	Unknown function	Hypothetical proteins	Unknown	YifB family Mg chelatase-like AAA ATPase	PgPan_1665
+CS387_RS05795	Unknown function	Hypothetical proteins	Unknown	redoxin domain-containing protein	PgPan_1666
+AT291_RS08350	Unknown function	Hypothetical proteins	Unknown	GNAT family N-acetyltransferase	PgPan_1672
+CF003_RS18985	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1676
+CLI74_RS00015	Unknown function	Hypothetical proteins	Unknown	S9 family peptidase	PgPan_1679
+B0493_RS03485	Unknown function	Hypothetical proteins	Unknown	DUF3343 domain-containing protein	PgPan_1681
+CS387_RS05710	Unknown function	Hypothetical proteins	Unknown	aminotransferase class V-fold PLP-dependent enzyme	PgPan_1682
+CF001_RS18790	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1686
+B0490_RS03585	Unknown function	Hypothetical proteins	Unknown	DUF2795 domain-containing protein	PgPan_1693
+CS548_RS09955	Unknown function	Hypothetical proteins	Unknown	glycosyltransferase family 2 protein	PgPan_1703
+PGA7_RS07665	Unknown function	Hypothetical proteins	Unknown	tetratricopeptide repeat protein	PgPan_1707
+HMPREF1555_RS08560	Unknown function	Hypothetical proteins	Unknown	nitroreductase	PgPan_1716
+CS544_RS08040	Unknown function	Hypothetical proteins	Unknown	glycosyltransferase family 2 protein	PgPan_1717
+PGA7_RS07610	Unknown function	Hypothetical proteins	Unknown	DUF4199 domain-containing protein	PgPan_1718
+CS543_RS03150	Unknown function	Hypothetical proteins	Unknown	DUF1573 domain-containing protein	PgPan_1725
+CS059_RS01990	Unknown function	Hypothetical proteins	Unknown	DUF1573 domain-containing protein	PgPan_1726
+CS059_RS01975	Unknown function	Hypothetical proteins	Unknown	cupin domain-containing protein	PgPan_1729
+CBG53_RS07080	Unknown function	Hypothetical proteins	Unknown	membrane protein	PgPan_1733
+EG14_RS09855	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1743
+PGF_RS07820	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1744
+CS545_RS02015	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1745
+EG14_RS09830	Unknown function	Hypothetical proteins	Unknown	metallophosphoesterase family protein	PgPan_1747
+CS546_RS03330	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1748
+CBG53_RS07170	Unknown function	Hypothetical proteins	Unknown	HAD-IA family hydrolase	PgPan_1752
+B0493_RS04495	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1754
+CS387_RS05320	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1757
+CS059_RS01820	Unknown function	Hypothetical proteins	Unknown	SIMPL domain-containing protein	PgPan_1758
+CS059_RS01805	Unknown function	Hypothetical proteins	Unknown	flavin reductase family protein	PgPan_1761
+CBG53_RS07225	Unknown function	Hypothetical proteins	Unknown	LemA family protein	PgPan_1762
+CS374_RS06895	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1763
+B0492_RS06045	Unknown function	Hypothetical proteins	Unknown	3-5 exonuclease domain-containing protein 2	PgPan_1767
+PGS_RS07310	Unknown function	Hypothetical proteins	Unknown	DUF5063 domain-containing protein	PgPan_1768
+EG14_RS09715	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1771
+CS548_RS09480	Unknown function	Hypothetical proteins	Unknown	DUF721 domain-containing protein	PgPan_1793
+CS059_RS01615	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1796
+CS550_RS01480	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1799
+B0493_RS04250	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1800
+CS545_RS02325	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1801
+CBG53_RS07440	Unknown function	Hypothetical proteins	Unknown	T9SS type A sorting domain-containing protein	PgPan_1802
+PGS_RS07115	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1804
+CS550_RS01545	Unknown function	Hypothetical proteins	Unknown	DUF2807 domain-containing protein	PgPan_1810
+AT291_RS00740	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1813
+CS544_RS08555	Unknown function	Hypothetical proteins	Unknown	"orthopoxovirus protein, PF05708 family"	PgPan_1814
+PGJ_RS06885	Unknown function	Hypothetical proteins	Unknown	esterase family protein	PgPan_1815
+PGA7_RS07080	Unknown function	Hypothetical proteins	Unknown	SAM-dependent methyltransferase	PgPan_1828
+AT291_RS04235	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1830
+PGA7_RS07050	Unknown function	Hypothetical proteins	Unknown	GLPGLI family protein	PgPan_1834
+CS544_RS08650	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1836
+B0493_RS04040	Unknown function	Hypothetical proteins	Unknown	HesA/MoeB/ThiF family protein	PgPan_1839
+CS548_RS09205	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1841
+SJDPG2_RS03820	Unknown function	Hypothetical proteins	Unknown	tetratricopeptide repeat protein	PgPan_1842
+HMPREF1555_RS09245	Unknown function	Hypothetical proteins	Unknown	DUF4010 domain-containing protein	PgPan_1846
+PGF_RS07260	Unknown function	Hypothetical proteins	Unknown	DUF3298 and DUF4163 domain-containing protein	PgPan_1853
+CS387_RS04725	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1855
+CS546_RS02740	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1857
+SJDPG2_RS02390	Unknown function	Hypothetical proteins	Unknown	DUF4248 domain-containing protein	PgPan_1859
+PGA7_RS02680	Unknown function	Hypothetical proteins	Unknown	tetratricopeptide repeat protein	PgPan_1861
+CS549_RS08525	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1863
+CS387_RS10560	Unknown function	Hypothetical proteins	Unknown	DUF3256 family protein	PgPan_1864
+CS545_RS07635	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1866
+CF001_RS14500	Unknown function	Hypothetical proteins	Unknown	rhomboid family intramembrane serine protease	PgPan_1876
+CF002_RS03220	Unknown function	Hypothetical proteins	Unknown	rhomboid family intramembrane serine protease	PgPan_1877
+CF003_RS14765	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1881
+CF001_RS12845	Unknown function	Hypothetical proteins	Unknown	DUF1661 domain-containing protein	PgPan_1885
+yaaA	Unknown function	Hypothetical proteins	Unknown	peroxide stress protein YaaA	PgPan_1887
+CS545_RS07895	Unknown function	Hypothetical proteins	Unknown	acyl-CoA thioesterase	PgPan_1888
+PGF_RS02695	Unknown function	Hypothetical proteins	Unknown	DUF3098 domain-containing protein	PgPan_1894
+CF003_RS14685	Unknown function	Hypothetical proteins	Unknown	tetratricopeptide repeat protein	PgPan_1901
+AT291_RS10955	Unknown function	Hypothetical proteins	Unknown	4Fe-4S dicluster domain-containing protein	PgPan_1906
+EG14_RS11070	Unknown function	Hypothetical proteins	Unknown	cysteine-rich CWC family protein	PgPan_1910
+B0492_RS10875	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1923
+CF002_RS09490	Unknown function	Hypothetical proteins	Unknown	DUF3667 domain-containing protein	PgPan_1924
+B0493_RS06005	Unknown function	Hypothetical proteins	Unknown	hypothetical protein	PgPan_1949
+B0490_RS02495	Unknown function	Hypothetical proteins	Unknown	T9SS type A sorting domain-containing protein	PgPan_2032
+CS387_RS06130	Unknown function	Hypothetical proteins	Unknown	DUF2436 domain-containing protein	PgPan_2522
+CLI74_RS10630	Unknown function	Hypothetical proteins	Unknown	DUF2436 domain-containing protein	PgPan_3333
+CF001_RS15445	Virulence2	Virulence	Gingipain	GNAT family N-acetyltransferase	PgPan_0081
+CS544_RS01795	Virulence2	Virulence	Gingipain	hypothetical protein	PgPan_0082
+CS549_RS10220	Virulence2	Virulence	Gingipain	glycosyltransferase	PgPan_0083
+CS550_RS00665	Virulence2	Virulence	Gingipain	DUF2436 domain-containing protein	PgPan_0379
+rgpA	Virulence2	Virulence	Gingipain	Arg-gingipain RgpA	PgPan_0648
+B0492_RS10670	Virulence2	Virulence	Gingipain	hypothetical protein	PgPan_0783
+CF002_RS07255	Virulence2	Virulence	Gingipain	PKD domain-containing protein	PgPan_1028
+rgpB	Virulence2	Virulence	Gingipain	Arg-gingipain RgpB	PgPan_1586
+group_94	Virulence2	Virulence	Gingipain	DUF2436 domain-containing protein	PgPan_2177
+PGJ_RS08585	Virulence2	Virulence	Pathogenesis	hypothetical protein	PgPan_0336
+CS549_RS03435	Virulence2	Virulence	Pathogenesis	DUF2436 domain-containing protein	PgPan_0376
+CS374_RS03990	Virulence2	Virulence	Pathogenesis	FimB/Mfa2 family fimbrial subunit	PgPan_0745
+HMPREF1555_RS07620	Virulence2	Virulence	Pathogenesis	DUF4906 domain-containing protein	PgPan_0746
+SJDPG2_RS05680	Virulence2	Virulence	Pathogenesis	minor fimbrial subunit Mfa5	PgPan_1076
+SJDPG2_RS03990	Virulence2	Virulence	Pathogenesis	PGN_1808 family fimbria major subunit	PgPan_1161
+CS546_RS03305	Virulence2	Virulence	Pathogenesis	internalin	PgPan_1753
+CBG53_RS05525	Virulence2	Virulence	Pathogenesis	HlyC/CorC family transporter	PgPan_1844
+CS387_RS06785	Virulence2	Virulence	Pathogenesis	hypothetical protein	PgPan_2019

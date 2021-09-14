@@ -1,0 +1,1616 @@
+parent	node	
+	Cell structure	
+	Cellular processes2	
+	Genetic information processing	
+	Metabolism	
+	Signal transduction2	
+	Unknown function	
+	Virulence2	
+Cell structure	Cell envelope	
+Cell envelope	Biosynthesis and degradation of murein sacculus and peptidoglycan	
+Biosynthesis and degradation of murein sacculus and peptidoglycan	PgPan_0142	
+Biosynthesis and degradation of murein sacculus and peptidoglycan	PgPan_0208	
+Biosynthesis and degradation of murein sacculus and peptidoglycan	PgPan_0243	
+Biosynthesis and degradation of murein sacculus and peptidoglycan	PgPan_0272	
+Biosynthesis and degradation of murein sacculus and peptidoglycan	PgPan_0279	
+Biosynthesis and degradation of murein sacculus and peptidoglycan	PgPan_0281	
+Biosynthesis and degradation of murein sacculus and peptidoglycan	PgPan_0394	
+Biosynthesis and degradation of murein sacculus and peptidoglycan	PgPan_0415	
+Biosynthesis and degradation of murein sacculus and peptidoglycan	PgPan_0465	
+Biosynthesis and degradation of murein sacculus and peptidoglycan	PgPan_0472	
+Biosynthesis and degradation of murein sacculus and peptidoglycan	PgPan_0511	
+Biosynthesis and degradation of murein sacculus and peptidoglycan	PgPan_0665	
+Biosynthesis and degradation of murein sacculus and peptidoglycan	PgPan_0760	
+Biosynthesis and degradation of murein sacculus and peptidoglycan	PgPan_0768	
+Biosynthesis and degradation of murein sacculus and peptidoglycan	PgPan_0786	
+Biosynthesis and degradation of murein sacculus and peptidoglycan	PgPan_0865	
+Biosynthesis and degradation of murein sacculus and peptidoglycan	PgPan_0937	
+Biosynthesis and degradation of murein sacculus and peptidoglycan	PgPan_1005	
+Biosynthesis and degradation of murein sacculus and peptidoglycan	PgPan_1116	
+Biosynthesis and degradation of murein sacculus and peptidoglycan	PgPan_1264	
+Biosynthesis and degradation of murein sacculus and peptidoglycan	PgPan_1292	
+Biosynthesis and degradation of murein sacculus and peptidoglycan	PgPan_1314	
+Biosynthesis and degradation of murein sacculus and peptidoglycan	PgPan_1315	
+Biosynthesis and degradation of murein sacculus and peptidoglycan	PgPan_1349	
+Biosynthesis and degradation of murein sacculus and peptidoglycan	PgPan_1368	
+Biosynthesis and degradation of murein sacculus and peptidoglycan	PgPan_1526	
+Biosynthesis and degradation of murein sacculus and peptidoglycan	PgPan_1527	
+Biosynthesis and degradation of murein sacculus and peptidoglycan	PgPan_1529	
+Biosynthesis and degradation of murein sacculus and peptidoglycan	PgPan_1530	
+Biosynthesis and degradation of murein sacculus and peptidoglycan	PgPan_1531	
+Biosynthesis and degradation of murein sacculus and peptidoglycan	PgPan_1701	
+Biosynthesis and degradation of murein sacculus and peptidoglycan	PgPan_1765	
+Biosynthesis and degradation of murein sacculus and peptidoglycan	PgPan_1868	
+Biosynthesis and degradation of murein sacculus and peptidoglycan	PgPan_1869	
+Biosynthesis and degradation of murein sacculus and peptidoglycan	PgPan_1871	
+Biosynthesis and degradation of murein sacculus and peptidoglycan	PgPan_1893	
+Biosynthesis and degradation of murein sacculus and peptidoglycan	PgPan_1920	
+Cell envelope	Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	
+Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	PgPan_0096	
+Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	PgPan_0155	
+Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	PgPan_0201	
+Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	PgPan_0251	
+Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	PgPan_0321	
+Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	PgPan_0344	
+Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	PgPan_0359	
+Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	PgPan_0422	
+Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	PgPan_0443	
+Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	PgPan_0463	
+Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	PgPan_0734	
+Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	PgPan_0761	
+Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	PgPan_0811	
+Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	PgPan_0835	
+Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	PgPan_0836	
+Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	PgPan_0837	
+Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	PgPan_0838	
+Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	PgPan_0839	
+Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	PgPan_0840	
+Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	PgPan_0942	
+Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	PgPan_0967	
+Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	PgPan_0968	
+Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	PgPan_0994	
+Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	PgPan_1069	
+Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	PgPan_1122	
+Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	PgPan_1126	
+Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	PgPan_1232	
+Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	PgPan_1274	
+Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	PgPan_1286	
+Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	PgPan_1288	
+Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	PgPan_1300	
+Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	PgPan_1326	
+Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	PgPan_1332	
+Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	PgPan_1459	
+Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	PgPan_1478	
+Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	PgPan_1488	
+Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	PgPan_1654	
+Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	PgPan_1740	
+Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	PgPan_1805	
+Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	PgPan_1843	
+Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	PgPan_1878	
+Cell envelope	Surface structures	
+Surface structures	PgPan_0113	
+Surface structures	PgPan_0489	
+Surface structures	PgPan_0905	
+Cellular processes2	Cellular processes	
+Cellular processes	Adaptations to atypical conditions	
+Adaptations to atypical conditions	PgPan_0079	
+Adaptations to atypical conditions	PgPan_0464	
+Adaptations to atypical conditions	PgPan_0860	
+Adaptations to atypical conditions	PgPan_0861	
+Adaptations to atypical conditions	PgPan_0862	
+Adaptations to atypical conditions	PgPan_0863	
+Adaptations to atypical conditions	PgPan_0864	
+Adaptations to atypical conditions	PgPan_0426	
+Adaptations to atypical conditions	PgPan_0810	
+Adaptations to atypical conditions	PgPan_0983	
+Adaptations to atypical conditions	PgPan_0992	
+Adaptations to atypical conditions	PgPan_1018	
+Adaptations to atypical conditions	PgPan_1367	
+Adaptations to atypical conditions	PgPan_1624	
+Adaptations to atypical conditions	PgPan_1811	
+Cellular processes	Biosynthesis of natural products	
+Biosynthesis of natural products	PgPan_0575	
+Biosynthesis of natural products	PgPan_1897	
+Cellular processes	Cell division	
+Cell division	PgPan_0145	
+Cell division	PgPan_0787	
+Cell division	PgPan_0894	
+Cell division	PgPan_0960	
+Cell division	PgPan_0986	
+Cell division	PgPan_1268	
+Cell division	PgPan_1460	
+Cell division	PgPan_1523	
+Cell division	PgPan_1524	
+Cell division	PgPan_1525	
+Cell division	PgPan_1528	
+Cell division	PgPan_1532	
+Cell division	PgPan_1798	
+Cell division	PgPan_1867	
+Cell division	PgPan_1870	
+Cell division	PgPan_1895	
+Cellular processes	Chemotaxis and motility	
+Chemotaxis and motility	PgPan_0197	
+Chemotaxis and motility	PgPan_0999	
+Chemotaxis and motility	PgPan_1795	
+Cellular processes	Detoxification	
+Detoxification	PgPan_0268	
+Detoxification	PgPan_0088	
+Detoxification	PgPan_0777	
+Detoxification	PgPan_0842	
+Detoxification	PgPan_0969	
+Detoxification	PgPan_1219	
+Detoxification	PgPan_1281	
+Detoxification	PgPan_1282	
+Detoxification	PgPan_1283	
+Detoxification	PgPan_1497	
+Detoxification	PgPan_1498	
+Detoxification	PgPan_1555	
+Detoxification	PgPan_1556	
+Detoxification	PgPan_1557	
+Detoxification	PgPan_1692	
+Detoxification	PgPan_1880	
+Detoxification	PgPan_1886	
+Cellular processes	DNA transformation	
+DNA transformation	PgPan_0906	
+DNA transformation	PgPan_1097	
+DNA transformation	PgPan_1704	
+Cellular processes	Other1	
+Other1	PgPan_0965	
+Other1	PgPan_0984	
+Other1	PgPan_1134	
+Other1	PgPan_1357	
+Other1	PgPan_1605	
+Cellular processes	Toxin production and resistance	
+Toxin production and resistance	PgPan_1507	
+Toxin production and resistance	PgPan_1904	
+Toxin production and resistance	PgPan_0036	
+Toxin production and resistance	PgPan_0791	
+Toxin production and resistance	PgPan_1038	
+Genetic information processing	DNA metabolism	
+DNA metabolism	Chromosome-associated proteins	
+Chromosome-associated proteins	PgPan_0122	
+Chromosome-associated proteins	PgPan_0347	
+Chromosome-associated proteins	PgPan_0473	
+Chromosome-associated proteins	PgPan_0484	
+Chromosome-associated proteins	PgPan_1113	
+Chromosome-associated proteins	PgPan_1133	
+Chromosome-associated proteins	PgPan_1539	
+Chromosome-associated proteins	PgPan_1545	
+Chromosome-associated proteins	PgPan_1737	
+Chromosome-associated proteins	PgPan_1865	
+DNA metabolism	Degradation of DNA	
+Degradation of DNA	PgPan_0258	
+Degradation of DNA	PgPan_1506	
+Degradation of DNA	PgPan_1898	
+DNA metabolism	"DNA replication, recombination, and repair"	
+"DNA replication, recombination, and repair"	PgPan_0048	
+"DNA replication, recombination, and repair"	PgPan_0080	
+"DNA replication, recombination, and repair"	PgPan_0103	
+"DNA replication, recombination, and repair"	PgPan_0123	
+"DNA replication, recombination, and repair"	PgPan_0135	
+"DNA replication, recombination, and repair"	PgPan_0198	
+"DNA replication, recombination, and repair"	PgPan_0200	
+"DNA replication, recombination, and repair"	PgPan_0304	
+"DNA replication, recombination, and repair"	PgPan_0328	
+"DNA replication, recombination, and repair"	PgPan_0358	
+"DNA replication, recombination, and repair"	PgPan_0370	
+"DNA replication, recombination, and repair"	PgPan_0386	
+"DNA replication, recombination, and repair"	PgPan_0418	
+"DNA replication, recombination, and repair"	PgPan_0419	
+"DNA replication, recombination, and repair"	PgPan_0432	
+"DNA replication, recombination, and repair"	PgPan_0486	
+"DNA replication, recombination, and repair"	PgPan_0488	
+"DNA replication, recombination, and repair"	PgPan_0493	
+"DNA replication, recombination, and repair"	PgPan_0497	
+"DNA replication, recombination, and repair"	PgPan_0520	
+"DNA replication, recombination, and repair"	PgPan_0584	
+"DNA replication, recombination, and repair"	PgPan_0659	
+"DNA replication, recombination, and repair"	PgPan_0674	
+"DNA replication, recombination, and repair"	PgPan_0771	
+"DNA replication, recombination, and repair"	PgPan_0879	
+"DNA replication, recombination, and repair"	PgPan_0899	
+"DNA replication, recombination, and repair"	PgPan_0949	
+"DNA replication, recombination, and repair"	PgPan_0979	
+"DNA replication, recombination, and repair"	PgPan_1000	
+"DNA replication, recombination, and repair"	PgPan_1002	
+"DNA replication, recombination, and repair"	PgPan_1023	
+"DNA replication, recombination, and repair"	PgPan_1036	
+"DNA replication, recombination, and repair"	PgPan_1039	
+"DNA replication, recombination, and repair"	PgPan_1062	
+"DNA replication, recombination, and repair"	PgPan_1086	
+"DNA replication, recombination, and repair"	PgPan_1098	
+"DNA replication, recombination, and repair"	PgPan_1114	
+"DNA replication, recombination, and repair"	PgPan_1136	
+"DNA replication, recombination, and repair"	PgPan_1139	
+"DNA replication, recombination, and repair"	PgPan_1140	
+"DNA replication, recombination, and repair"	PgPan_1154	
+"DNA replication, recombination, and repair"	PgPan_1231	
+"DNA replication, recombination, and repair"	PgPan_1258	
+"DNA replication, recombination, and repair"	PgPan_1260	
+"DNA replication, recombination, and repair"	PgPan_1272	
+"DNA replication, recombination, and repair"	PgPan_1280	
+"DNA replication, recombination, and repair"	PgPan_1307	
+"DNA replication, recombination, and repair"	PgPan_1312	
+"DNA replication, recombination, and repair"	PgPan_1327	
+"DNA replication, recombination, and repair"	PgPan_1341	
+"DNA replication, recombination, and repair"	PgPan_1576	
+"DNA replication, recombination, and repair"	PgPan_1611	
+"DNA replication, recombination, and repair"	PgPan_1612	
+"DNA replication, recombination, and repair"	PgPan_1637	
+"DNA replication, recombination, and repair"	PgPan_1658	
+"DNA replication, recombination, and repair"	PgPan_1660	
+"DNA replication, recombination, and repair"	PgPan_1751	
+"DNA replication, recombination, and repair"	PgPan_1769	
+"DNA replication, recombination, and repair"	PgPan_1776	
+"DNA replication, recombination, and repair"	PgPan_1780	
+"DNA replication, recombination, and repair"	PgPan_1794	
+"DNA replication, recombination, and repair"	PgPan_1803	
+"DNA replication, recombination, and repair"	PgPan_1807	
+"DNA replication, recombination, and repair"	PgPan_1862	
+"DNA replication, recombination, and repair"	PgPan_1908	
+DNA metabolism	Restriction/modification	
+Restriction/modification	PgPan_0133	
+Genetic information processing	Mobile and extrachromosomal element functions	
+Mobile and extrachromosomal element functions	CRISPR	
+CRISPR	PgPan_1929	
+CRISPR	PgPan_1931	
+Mobile and extrachromosomal element functions	Transposon functions	
+Transposon functions	PgPan_0011	
+Transposon functions	PgPan_1162	
+Transposon functions	PgPan_1860	
+Transposon functions	PgPan_1912	
+Transposon functions	PgPan_1913	
+Transposon functions	PgPan_1993	
+Transposon functions	PgPan_2240	
+Transposon functions	PgPan_2327	
+Genetic information processing	Protein fate	
+Protein fate	"Degradation of proteins, peptides, and glycopeptides"	
+"Degradation of proteins, peptides, and glycopeptides"	PgPan_0020	
+"Degradation of proteins, peptides, and glycopeptides"	PgPan_0009	
+"Degradation of proteins, peptides, and glycopeptides"	PgPan_0308	
+"Degradation of proteins, peptides, and glycopeptides"	PgPan_0309	
+"Degradation of proteins, peptides, and glycopeptides"	PgPan_0315	
+"Degradation of proteins, peptides, and glycopeptides"	PgPan_0399	
+"Degradation of proteins, peptides, and glycopeptides"	PgPan_0442	
+"Degradation of proteins, peptides, and glycopeptides"	PgPan_0523	
+"Degradation of proteins, peptides, and glycopeptides"	PgPan_0736	
+"Degradation of proteins, peptides, and glycopeptides"	PgPan_0881	
+"Degradation of proteins, peptides, and glycopeptides"	PgPan_0900	
+"Degradation of proteins, peptides, and glycopeptides"	PgPan_1025	
+"Degradation of proteins, peptides, and glycopeptides"	PgPan_1064	
+"Degradation of proteins, peptides, and glycopeptides"	PgPan_1096	
+"Degradation of proteins, peptides, and glycopeptides"	PgPan_1118	
+"Degradation of proteins, peptides, and glycopeptides"	PgPan_1142	
+"Degradation of proteins, peptides, and glycopeptides"	PgPan_1306	
+"Degradation of proteins, peptides, and glycopeptides"	PgPan_1329	
+"Degradation of proteins, peptides, and glycopeptides"	PgPan_1353	
+"Degradation of proteins, peptides, and glycopeptides"	PgPan_1477	
+"Degradation of proteins, peptides, and glycopeptides"	PgPan_1496	
+"Degradation of proteins, peptides, and glycopeptides"	PgPan_1546	
+"Degradation of proteins, peptides, and glycopeptides"	PgPan_1558	
+"Degradation of proteins, peptides, and glycopeptides"	PgPan_1588	
+"Degradation of proteins, peptides, and glycopeptides"	PgPan_1642	
+"Degradation of proteins, peptides, and glycopeptides"	PgPan_1643	
+"Degradation of proteins, peptides, and glycopeptides"	PgPan_1724	
+"Degradation of proteins, peptides, and glycopeptides"	PgPan_1779	
+"Degradation of proteins, peptides, and glycopeptides"	PgPan_1809	
+"Degradation of proteins, peptides, and glycopeptides"	PgPan_1838	
+"Degradation of proteins, peptides, and glycopeptides"	PgPan_1884	
+"Degradation of proteins, peptides, and glycopeptides"	PgPan_1889	
+"Degradation of proteins, peptides, and glycopeptides"	PgPan_1903	
+"Degradation of proteins, peptides, and glycopeptides"	PgPan_3225	
+Protein fate	Protein and peptide secretion and trafficking	
+Protein and peptide secretion and trafficking	PgPan_0270	
+Protein and peptide secretion and trafficking	PgPan_0518	
+Protein and peptide secretion and trafficking	PgPan_0577	
+Protein and peptide secretion and trafficking	PgPan_0578	
+Protein and peptide secretion and trafficking	PgPan_0714	
+Protein and peptide secretion and trafficking	PgPan_0874	
+Protein and peptide secretion and trafficking	PgPan_1068	
+Protein and peptide secretion and trafficking	PgPan_1104	
+Protein and peptide secretion and trafficking	PgPan_1110	
+Protein and peptide secretion and trafficking	PgPan_1191	
+Protein and peptide secretion and trafficking	PgPan_1568	
+Protein and peptide secretion and trafficking	PgPan_1579	
+Protein and peptide secretion and trafficking	PgPan_1613	
+Protein and peptide secretion and trafficking	PgPan_1671	
+Protein and peptide secretion and trafficking	PgPan_1784	
+Protein fate	Protein folding and stabilization	
+Protein folding and stabilization	PgPan_0012	
+Protein folding and stabilization	PgPan_0267	
+Protein folding and stabilization	PgPan_0439	
+Protein folding and stabilization	PgPan_0556	
+Protein folding and stabilization	PgPan_0809	
+Protein folding and stabilization	PgPan_0897	
+Protein folding and stabilization	PgPan_1238	
+Protein folding and stabilization	PgPan_1266	
+Protein folding and stabilization	PgPan_1363	
+Protein folding and stabilization	PgPan_1364	
+Protein folding and stabilization	PgPan_1365	
+Protein folding and stabilization	PgPan_1516	
+Protein folding and stabilization	PgPan_1573	
+Protein folding and stabilization	PgPan_1574	
+Protein folding and stabilization	PgPan_1656	
+Protein folding and stabilization	PgPan_1657	
+Protein folding and stabilization	PgPan_1806	
+Protein folding and stabilization	PgPan_1808	
+Protein folding and stabilization	PgPan_1845	
+Protein fate	Protein modification and repair	
+Protein modification and repair	PgPan_0044	
+Protein modification and repair	PgPan_0414	
+Protein modification and repair	PgPan_0509	
+Protein modification and repair	PgPan_0707	
+Protein modification and repair	PgPan_0780	
+Protein modification and repair	PgPan_0877	
+Protein modification and repair	PgPan_0997	
+Protein modification and repair	PgPan_1099	
+Protein modification and repair	PgPan_1190	
+Protein modification and repair	PgPan_1874	
+Genetic information processing	Protein synthesis	
+Protein synthesis	Other2	
+Other2	PgPan_0031	
+Other2	PgPan_0753	
+Other2	PgPan_0754	
+Other2	PgPan_1090	
+Other2	PgPan_1583	
+Other2	PgPan_1589	
+Other2	PgPan_1749	
+Protein synthesis	Ribosomal proteins: synthesis and modification	
+Ribosomal proteins: synthesis and modification	PgPan_0164	
+Ribosomal proteins: synthesis and modification	PgPan_0165	
+Ribosomal proteins: synthesis and modification	PgPan_0349	
+Ribosomal proteins: synthesis and modification	PgPan_0350	
+Ribosomal proteins: synthesis and modification	PgPan_0455	
+Ribosomal proteins: synthesis and modification	PgPan_0706	
+Ribosomal proteins: synthesis and modification	PgPan_0732	
+Ribosomal proteins: synthesis and modification	PgPan_0751	
+Ribosomal proteins: synthesis and modification	PgPan_0977	
+Ribosomal proteins: synthesis and modification	PgPan_1014	
+Ribosomal proteins: synthesis and modification	PgPan_1089	
+Ribosomal proteins: synthesis and modification	PgPan_1105	
+Ribosomal proteins: synthesis and modification	PgPan_1183	
+Ribosomal proteins: synthesis and modification	PgPan_1185	
+Ribosomal proteins: synthesis and modification	PgPan_1186	
+Ribosomal proteins: synthesis and modification	PgPan_1187	
+Ribosomal proteins: synthesis and modification	PgPan_1188	
+Ribosomal proteins: synthesis and modification	PgPan_1192	
+Ribosomal proteins: synthesis and modification	PgPan_1193	
+Ribosomal proteins: synthesis and modification	PgPan_1194	
+Ribosomal proteins: synthesis and modification	PgPan_1195	
+Ribosomal proteins: synthesis and modification	PgPan_1196	
+Ribosomal proteins: synthesis and modification	PgPan_1197	
+Ribosomal proteins: synthesis and modification	PgPan_1198	
+Ribosomal proteins: synthesis and modification	PgPan_1199	
+Ribosomal proteins: synthesis and modification	PgPan_1200	
+Ribosomal proteins: synthesis and modification	PgPan_1201	
+Ribosomal proteins: synthesis and modification	PgPan_1202	
+Ribosomal proteins: synthesis and modification	PgPan_1203	
+Ribosomal proteins: synthesis and modification	PgPan_1204	
+Ribosomal proteins: synthesis and modification	PgPan_1205	
+Ribosomal proteins: synthesis and modification	PgPan_1206	
+Ribosomal proteins: synthesis and modification	PgPan_1207	
+Ribosomal proteins: synthesis and modification	PgPan_1208	
+Ribosomal proteins: synthesis and modification	PgPan_1209	
+Ribosomal proteins: synthesis and modification	PgPan_1210	
+Ribosomal proteins: synthesis and modification	PgPan_1211	
+Ribosomal proteins: synthesis and modification	PgPan_1212	
+Ribosomal proteins: synthesis and modification	PgPan_1214	
+Ribosomal proteins: synthesis and modification	PgPan_1215	
+Ribosomal proteins: synthesis and modification	PgPan_1261	
+Ribosomal proteins: synthesis and modification	PgPan_1461	
+Ribosomal proteins: synthesis and modification	PgPan_1481	
+Ribosomal proteins: synthesis and modification	PgPan_1512	
+Ribosomal proteins: synthesis and modification	PgPan_1513	
+Ribosomal proteins: synthesis and modification	PgPan_1514	
+Ribosomal proteins: synthesis and modification	PgPan_1517	
+Ribosomal proteins: synthesis and modification	PgPan_1675	
+Ribosomal proteins: synthesis and modification	PgPan_1721	
+Ribosomal proteins: synthesis and modification	PgPan_1722	
+Ribosomal proteins: synthesis and modification	PgPan_1772	
+Ribosomal proteins: synthesis and modification	PgPan_1773	
+Ribosomal proteins: synthesis and modification	PgPan_1774	
+Ribosomal proteins: synthesis and modification	PgPan_1781	
+Ribosomal proteins: synthesis and modification	PgPan_1786	
+Ribosomal proteins: synthesis and modification	PgPan_1787	
+Ribosomal proteins: synthesis and modification	PgPan_1788	
+Ribosomal proteins: synthesis and modification	PgPan_1789	
+Protein synthesis	Translation factors	
+Translation factors	PgPan_0166	
+Translation factors	PgPan_0242	
+Translation factors	PgPan_0475	
+Translation factors	PgPan_0873	
+Translation factors	PgPan_1012	
+Translation factors	PgPan_1016	
+Translation factors	PgPan_1056	
+Translation factors	PgPan_1091	
+Translation factors	PgPan_1179	
+Translation factors	PgPan_1180	
+Translation factors	PgPan_1189	
+Translation factors	PgPan_1213	
+Translation factors	PgPan_1290	
+Translation factors	PgPan_1537	
+Translation factors	PgPan_1775	
+Translation factors	PgPan_1782	
+Translation factors	PgPan_1783	
+Translation factors	PgPan_2117	
+Protein synthesis	tRNA aminoacylation	
+tRNA aminoacylation	PgPan_0038	
+tRNA aminoacylation	PgPan_0148	
+tRNA aminoacylation	PgPan_0167	
+tRNA aminoacylation	PgPan_0255	
+tRNA aminoacylation	PgPan_0265	
+tRNA aminoacylation	PgPan_0327	
+tRNA aminoacylation	PgPan_0390	
+tRNA aminoacylation	PgPan_0411	
+tRNA aminoacylation	PgPan_0495	
+tRNA aminoacylation	PgPan_0588	
+tRNA aminoacylation	PgPan_0654	
+tRNA aminoacylation	PgPan_0686	
+tRNA aminoacylation	PgPan_0704	
+tRNA aminoacylation	PgPan_0808	
+tRNA aminoacylation	PgPan_0841	
+tRNA aminoacylation	PgPan_0872	
+tRNA aminoacylation	PgPan_1004	
+tRNA aminoacylation	PgPan_1006	
+tRNA aminoacylation	PgPan_1087	
+tRNA aminoacylation	PgPan_1102	
+tRNA aminoacylation	PgPan_1158	
+tRNA aminoacylation	PgPan_1227	
+tRNA aminoacylation	PgPan_1309	
+tRNA aminoacylation	PgPan_1661	
+tRNA aminoacylation	PgPan_1723	
+Protein synthesis	tRNA and rRNA base modification	
+tRNA and rRNA base modification	PgPan_0076	
+tRNA and rRNA base modification	PgPan_0118	
+tRNA and rRNA base modification	PgPan_0146	
+tRNA and rRNA base modification	PgPan_0154	
+tRNA and rRNA base modification	PgPan_0182	
+tRNA and rRNA base modification	PgPan_0216	
+tRNA and rRNA base modification	PgPan_0264	
+tRNA and rRNA base modification	PgPan_0274	
+tRNA and rRNA base modification	PgPan_0283	
+tRNA and rRNA base modification	PgPan_0329	
+tRNA and rRNA base modification	PgPan_0345	
+tRNA and rRNA base modification	PgPan_0447	
+tRNA and rRNA base modification	PgPan_0454	
+tRNA and rRNA base modification	PgPan_0501	
+tRNA and rRNA base modification	PgPan_0662	
+tRNA and rRNA base modification	PgPan_0673	
+tRNA and rRNA base modification	PgPan_0688	
+tRNA and rRNA base modification	PgPan_0762	
+tRNA and rRNA base modification	PgPan_0816	
+tRNA and rRNA base modification	PgPan_0827	
+tRNA and rRNA base modification	PgPan_0896	
+tRNA and rRNA base modification	PgPan_0904	
+tRNA and rRNA base modification	PgPan_0907	
+tRNA and rRNA base modification	PgPan_0978	
+tRNA and rRNA base modification	PgPan_1003	
+tRNA and rRNA base modification	PgPan_1020	
+tRNA and rRNA base modification	PgPan_1120	
+tRNA and rRNA base modification	PgPan_1135	
+tRNA and rRNA base modification	PgPan_1166	
+tRNA and rRNA base modification	PgPan_1336	
+tRNA and rRNA base modification	PgPan_1339	
+tRNA and rRNA base modification	PgPan_1348	
+tRNA and rRNA base modification	PgPan_1534	
+tRNA and rRNA base modification	PgPan_1572	
+tRNA and rRNA base modification	PgPan_1591	
+tRNA and rRNA base modification	PgPan_1742	
+tRNA and rRNA base modification	PgPan_1766	
+tRNA and rRNA base modification	PgPan_1829	
+tRNA and rRNA base modification	PgPan_1858	
+tRNA and rRNA base modification	PgPan_1891	
+tRNA and rRNA base modification	PgPan_1892	
+tRNA and rRNA base modification	PgPan_0001	
+Genetic information processing	Transcription	
+Transcription	Degradation of RNA	
+Degradation of RNA	PgPan_0013	
+Degradation of RNA	PgPan_0485	
+Degradation of RNA	PgPan_0716	
+Degradation of RNA	PgPan_0975	
+Degradation of RNA	PgPan_1797	
+Transcription	DNA-dependent RNA polymerase	
+DNA-dependent RNA polymerase	PgPan_0517	
+DNA-dependent RNA polymerase	PgPan_1184	
+DNA-dependent RNA polymerase	PgPan_1790	
+DNA-dependent RNA polymerase	PgPan_1791	
+Transcription	RNA processing	
+RNA processing	PgPan_0114	
+RNA processing	PgPan_0395	
+RNA processing	PgPan_1060	
+RNA processing	PgPan_1299	
+RNA processing	PgPan_1338	
+RNA processing	PgPan_1670	
+Transcription	Transcription factors	
+Transcription factors	PgPan_0046	
+Transcription factors	PgPan_0161	
+Transcription factors	PgPan_0273	
+Transcription factors	PgPan_0367	
+Transcription factors	PgPan_0436	
+Transcription factors	PgPan_0908	
+Transcription factors	PgPan_0928	
+Transcription factors	PgPan_1013	
+Transcription factors	PgPan_1046	
+Transcription factors	PgPan_1094	
+Transcription factors	PgPan_1107	
+Transcription factors	PgPan_1242	
+Transcription factors	PgPan_1333	
+Transcription factors	PgPan_1515	
+Transcription factors	PgPan_1708	
+Transcription factors	PgPan_1738	
+Transcription factors	PgPan_1785	
+Metabolism	Amino acid biosynthesis	
+Amino acid biosynthesis	Aromatic amino acid family	
+Aromatic amino acid family	PgPan_0084	
+Aromatic amino acid family	PgPan_0159	
+Aromatic amino acid family	PgPan_0440	
+Aromatic amino acid family	PgPan_0494	
+Aromatic amino acid family	PgPan_0869	
+Aromatic amino acid family	PgPan_0985	
+Aromatic amino acid family	PgPan_1217	
+Aromatic amino acid family	PgPan_1249	
+Amino acid biosynthesis	Aspartate family	
+Aspartate family	PgPan_0250	
+Aspartate family	PgPan_0406	
+Aspartate family	PgPan_0579	
+Aspartate family	PgPan_0678	
+Aspartate family	PgPan_0788	
+Aspartate family	PgPan_0789	
+Aspartate family	PgPan_1394	
+Aspartate family	PgPan_1535	
+Amino acid biosynthesis	Glutamate family	
+Glutamate family	PgPan_0505	
+Glutamate family	PgPan_0660	
+Amino acid biosynthesis	Lysine pathway	
+Lysine pathway	PgPan_0045	
+Amino acid biosynthesis	Noncanonical amino acid synthesis	
+Noncanonical amino acid synthesis	PgPan_1680	
+Amino acid biosynthesis	Other3	
+Other3	PgPan_1542	
+Amino acid biosynthesis	Pyruvate family	
+Pyruvate family	PgPan_0461	
+Amino acid biosynthesis	Serine family	
+Serine family	PgPan_0222	
+Serine family	PgPan_0470	
+Serine family	PgPan_0471	
+Serine family	PgPan_0504	
+Serine family	PgPan_1263	
+Serine family	PgPan_1396	
+Serine family	PgPan_1463	
+Metabolism	"Biosynthesis of cofactors, prosthetic groups, and carriers"	
+"Biosynthesis of cofactors, prosthetic groups, and carriers"	Biotin	
+Biotin	PgPan_0570	
+Biotin	PgPan_0679	
+Biotin	PgPan_0700	
+Biotin	PgPan_0701	
+Biotin	PgPan_0945	
+Biotin	PgPan_0946	
+Biotin	PgPan_1652	
+"Biosynthesis of cofactors, prosthetic groups, and carriers"	Folic acid	
+Folic acid	PgPan_0085	
+Folic acid	PgPan_0087	
+Folic acid	PgPan_0190	
+Folic acid	PgPan_0191	
+Folic acid	PgPan_0215	
+Folic acid	PgPan_0685	
+Folic acid	PgPan_0710	
+Folic acid	PgPan_0867	
+Folic acid	PgPan_1491	
+Folic acid	PgPan_1731	
+Folic acid	PgPan_1850	
+Folic acid	PgPan_1890	
+"Biosynthesis of cofactors, prosthetic groups, and carriers"	"Heme, porphyrin, and cobalamin"	
+"Heme, porphyrin, and cobalamin"	PgPan_0228	
+"Heme, porphyrin, and cobalamin"	PgPan_0229	
+"Heme, porphyrin, and cobalamin"	PgPan_0230	
+"Heme, porphyrin, and cobalamin"	PgPan_0231	
+"Heme, porphyrin, and cobalamin"	PgPan_0232	
+"Heme, porphyrin, and cobalamin"	PgPan_0262	
+"Heme, porphyrin, and cobalamin"	PgPan_0652	
+"Heme, porphyrin, and cobalamin"	PgPan_0813	
+"Heme, porphyrin, and cobalamin"	PgPan_0830	
+"Heme, porphyrin, and cobalamin"	PgPan_1049	
+"Heme, porphyrin, and cobalamin"	PgPan_1050	
+"Heme, porphyrin, and cobalamin"	PgPan_1052	
+"Heme, porphyrin, and cobalamin"	PgPan_1053	
+"Heme, porphyrin, and cobalamin"	PgPan_1059	
+"Heme, porphyrin, and cobalamin"	PgPan_1128	
+"Heme, porphyrin, and cobalamin"	PgPan_1240	
+"Heme, porphyrin, and cobalamin"	PgPan_1369	
+"Heme, porphyrin, and cobalamin"	PgPan_1370	
+"Heme, porphyrin, and cobalamin"	PgPan_1371	
+"Heme, porphyrin, and cobalamin"	PgPan_1372	
+"Heme, porphyrin, and cobalamin"	PgPan_1402	
+"Heme, porphyrin, and cobalamin"	PgPan_1471	
+"Heme, porphyrin, and cobalamin"	PgPan_1618	
+"Heme, porphyrin, and cobalamin"	PgPan_1622	
+"Biosynthesis of cofactors, prosthetic groups, and carriers"	Lipoate	
+Lipoate	PgPan_1587	
+"Biosynthesis of cofactors, prosthetic groups, and carriers"	Menaquinone and ubiquinone	
+Menaquinone and ubiquinone	PgPan_0026	
+Menaquinone and ubiquinone	PgPan_0158	
+Menaquinone and ubiquinone	PgPan_0790	
+Menaquinone and ubiquinone	PgPan_1152	
+"Biosynthesis of cofactors, prosthetic groups, and carriers"	Other4	
+Other4	PgPan_0101	
+Other4	PgPan_0126	
+Other4	PgPan_0138	
+Other4	PgPan_0396	
+Other4	PgPan_0766	
+Other4	PgPan_1008	
+Other4	PgPan_1009	
+Other4	PgPan_1010	
+Other4	PgPan_1241	
+Other4	PgPan_1252	
+Other4	PgPan_1342	
+"Biosynthesis of cofactors, prosthetic groups, and carriers"	Pantothenate and coenzyme A	
+Pantothenate and coenzyme A	PgPan_0271	
+Pantothenate and coenzyme A	PgPan_0776	
+Pantothenate and coenzyme A	PgPan_0998	
+Pantothenate and coenzyme A	PgPan_1138	
+Pantothenate and coenzyme A	PgPan_1520	
+Pantothenate and coenzyme A	PgPan_1615	
+Pantothenate and coenzyme A	PgPan_1620	
+Pantothenate and coenzyme A	PgPan_1770	
+Pantothenate and coenzyme A	PgPan_1840	
+"Biosynthesis of cofactors, prosthetic groups, and carriers"	Pyridine nucleotides	
+Pyridine nucleotides	PgPan_0032	
+Pyridine nucleotides	PgPan_0423	
+Pyridine nucleotides	PgPan_0424	
+Pyridine nucleotides	PgPan_0425	
+Pyridine nucleotides	PgPan_0854	
+Pyridine nucleotides	PgPan_0855	
+Pyridine nucleotides	PgPan_0856	
+Pyridine nucleotides	PgPan_1234	
+Pyridine nucleotides	PgPan_1275	
+Pyridine nucleotides	PgPan_1276	
+Pyridine nucleotides	PgPan_1393	
+Pyridine nucleotides	PgPan_1487	
+Pyridine nucleotides	PgPan_1564	
+"Biosynthesis of cofactors, prosthetic groups, and carriers"	Pyridoxine	
+Pyridoxine	PgPan_0514	
+Pyridoxine	PgPan_0690	
+Pyridoxine	PgPan_0970	
+Pyridoxine	PgPan_1486	
+"Biosynthesis of cofactors, prosthetic groups, and carriers"	"Riboflavin, FMN, and FAD"	
+"Riboflavin, FMN, and FAD"	PgPan_0143	
+"Riboflavin, FMN, and FAD"	PgPan_1100	
+"Riboflavin, FMN, and FAD"	PgPan_1344	
+"Riboflavin, FMN, and FAD"	PgPan_1352	
+"Riboflavin, FMN, and FAD"	PgPan_1510	
+"Riboflavin, FMN, and FAD"	PgPan_1902	
+"Biosynthesis of cofactors, prosthetic groups, and carriers"	Thiamine	
+Thiamine	PgPan_0722	
+Thiamine	PgPan_0723	
+Thiamine	PgPan_0724	
+Thiamine	PgPan_0725	
+Thiamine	PgPan_0726	
+Thiamine	PgPan_1176	
+Thiamine	PgPan_1479	
+Metabolism	Central intermediary metabolism	
+Central intermediary metabolism	Amino sugars	
+Amino sugars	PgPan_0042	
+Amino sugars	PgPan_0284	
+Central intermediary metabolism	Nitrogen metabolism	
+Nitrogen metabolism	PgPan_0487	
+Central intermediary metabolism	One-carbon metabolism	
+One-carbon metabolism	PgPan_0269	
+One-carbon metabolism	PgPan_0434	
+One-carbon metabolism	PgPan_1141	
+Central intermediary metabolism	Other5	
+Other5	PgPan_0294	
+Other5	PgPan_1111	
+Other5	PgPan_1112	
+Other5	PgPan_1175	
+Other5	PgPan_1606	
+Central intermediary metabolism	Phosphorus compounds	
+Phosphorus compounds	PgPan_1164	
+Central intermediary metabolism	Polyamine biosynthesis	
+Polyamine biosynthesis	PgPan_1103	
+Central intermediary metabolism	Sulfur metabolism	
+Sulfur metabolism	PgPan_0017	
+Sulfur metabolism	PgPan_0286	
+Metabolism	Energy metabolism	
+Energy metabolism	Amino acids and amines	
+Amino acids and amines	PgPan_0136	
+Amino acids and amines	PgPan_0449	
+Amino acids and amines	PgPan_0476	
+Amino acids and amines	PgPan_0478	
+Amino acids and amines	PgPan_0834	
+Amino acids and amines	PgPan_0993	
+Amino acids and amines	PgPan_1153	
+Amino acids and amines	PgPan_1297	
+Amino acids and amines	PgPan_1617	
+Amino acids and amines	PgPan_1623	
+Amino acids and amines	PgPan_1730	
+Amino acids and amines	PgPan_1734	
+Amino acids and amines	PgPan_1735	
+Amino acids and amines	PgPan_1746	
+Energy metabolism	ATP-proton motive force interconversion	
+ATP-proton motive force interconversion	PgPan_1582	
+ATP-proton motive force interconversion	PgPan_1625	
+ATP-proton motive force interconversion	PgPan_1626	
+ATP-proton motive force interconversion	PgPan_1627	
+ATP-proton motive force interconversion	PgPan_1628	
+ATP-proton motive force interconversion	PgPan_1629	
+ATP-proton motive force interconversion	PgPan_1630	
+ATP-proton motive force interconversion	PgPan_1631	
+ATP-proton motive force interconversion	PgPan_1709	
+Energy metabolism	Biosynthesis and degradation of polysaccharides	
+Biosynthesis and degradation of polysaccharides	PgPan_0912	
+Energy metabolism	Electron transport	
+Electron transport	PgPan_0018	
+Electron transport	PgPan_0019	
+Electron transport	PgPan_0093	
+Electron transport	PgPan_0094	
+Electron transport	PgPan_0252	
+Electron transport	PgPan_0266	
+Electron transport	PgPan_0298	
+Electron transport	PgPan_0299	
+Electron transport	PgPan_0361	
+Electron transport	PgPan_0362	
+Electron transport	PgPan_0363	
+Electron transport	PgPan_0661	
+Electron transport	PgPan_0799	
+Electron transport	PgPan_0961	
+Electron transport	PgPan_1145	
+Electron transport	PgPan_1259	
+Electron transport	PgPan_1710	
+Electron transport	PgPan_1711	
+Electron transport	PgPan_1712	
+Electron transport	PgPan_1713	
+Electron transport	PgPan_1714	
+Electron transport	PgPan_1715	
+Energy metabolism	Fermentation	
+Fermentation	PgPan_0219	
+Fermentation	PgPan_0220	
+Fermentation	PgPan_0221	
+Fermentation	PgPan_0238	
+Fermentation	PgPan_0295	
+Fermentation	PgPan_0296	
+Fermentation	PgPan_0297	
+Fermentation	PgPan_0300	
+Fermentation	PgPan_0301	
+Fermentation	PgPan_0302	
+Fermentation	PgPan_0303	
+Fermentation	PgPan_0306	
+Fermentation	PgPan_0307	
+Fermentation	PgPan_0428	
+Fermentation	PgPan_0448	
+Fermentation	PgPan_0843	
+Fermentation	PgPan_0883	
+Fermentation	PgPan_0884	
+Fermentation	PgPan_0887	
+Fermentation	PgPan_0888	
+Fermentation	PgPan_0931	
+Fermentation	PgPan_0932	
+Fermentation	PgPan_1335	
+Fermentation	PgPan_1379	
+Fermentation	PgPan_1381	
+Fermentation	PgPan_1382	
+Fermentation	PgPan_1383	
+Energy metabolism	Glycolysis/gluconeogenesis	
+Glycolysis/gluconeogenesis	PgPan_0035	
+Glycolysis/gluconeogenesis	PgPan_0185	
+Glycolysis/gluconeogenesis	PgPan_0365	
+Glycolysis/gluconeogenesis	PgPan_0392	
+Glycolysis/gluconeogenesis	PgPan_0737	
+Glycolysis/gluconeogenesis	PgPan_0917	
+Glycolysis/gluconeogenesis	PgPan_0918	
+Glycolysis/gluconeogenesis	PgPan_0990	
+Glycolysis/gluconeogenesis	PgPan_0991	
+Glycolysis/gluconeogenesis	PgPan_1093	
+Glycolysis/gluconeogenesis	PgPan_1125	
+Glycolysis/gluconeogenesis	PgPan_1493	
+Glycolysis/gluconeogenesis	PgPan_1547	
+Glycolysis/gluconeogenesis	PgPan_1678	
+Energy metabolism	Other6	
+Other6	PgPan_0041	
+Other6	PgPan_0352	
+Other6	PgPan_0373	
+Other6	PgPan_0571	
+Other6	PgPan_0803	
+Other6	PgPan_1146	
+Other6	PgPan_1397	
+Other6	PgPan_1398	
+Other6	PgPan_1638	
+Other6	PgPan_1826	
+Other6	PgPan_1827	
+Energy metabolism	Pentose phosphate pathway	
+Pentose phosphate pathway	PgPan_0871	
+Pentose phosphate pathway	PgPan_1030	
+Pentose phosphate pathway	PgPan_1684	
+Pentose phosphate pathway	PgPan_1685	
+Energy metabolism	Sugars	
+Sugars	PgPan_0014	
+Sugars	PgPan_0090	
+Sugars	PgPan_0091	
+Sugars	PgPan_0112	
+Sugars	PgPan_0163	
+Sugars	PgPan_0204	
+Sugars	PgPan_0462	
+Sugars	PgPan_0585	
+Sugars	PgPan_0911	
+Sugars	PgPan_0956	
+Sugars	PgPan_0957	
+Sugars	PgPan_1163	
+Sugars	PgPan_1239	
+Sugars	PgPan_1257	
+Sugars	PgPan_1298	
+Sugars	PgPan_1375	
+Sugars	PgPan_1455	
+Sugars	PgPan_1683	
+Sugars	PgPan_1750	
+Sugars	PgPan_1755	
+Sugars	PgPan_1854	
+Energy metabolism	TCA cycle	
+TCA cycle	PgPan_0183	
+TCA cycle	PgPan_0353	
+TCA cycle	PgPan_0354	
+TCA cycle	PgPan_0356	
+TCA cycle	PgPan_0357	
+TCA cycle	PgPan_0889	
+TCA cycle	PgPan_0890	
+TCA cycle	PgPan_0891	
+TCA cycle	PgPan_1015	
+TCA cycle	PgPan_1222	
+TCA cycle	PgPan_1687	
+TCA cycle	PgPan_1909	
+Metabolism	Fatty acid and phospholipid metabolism	
+Fatty acid and phospholipid metabolism	Biosynthesis	
+Biosynthesis	PgPan_0150	
+Biosynthesis	PgPan_0241	
+Biosynthesis	PgPan_0369	
+Biosynthesis	PgPan_0391	
+Biosynthesis	PgPan_0492	
+Biosynthesis	PgPan_0500	
+Biosynthesis	PgPan_0692	
+Biosynthesis	PgPan_0693	
+Biosynthesis	PgPan_0752	
+Biosynthesis	PgPan_0952	
+Biosynthesis	PgPan_1117	
+Biosynthesis	PgPan_1267	
+Biosynthesis	PgPan_1287	
+Biosynthesis	PgPan_1668	
+Biosynthesis	PgPan_1669	
+Biosynthesis	PgPan_1911	
+Metabolism	"Purines, pyrimidines, nucleosides, and nucleotides"	
+"Purines, pyrimidines, nucleosides, and nucleotides"	2-Deoxyribonucleotide metabolism	
+2-Deoxyribonucleotide metabolism	PgPan_0139	
+2-Deoxyribonucleotide metabolism	PgPan_0257	
+2-Deoxyribonucleotide metabolism	PgPan_0482	
+2-Deoxyribonucleotide metabolism	PgPan_0483	
+2-Deoxyribonucleotide metabolism	PgPan_0684	
+"Purines, pyrimidines, nucleosides, and nucleotides"	Nucleotide and nucleoside interconversions	
+Nucleotide and nucleoside interconversions	PgPan_0580	
+Nucleotide and nucleoside interconversions	PgPan_1143	
+Nucleotide and nucleoside interconversions	PgPan_1181	
+Nucleotide and nucleoside interconversions	PgPan_1508	
+Nucleotide and nucleoside interconversions	PgPan_1581	
+Nucleotide and nucleoside interconversions	PgPan_1921	
+"Purines, pyrimidines, nucleosides, and nucleotides"	Other7	
+Other7	PgPan_0467	
+Other7	PgPan_0574	
+Other7	PgPan_1022	
+"Purines, pyrimidines, nucleosides, and nucleotides"	Purine ribonucleotide biosynthesis	
+Purine ribonucleotide biosynthesis	PgPan_0033	
+Purine ribonucleotide biosynthesis	PgPan_0137	
+Purine ribonucleotide biosynthesis	PgPan_0157	
+Purine ribonucleotide biosynthesis	PgPan_0263	
+Purine ribonucleotide biosynthesis	PgPan_0400	
+Purine ribonucleotide biosynthesis	PgPan_0715	
+Purine ribonucleotide biosynthesis	PgPan_0982	
+Purine ribonucleotide biosynthesis	PgPan_1291	
+Purine ribonucleotide biosynthesis	PgPan_1519	
+Purine ribonucleotide biosynthesis	PgPan_1567	
+Purine ribonucleotide biosynthesis	PgPan_1571	
+Purine ribonucleotide biosynthesis	PgPan_1667	
+Purine ribonucleotide biosynthesis	PgPan_1705	
+Purine ribonucleotide biosynthesis	PgPan_1851	
+Purine ribonucleotide biosynthesis	PgPan_1872	
+"Purines, pyrimidines, nucleosides, and nucleotides"	Pyrimidine ribonucleotide biosynthesis	
+Pyrimidine ribonucleotide biosynthesis	PgPan_0111	
+Pyrimidine ribonucleotide biosynthesis	PgPan_0116	
+Pyrimidine ribonucleotide biosynthesis	PgPan_0312	
+Pyrimidine ribonucleotide biosynthesis	PgPan_0389	
+Pyrimidine ribonucleotide biosynthesis	PgPan_0407	
+Pyrimidine ribonucleotide biosynthesis	PgPan_0681	
+Pyrimidine ribonucleotide biosynthesis	PgPan_0995	
+Pyrimidine ribonucleotide biosynthesis	PgPan_1289	
+Pyrimidine ribonucleotide biosynthesis	PgPan_1330	
+Pyrimidine ribonucleotide biosynthesis	PgPan_1565	
+Pyrimidine ribonucleotide biosynthesis	PgPan_1566	
+Pyrimidine ribonucleotide biosynthesis	PgPan_1569	
+Pyrimidine ribonucleotide biosynthesis	PgPan_1759	
+Pyrimidine ribonucleotide biosynthesis	PgPan_1760	
+"Purines, pyrimidines, nucleosides, and nucleotides"	Salvage of nucleosides and nucleotides	
+Salvage of nucleosides and nucleotides	PgPan_0826	
+Salvage of nucleosides and nucleotides	PgPan_1254	
+Salvage of nucleosides and nucleotides	PgPan_1543	
+Salvage of nucleosides and nucleotides	PgPan_1651	
+Metabolism	Transport and binding proteins	
+Transport and binding proteins	"Amino acids, peptides and amines"	
+"Amino acids, peptides and amines"	PgPan_0381	
+"Amino acids, peptides and amines"	PgPan_1727	
+"Amino acids, peptides and amines"	PgPan_1728	
+"Amino acids, peptides and amines"	PgPan_1837	
+Transport and binding proteins	Anions	
+Anions	PgPan_0343	
+Anions	PgPan_0844	
+Anions	PgPan_1054	
+Anions	PgPan_1247	
+Anions	PgPan_1699	
+Anions	PgPan_1700	
+Transport and binding proteins	"Carbohydrates, organic alcohols, and acids"	
+"Carbohydrates, organic alcohols, and acids"	PgPan_0417	
+"Carbohydrates, organic alcohols, and acids"	PgPan_1833	
+"Carbohydrates, organic alcohols, and acids"	PgPan_1927	
+"Carbohydrates, organic alcohols, and acids"	PgPan_1957	
+Transport and binding proteins	Cations and iron carrying compounds	
+Cations and iron carrying compounds	PgPan_0024	
+Cations and iron carrying compounds	PgPan_0027	
+Cations and iron carrying compounds	PgPan_0129	
+Cations and iron carrying compounds	PgPan_0131	
+Cations and iron carrying compounds	PgPan_0132	
+Cations and iron carrying compounds	PgPan_0205	
+Cations and iron carrying compounds	PgPan_0459	
+Cations and iron carrying compounds	PgPan_0583	
+Cations and iron carrying compounds	PgPan_0663	
+Cations and iron carrying compounds	PgPan_0709	
+Cations and iron carrying compounds	PgPan_0764	
+Cations and iron carrying compounds	PgPan_0765	
+Cations and iron carrying compounds	PgPan_0793	
+Cations and iron carrying compounds	PgPan_0794	
+Cations and iron carrying compounds	PgPan_0795	
+Cations and iron carrying compounds	PgPan_0796	
+Cations and iron carrying compounds	PgPan_0797	
+Cations and iron carrying compounds	PgPan_0798	
+Cations and iron carrying compounds	PgPan_0828	
+Cations and iron carrying compounds	PgPan_0829	
+Cations and iron carrying compounds	PgPan_0923	
+Cations and iron carrying compounds	PgPan_0924	
+Cations and iron carrying compounds	PgPan_0925	
+Cations and iron carrying compounds	PgPan_0926	
+Cations and iron carrying compounds	PgPan_0964	
+Cations and iron carrying compounds	PgPan_1121	
+Cations and iron carrying compounds	PgPan_1155	
+Cations and iron carrying compounds	PgPan_1157	
+Cations and iron carrying compounds	PgPan_1178	
+Cations and iron carrying compounds	PgPan_1356	
+Cations and iron carrying compounds	PgPan_1366	
+Cations and iron carrying compounds	PgPan_1399	
+Cations and iron carrying compounds	PgPan_1400	
+Cations and iron carrying compounds	PgPan_1401	
+Cations and iron carrying compounds	PgPan_1403	
+Cations and iron carrying compounds	PgPan_1468	
+Cations and iron carrying compounds	PgPan_1469	
+Cations and iron carrying compounds	PgPan_1470	
+Cations and iron carrying compounds	PgPan_1472	
+Cations and iron carrying compounds	PgPan_1483	
+Cations and iron carrying compounds	PgPan_1499	
+Cations and iron carrying compounds	PgPan_1521	
+Cations and iron carrying compounds	PgPan_1639	
+Cations and iron carrying compounds	PgPan_1673	
+Cations and iron carrying compounds	PgPan_1674	
+Cations and iron carrying compounds	PgPan_1777	
+Cations and iron carrying compounds	PgPan_1879	
+Transport and binding proteins	"Nucleosides, purines and pyrimidines"	
+"Nucleosides, purines and pyrimidines"	PgPan_0127	
+"Nucleosides, purines and pyrimidines"	PgPan_0260	
+"Nucleosides, purines and pyrimidines"	PgPan_0375	
+"Nucleosides, purines and pyrimidines"	PgPan_0825	
+Transport and binding proteins	Other8	
+Other8	PgPan_0973	
+Other8	PgPan_0115	
+Other8	PgPan_0160	
+Other8	PgPan_0195	
+Other8	PgPan_0196	
+Other8	PgPan_0209	
+Other8	PgPan_0217	
+Other8	PgPan_0318	
+Other8	PgPan_0322	
+Other8	PgPan_0713	
+Other8	PgPan_0782	
+Other8	PgPan_0962	
+Other8	PgPan_0988	
+Other8	PgPan_1129	
+Other8	PgPan_1177	
+Other8	PgPan_1226	
+Other8	PgPan_1236	
+Other8	PgPan_1480	
+Other8	PgPan_1511	
+Other8	PgPan_1578	
+Other8	PgPan_1590	
+Transport and binding proteins	Porins	
+Porins	PgPan_0364	
+Porins	PgPan_0382	
+Porins	PgPan_0680	
+Porins	PgPan_0922	
+Porins	PgPan_1066	
+Porins	PgPan_1377	
+Porins	PgPan_1378	
+Porins	PgPan_1392	
+Porins	PgPan_1560	
+Porins	PgPan_1732	
+Porins	PgPan_1764	
+Transport and binding proteins	T9SS	
+T9SS	PgPan_0248	
+T9SS	PgPan_0249	
+T9SS	PgPan_0047	
+T9SS	PgPan_0119	
+T9SS	PgPan_0721	
+T9SS	PgPan_0824	
+T9SS	PgPan_0880	
+T9SS	PgPan_1067	
+T9SS	PgPan_1070	
+T9SS	PgPan_1220	
+T9SS	PgPan_1250	
+T9SS	PgPan_1251	
+T9SS	PgPan_1271	
+T9SS	PgPan_1296	
+T9SS	PgPan_1331	
+T9SS	PgPan_1509	
+T9SS	PgPan_1561	
+T9SS	PgPan_1694	
+T9SS	PgPan_1695	
+T9SS	PgPan_1696	
+T9SS	PgPan_1697	
+T9SS	PgPan_1698	
+Transport and binding proteins	Unknown substrate	
+Unknown substrate	PgPan_0021	
+Unknown substrate	PgPan_0022	
+Unknown substrate	PgPan_0181	
+Unknown substrate	PgPan_0277	
+Unknown substrate	PgPan_0342	
+Unknown substrate	PgPan_0348	
+Unknown substrate	PgPan_0383	
+Unknown substrate	PgPan_0384	
+Unknown substrate	PgPan_0385	
+Unknown substrate	PgPan_0510	
+Unknown substrate	PgPan_0581	
+Unknown substrate	PgPan_0775	
+Unknown substrate	PgPan_0915	
+Unknown substrate	PgPan_1073	
+Unknown substrate	PgPan_1303	
+Unknown substrate	PgPan_1304	
+Unknown substrate	PgPan_1305	
+Unknown substrate	PgPan_1386	
+Unknown substrate	PgPan_1387	
+Unknown substrate	PgPan_1391	
+Unknown substrate	PgPan_1484	
+Unknown substrate	PgPan_1485	
+Unknown substrate	PgPan_1540	
+Unknown substrate	PgPan_1688	
+Unknown substrate	PgPan_1689	
+Unknown substrate	PgPan_1690	
+Unknown substrate	PgPan_1691	
+Unknown substrate	PgPan_1739	
+Unknown substrate	PgPan_1849	
+Unknown substrate	PgPan_1882	
+Unknown substrate	PgPan_2106	
+Unknown substrate	PgPan_2154	
+Signal transduction2	Regulatory functions	
+Regulatory functions	DNA interactions	
+DNA interactions	PgPan_0170	
+DNA interactions	PgPan_0178	
+DNA interactions	PgPan_0202	
+DNA interactions	PgPan_0206	
+DNA interactions	PgPan_0212	
+DNA interactions	PgPan_0213	
+DNA interactions	PgPan_0259	
+DNA interactions	PgPan_0313	
+DNA interactions	PgPan_0499	
+DNA interactions	PgPan_0738	
+DNA interactions	PgPan_0758	
+DNA interactions	PgPan_0812	
+DNA interactions	PgPan_0845	
+DNA interactions	PgPan_0950	
+DNA interactions	PgPan_1001	
+DNA interactions	PgPan_1085	
+DNA interactions	PgPan_1245	
+DNA interactions	PgPan_1248	
+DNA interactions	PgPan_1302	
+DNA interactions	PgPan_1308	
+DNA interactions	PgPan_1792	
+DNA interactions	PgPan_1852	
+DNA interactions	PgPan_1944	
+Regulatory functions	Other9	
+Other9	PgPan_1500	
+Regulatory functions	Small molecule interactions	
+Small molecule interactions	PgPan_0792	
+Small molecule interactions	PgPan_0941	
+Signal transduction2	Signal transduction	
+Signal transduction	Other10	
+Other10	PgPan_0156	
+Other10	PgPan_0177	
+Other10	PgPan_0188	
+Other10	PgPan_0757	
+Other10	PgPan_0909	
+Other10	PgPan_0971	
+Other10	PgPan_1273	
+Other10	PgPan_1835	
+Other10	PgPan_1883	
+Signal transduction	Two-component systems	
+Two-component systems	PgPan_0288	
+Two-component systems	PgPan_0502	
+Two-component systems	PgPan_0963	
+Two-component systems	PgPan_1243	
+Two-component systems	PgPan_1334	
+Two-component systems	PgPan_1355	
+Two-component systems	PgPan_1563	
+Two-component systems	PgPan_1635	
+Two-component systems	PgPan_1831	
+Two-component systems	PgPan_1875	
+Two-component systems	PgPan_1899	
+Two-component systems	PgPan_1900	
+Unknown function	Hypothetical proteins	
+Hypothetical proteins	Unknown	
+Unknown	PgPan_0007	
+Unknown	PgPan_0008	
+Unknown	PgPan_0010	
+Unknown	PgPan_0015	
+Unknown	PgPan_0016	
+Unknown	PgPan_0023	
+Unknown	PgPan_0025	
+Unknown	PgPan_0029	
+Unknown	PgPan_0030	
+Unknown	PgPan_0037	
+Unknown	PgPan_0039	
+Unknown	PgPan_0040	
+Unknown	PgPan_0043	
+Unknown	PgPan_0077	
+Unknown	PgPan_0086	
+Unknown	PgPan_0092	
+Unknown	PgPan_0095	
+Unknown	PgPan_0102	
+Unknown	PgPan_0104	
+Unknown	PgPan_0105	
+Unknown	PgPan_0107	
+Unknown	PgPan_0109	
+Unknown	PgPan_0110	
+Unknown	PgPan_0117	
+Unknown	PgPan_0121	
+Unknown	PgPan_0124	
+Unknown	PgPan_0125	
+Unknown	PgPan_0128	
+Unknown	PgPan_0134	
+Unknown	PgPan_0140	
+Unknown	PgPan_0141	
+Unknown	PgPan_0144	
+Unknown	PgPan_0147	
+Unknown	PgPan_0149	
+Unknown	PgPan_0151	
+Unknown	PgPan_0162	
+Unknown	PgPan_0172	
+Unknown	PgPan_0173	
+Unknown	PgPan_0174	
+Unknown	PgPan_0175	
+Unknown	PgPan_0176	
+Unknown	PgPan_0179	
+Unknown	PgPan_0180	
+Unknown	PgPan_0187	
+Unknown	PgPan_0189	
+Unknown	PgPan_0193	
+Unknown	PgPan_0194	
+Unknown	PgPan_0199	
+Unknown	PgPan_0203	
+Unknown	PgPan_0210	
+Unknown	PgPan_0211	
+Unknown	PgPan_0218	
+Unknown	PgPan_0234	
+Unknown	PgPan_0235	
+Unknown	PgPan_0236	
+Unknown	PgPan_0237	
+Unknown	PgPan_0239	
+Unknown	PgPan_0245	
+Unknown	PgPan_0246	
+Unknown	PgPan_0247	
+Unknown	PgPan_0253	
+Unknown	PgPan_0261	
+Unknown	PgPan_0275	
+Unknown	PgPan_0278	
+Unknown	PgPan_0280	
+Unknown	PgPan_0282	
+Unknown	PgPan_0285	
+Unknown	PgPan_0289	
+Unknown	PgPan_0290	
+Unknown	PgPan_0291	
+Unknown	PgPan_0292	
+Unknown	PgPan_0293	
+Unknown	PgPan_0305	
+Unknown	PgPan_0310	
+Unknown	PgPan_0311	
+Unknown	PgPan_0320	
+Unknown	PgPan_0324	
+Unknown	PgPan_0325	
+Unknown	PgPan_0326	
+Unknown	PgPan_0331	
+Unknown	PgPan_0341	
+Unknown	PgPan_0351	
+Unknown	PgPan_0355	
+Unknown	PgPan_0360	
+Unknown	PgPan_0366	
+Unknown	PgPan_0368	
+Unknown	PgPan_0374	
+Unknown	PgPan_0377	
+Unknown	PgPan_0387	
+Unknown	PgPan_0388	
+Unknown	PgPan_0393	
+Unknown	PgPan_0398	
+Unknown	PgPan_0401	
+Unknown	PgPan_0404	
+Unknown	PgPan_0405	
+Unknown	PgPan_0408	
+Unknown	PgPan_0409	
+Unknown	PgPan_0410	
+Unknown	PgPan_0412	
+Unknown	PgPan_0413	
+Unknown	PgPan_0416	
+Unknown	PgPan_0420	
+Unknown	PgPan_0421	
+Unknown	PgPan_0429	
+Unknown	PgPan_0431	
+Unknown	PgPan_0433	
+Unknown	PgPan_0437	
+Unknown	PgPan_0438	
+Unknown	PgPan_0444	
+Unknown	PgPan_0445	
+Unknown	PgPan_0446	
+Unknown	PgPan_0450	
+Unknown	PgPan_0451	
+Unknown	PgPan_0452	
+Unknown	PgPan_0453	
+Unknown	PgPan_0457	
+Unknown	PgPan_0458	
+Unknown	PgPan_0460	
+Unknown	PgPan_0466	
+Unknown	PgPan_0468	
+Unknown	PgPan_0469	
+Unknown	PgPan_0477	
+Unknown	PgPan_0491	
+Unknown	PgPan_0498	
+Unknown	PgPan_0503	
+Unknown	PgPan_0507	
+Unknown	PgPan_0513	
+Unknown	PgPan_0515	
+Unknown	PgPan_0516	
+Unknown	PgPan_0519	
+Unknown	PgPan_0521	
+Unknown	PgPan_0522	
+Unknown	PgPan_0524	
+Unknown	PgPan_0572	
+Unknown	PgPan_0573	
+Unknown	PgPan_0576	
+Unknown	PgPan_0582	
+Unknown	PgPan_0586	
+Unknown	PgPan_0587	
+Unknown	PgPan_0650	
+Unknown	PgPan_0651	
+Unknown	PgPan_0653	
+Unknown	PgPan_0655	
+Unknown	PgPan_0657	
+Unknown	PgPan_0658	
+Unknown	PgPan_0664	
+Unknown	PgPan_0667	
+Unknown	PgPan_0671	
+Unknown	PgPan_0672	
+Unknown	PgPan_0675	
+Unknown	PgPan_0676	
+Unknown	PgPan_0677	
+Unknown	PgPan_0687	
+Unknown	PgPan_0689	
+Unknown	PgPan_0691	
+Unknown	PgPan_0694	
+Unknown	PgPan_0695	
+Unknown	PgPan_0698	
+Unknown	PgPan_0699	
+Unknown	PgPan_0703	
+Unknown	PgPan_0705	
+Unknown	PgPan_0708	
+Unknown	PgPan_0711	
+Unknown	PgPan_0712	
+Unknown	PgPan_0717	
+Unknown	PgPan_0718	
+Unknown	PgPan_0720	
+Unknown	PgPan_0730	
+Unknown	PgPan_0735	
+Unknown	PgPan_0739	
+Unknown	PgPan_0740	
+Unknown	PgPan_0742	
+Unknown	PgPan_0743	
+Unknown	PgPan_0750	
+Unknown	PgPan_0755	
+Unknown	PgPan_0759	
+Unknown	PgPan_0767	
+Unknown	PgPan_0769	
+Unknown	PgPan_0770	
+Unknown	PgPan_0772	
+Unknown	PgPan_0774	
+Unknown	PgPan_0778	
+Unknown	PgPan_0779	
+Unknown	PgPan_0781	
+Unknown	PgPan_0784	
+Unknown	PgPan_0800	
+Unknown	PgPan_0801	
+Unknown	PgPan_0802	
+Unknown	PgPan_0806	
+Unknown	PgPan_0807	
+Unknown	PgPan_0814	
+Unknown	PgPan_0815	
+Unknown	PgPan_0817	
+Unknown	PgPan_0818	
+Unknown	PgPan_0823	
+Unknown	PgPan_0831	
+Unknown	PgPan_0832	
+Unknown	PgPan_0833	
+Unknown	PgPan_0857	
+Unknown	PgPan_0858	
+Unknown	PgPan_0859	
+Unknown	PgPan_0866	
+Unknown	PgPan_0868	
+Unknown	PgPan_0870	
+Unknown	PgPan_0875	
+Unknown	PgPan_0876	
+Unknown	PgPan_0878	
+Unknown	PgPan_0885	
+Unknown	PgPan_0886	
+Unknown	PgPan_0895	
+Unknown	PgPan_0898	
+Unknown	PgPan_0903	
+Unknown	PgPan_0910	
+Unknown	PgPan_0913	
+Unknown	PgPan_0914	
+Unknown	PgPan_0916	
+Unknown	PgPan_0919	
+Unknown	PgPan_0920	
+Unknown	PgPan_0927	
+Unknown	PgPan_0929	
+Unknown	PgPan_0938	
+Unknown	PgPan_0939	
+Unknown	PgPan_0940	
+Unknown	PgPan_0944	
+Unknown	PgPan_0947	
+Unknown	PgPan_0948	
+Unknown	PgPan_0951	
+Unknown	PgPan_0958	
+Unknown	PgPan_0959	
+Unknown	PgPan_0974	
+Unknown	PgPan_0980	
+Unknown	PgPan_0981	
+Unknown	PgPan_0987	
+Unknown	PgPan_0989	
+Unknown	PgPan_0996	
+Unknown	PgPan_1011	
+Unknown	PgPan_1017	
+Unknown	PgPan_1019	
+Unknown	PgPan_1021	
+Unknown	PgPan_1024	
+Unknown	PgPan_1026	
+Unknown	PgPan_1029	
+Unknown	PgPan_1035	
+Unknown	PgPan_1037	
+Unknown	PgPan_1042	
+Unknown	PgPan_1043	
+Unknown	PgPan_1044	
+Unknown	PgPan_1045	
+Unknown	PgPan_1048	
+Unknown	PgPan_1057	
+Unknown	PgPan_1058	
+Unknown	PgPan_1061	
+Unknown	PgPan_1063	
+Unknown	PgPan_1065	
+Unknown	PgPan_1071	
+Unknown	PgPan_1074	
+Unknown	PgPan_1075	
+Unknown	PgPan_1084	
+Unknown	PgPan_1092	
+Unknown	PgPan_1095	
+Unknown	PgPan_1101	
+Unknown	PgPan_1106	
+Unknown	PgPan_1108	
+Unknown	PgPan_1109	
+Unknown	PgPan_1115	
+Unknown	PgPan_1119	
+Unknown	PgPan_1123	
+Unknown	PgPan_1127	
+Unknown	PgPan_1130	
+Unknown	PgPan_1131	
+Unknown	PgPan_1132	
+Unknown	PgPan_1137	
+Unknown	PgPan_1144	
+Unknown	PgPan_1147	
+Unknown	PgPan_1149	
+Unknown	PgPan_1151	
+Unknown	PgPan_1156	
+Unknown	PgPan_1159	
+Unknown	PgPan_1160	
+Unknown	PgPan_1165	
+Unknown	PgPan_1167	
+Unknown	PgPan_1169	
+Unknown	PgPan_1182	
+Unknown	PgPan_1218	
+Unknown	PgPan_1221	
+Unknown	PgPan_1228	
+Unknown	PgPan_1229	
+Unknown	PgPan_1230	
+Unknown	PgPan_1233	
+Unknown	PgPan_1235	
+Unknown	PgPan_1237	
+Unknown	PgPan_1244	
+Unknown	PgPan_1246	
+Unknown	PgPan_1253	
+Unknown	PgPan_1256	
+Unknown	PgPan_1269	
+Unknown	PgPan_1277	
+Unknown	PgPan_1278	
+Unknown	PgPan_1279	
+Unknown	PgPan_1284	
+Unknown	PgPan_1285	
+Unknown	PgPan_1294	
+Unknown	PgPan_1295	
+Unknown	PgPan_1301	
+Unknown	PgPan_1328	
+Unknown	PgPan_1337	
+Unknown	PgPan_1340	
+Unknown	PgPan_1343	
+Unknown	PgPan_1347	
+Unknown	PgPan_1350	
+Unknown	PgPan_1351	
+Unknown	PgPan_1354	
+Unknown	PgPan_1360	
+Unknown	PgPan_1361	
+Unknown	PgPan_1376	
+Unknown	PgPan_1380	
+Unknown	PgPan_1384	
+Unknown	PgPan_1385	
+Unknown	PgPan_1395	
+Unknown	PgPan_1456	
+Unknown	PgPan_1457	
+Unknown	PgPan_1458	
+Unknown	PgPan_1462	
+Unknown	PgPan_1464	
+Unknown	PgPan_1465	
+Unknown	PgPan_1466	
+Unknown	PgPan_1467	
+Unknown	PgPan_1474	
+Unknown	PgPan_1482	
+Unknown	PgPan_1489	
+Unknown	PgPan_1492	
+Unknown	PgPan_1494	
+Unknown	PgPan_1495	
+Unknown	PgPan_1501	
+Unknown	PgPan_1502	
+Unknown	PgPan_1503	
+Unknown	PgPan_1505	
+Unknown	PgPan_1518	
+Unknown	PgPan_1522	
+Unknown	PgPan_1533	
+Unknown	PgPan_1536	
+Unknown	PgPan_1541	
+Unknown	PgPan_1548	
+Unknown	PgPan_1554	
+Unknown	PgPan_1559	
+Unknown	PgPan_1562	
+Unknown	PgPan_1575	
+Unknown	PgPan_1577	
+Unknown	PgPan_1580	
+Unknown	PgPan_1584	
+Unknown	PgPan_1585	
+Unknown	PgPan_1607	
+Unknown	PgPan_1608	
+Unknown	PgPan_1609	
+Unknown	PgPan_1610	
+Unknown	PgPan_1614	
+Unknown	PgPan_1616	
+Unknown	PgPan_1619	
+Unknown	PgPan_1621	
+Unknown	PgPan_1632	
+Unknown	PgPan_1634	
+Unknown	PgPan_1640	
+Unknown	PgPan_1641	
+Unknown	PgPan_1647	
+Unknown	PgPan_1648	
+Unknown	PgPan_1649	
+Unknown	PgPan_1650	
+Unknown	PgPan_1653	
+Unknown	PgPan_1655	
+Unknown	PgPan_1659	
+Unknown	PgPan_1662	
+Unknown	PgPan_1664	
+Unknown	PgPan_1665	
+Unknown	PgPan_1666	
+Unknown	PgPan_1672	
+Unknown	PgPan_1676	
+Unknown	PgPan_1679	
+Unknown	PgPan_1681	
+Unknown	PgPan_1682	
+Unknown	PgPan_1686	
+Unknown	PgPan_1693	
+Unknown	PgPan_1703	
+Unknown	PgPan_1707	
+Unknown	PgPan_1716	
+Unknown	PgPan_1717	
+Unknown	PgPan_1718	
+Unknown	PgPan_1725	
+Unknown	PgPan_1726	
+Unknown	PgPan_1729	
+Unknown	PgPan_1733	
+Unknown	PgPan_1743	
+Unknown	PgPan_1744	
+Unknown	PgPan_1745	
+Unknown	PgPan_1747	
+Unknown	PgPan_1748	
+Unknown	PgPan_1752	
+Unknown	PgPan_1754	
+Unknown	PgPan_1757	
+Unknown	PgPan_1758	
+Unknown	PgPan_1761	
+Unknown	PgPan_1762	
+Unknown	PgPan_1763	
+Unknown	PgPan_1767	
+Unknown	PgPan_1768	
+Unknown	PgPan_1771	
+Unknown	PgPan_1793	
+Unknown	PgPan_1796	
+Unknown	PgPan_1799	
+Unknown	PgPan_1800	
+Unknown	PgPan_1801	
+Unknown	PgPan_1802	
+Unknown	PgPan_1804	
+Unknown	PgPan_1810	
+Unknown	PgPan_1813	
+Unknown	PgPan_1814	
+Unknown	PgPan_1815	
+Unknown	PgPan_1828	
+Unknown	PgPan_1830	
+Unknown	PgPan_1834	
+Unknown	PgPan_1836	
+Unknown	PgPan_1839	
+Unknown	PgPan_1841	
+Unknown	PgPan_1842	
+Unknown	PgPan_1846	
+Unknown	PgPan_1853	
+Unknown	PgPan_1855	
+Unknown	PgPan_1857	
+Unknown	PgPan_1859	
+Unknown	PgPan_1861	
+Unknown	PgPan_1863	
+Unknown	PgPan_1864	
+Unknown	PgPan_1866	
+Unknown	PgPan_1876	
+Unknown	PgPan_1877	
+Unknown	PgPan_1881	
+Unknown	PgPan_1885	
+Unknown	PgPan_1887	
+Unknown	PgPan_1888	
+Unknown	PgPan_1894	
+Unknown	PgPan_1901	
+Unknown	PgPan_1906	
+Unknown	PgPan_1910	
+Unknown	PgPan_1923	
+Unknown	PgPan_1924	
+Unknown	PgPan_1949	
+Unknown	PgPan_2032	
+Unknown	PgPan_2522	
+Unknown	PgPan_3333	
+Virulence2	Virulence	
+Virulence	Gingipain	
+Gingipain	PgPan_0081	
+Gingipain	PgPan_0082	
+Gingipain	PgPan_0083	
+Gingipain	PgPan_0379	
+Gingipain	PgPan_0648	
+Gingipain	PgPan_0783	
+Gingipain	PgPan_1028	
+Gingipain	PgPan_1586	
+Gingipain	PgPan_2177	
+Virulence	Pathogenesis	
+Pathogenesis	PgPan_0336	
+Pathogenesis	PgPan_0376	
+Pathogenesis	PgPan_0745	
+Pathogenesis	PgPan_0746	
+Pathogenesis	PgPan_1076	
+Pathogenesis	PgPan_1161	
+Pathogenesis	PgPan_1753	
+Pathogenesis	PgPan_1844	
+Pathogenesis	PgPan_2019	
