@@ -39,13 +39,11 @@ metadata_file <- read_csv(file = paste(inputversion, "SunburstMetadata.csv", sep
 
 #setsession
 invitro_dataset <- "abscess" #set based on model set you want to analyze
-#reps <- 2 #number of replicates to run at once if subsampling
-#version <- paste("run1.sub", reps, sep = "")
 version <- "run1"
 
-#change list names and filter condition to match dataset you want to analyze
+#change filter parameters to match samples you want to analyze
 human_list <- metadata_file %>% filter(condition == "human") %>% .$filename %>% str_replace_all("-", "_")
-invitro_list <- metadata_file %>% filter(dataset == invitro_dataset) %>% .$filename %>% str_replace_all("-", "_") #adjust filter (currently "dataset") to match correct column of metadata_file
+invitro_list <- metadata_file %>% filter(condition == invitro_dataset) %>% .$filename %>% str_replace_all("-", "_") #adjust filter (currently "condition") to match correct column of metadata_file
 
 #########################################################################################
 #calculate AS2s
