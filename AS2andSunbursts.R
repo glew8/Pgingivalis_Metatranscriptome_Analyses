@@ -39,7 +39,7 @@ metadata_file <- read_csv(file = paste(inputversion, "SunburstMetadata.csv", sep
 
 #setsession
 invitro_dataset <- "abscess" #set based on model set you want to analyze
-version <- "run1"
+outputversion <- "run1"
 
 #change filter parameters to match samples you want to analyze
 human_list <- metadata_file %>% filter(condition == "human") %>% .$filename %>% str_replace_all("-", "_")
@@ -54,14 +54,14 @@ AS_2 <- draw_sunburst_STANDARD_Pg(counts_normalized, TIGR_ann, SunburstInput, hu
 
 #plot sunburst
 #AS_2[[1]] 
-pdf(file = paste(version, invitro_dataset, "AS2sunburst.pdf", sep = "."), width = 8.5, height = 11)
+pdf(file = paste(outputversion, invitro_dataset, "AS2sunburst.pdf", sep = "."), width = 8.5, height = 11)
 AS_2[[1]]
 dev.off()
 
 #output AS2
 penalty_output <- AS_2[[2]]
 AS_2_score <- penalty_output %>% mutate(score_2 = ifelse((penalty > 2 | penalty < -2), 0, 1)) %>% mutate(AS2 = mean(score_2))
-write.table(AS_2_score, paste(version, invitro_dataset, "AS2penalty.txt", sep = "."), sep = "\t", row.names = FALSE) 
+write.table(AS_2_score, paste(outputversion, invitro_dataset, "AS2penalty.txt", sep = "."), sep = "\t", row.names = FALSE) 
 head(AS_2_score)
 
 #########################################################################################
@@ -81,7 +81,7 @@ for(i in 1:length(datasets)) {
 
 
 AS2_bygene <- tail(AS2_bygene, n=-1)
-write.table(AS2_bygene, paste(version, "AS2_bygene_individual.txt", sep = "."), sep = "\t", row.names = FALSE) 
+write.table(AS2_bygene, paste(outputversion, "AS2_bygene_individual.txt", sep = "."), sep = "\t", row.names = FALSE) 
 
 #########################################################################################
 #functions used above, run each
