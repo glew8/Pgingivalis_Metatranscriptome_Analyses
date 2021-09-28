@@ -29,16 +29,14 @@ conditions_list <-  all_tested_samples_list
 #names(final_raw)[1] <- "locus_tag"
 #will then need to noramlize using rlog or VST in DESeq2
 
-#run multiple iterations of AS2 using X samples as the gold-standard and Y samples as the "model." For example, this is currently written to run 2 as the test (and the remaining samples as the gold standard) across 100 iterations.
-#set iterations using c(1:XXX)
-#set number of samples to "leave out" to use as the model in each iteration using model_selfvalidation_leaveout(self_validation, Y)
+#run multiple iterations of AS2 using X samples as the gold-standard and Y samples as the "model." For example, for my 12 human samples, I run 10 as the human "gold-standard" and 2 as the test across 100 iterations.
 #define functions below
-df1_double <- c(1:100) %>% map(function(x) {dummy1 <- model_selfvalidation_leaveout(self_validation, 2)
+df1_double <- c(1:iterations) %>% map(function(x) {dummy1 <- model_selfvalidation_leaveout(self_validation, leaveout)
 dummy1$penalty <- abs(dummy1$penalty)
 names(dummy1)[2] <- paste0("penalty_", x)
 return(dummy1)})  %>% purrr::reduce(left_join)
 
-write.table(df1_double, file = paste(outputversion, "AS2_resampled_100_leaveout2.txt", sep = "_"), sep ="\t")
+write.table(df1_double, file = paste(version, "_resamplingAS2_iterations", iterations, "_leaveout", leaveout, ".txt", sep = ""), sep ="\t")
 #output is penalties (z-scores). In R or excel, calculate AS2 for each iteration then average iterations
 
 #################################################################################################################
