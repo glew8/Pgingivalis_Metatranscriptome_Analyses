@@ -10,3 +10,23 @@ input1.SunburstMetadata.csv: example metadata file. Can add additional columns t
 input1.SunburstCategories.txt: example input to make sunburst graphs using TIGRFAM categories
 
 input1.AnnotationTIGRFAM.txt: example input to make sunburst graphs using TIGRFAM categories
+
+###########################################################################################
+INSTALL the following packages:
+
+use install.packages command in R unless otherwise noted
+
+1. tidyverse (confirm installation of ggplot2, readr, tibble, purrr, dplyr, tidyr)
+2. cowplot
+3. zeallot
+4. ggsunburst: see below
+
+ggsunburst install (This is what worked for me):
+
+install.packages(c("devtools", "reticulate", "reshape2", "rappdirs", "backports"))
+library(devtools)
+install_github("didacs/ggsunburst")
+library(reticulate)
+py_install("six")
+
+###########################################################################################
