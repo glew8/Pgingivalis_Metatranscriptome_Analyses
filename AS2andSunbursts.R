@@ -5,15 +5,8 @@ wd = "C:/Users/Gina/oralMT/Analysis/Pg/"
 setwd(wd)
 
 library(tidyverse)
-#library(DESeq2)
 library(cowplot)
-library(readr)
-library(dplyr)
-library(tidyr)
-library(tibble)
-library(purrr)
 library(ggsunburst)
-library(cowplot)
 library(zeallot)
 
 #input data. 
