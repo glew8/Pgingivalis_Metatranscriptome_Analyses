@@ -28,5 +28,4 @@ library(devtools)
 install_github("didacs/ggsunburst")
 library(reticulate)
 py_install("six")
-
 ###########################################################################################
