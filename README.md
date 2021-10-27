@@ -5,6 +5,7 @@ Scripts to perform:
 2. Mock metatranscriptome analyses (scripts in labeled subfolder)
 
 ################################################################
+
 ACCURACY SCORE SCRIPTS
 
 Scripts to analyze the transcriptional profile of Porphyromonas gingivalis in human metatranscriptomes and laboratory model transcriptomes
@@ -41,6 +42,7 @@ ggsunburst install (This is what worked for me):
 >py_install("six")
 
 ################################################################
+
 MOCK METATRANSCRIPTOME SCRIPTS
 
 Scripts to create a mock metatranscriptome from a set of genomes, and then determine which reads map to a (pan)genome of interest. This is useful for understanding the specificity of your analyses and for determining the minimum read length that will accurately map to an organism of interest.
